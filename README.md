@@ -1,10 +1,20 @@
-# epiotrkow-rss (fixed v2)
+# RSS dla Piotrkow.pl (zbiorczy)
 
-Statyczny kanał RSS generowany z list newsów epiotrkow.pl.
+Automatycznie generowany kanał RSS łączący:
+- Aktualności – Miasto: `https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75`
+- Aktualności – Gospodarka: `https://www.piotrkow.pl/gospodarka-t71/aktualnosci-a107`
+- Aktualności – Kultura i edukacja: `https://www.piotrkow.pl/kultura-i-edukacja-t72/aktualnosci-a108`
+- Aktualności – Sport i turystyka: `https://www.piotrkow.pl/sport-i-turystyka-t73/aktualnosci-a109`
 
-- Zbiera artykuły z `/news/` oraz `/news/wydarzenia-p2 … p20`.
-- Tytuły pobierane z `.tn-title`, `<h5.tn-title>`, alt obrazka itd.
-- Workflow w `.github/workflows/rss.yml` uruchamia `scraper.py` co godzinę (UTC).
-- Wynik to `feed.xml` gotowy do publikacji na GitHub Pages.
+Feed: **`feed.xml`** (generowany co godzinę przez GitHub Actions).
 
-Adres RSS po włączeniu Pages:
+## Jak to działa
+1. `scraper.py` pobiera listy artykułów z ww. stron, odwiedza każdy artykuł, a następnie buduje `feed.xml`.
+2. Workflow z `.github/workflows/rss.yml` uruchamia się co godzinę (lub ręcznie) i:
+   - instaluje zależności z `requirements.txt`,
+   - odpala `scraper.py`,
+   - commituje i pushuje zaktualizowany `feed.xml`.
+
+## Konfiguracja GitHub Pages
+1. Settings → **Pages** → Source: `GitHub Actions` **lub** `Deploy from a branch` (jeśli wolisz).
+2. Docelowy URL feeda będzie zwykle:
