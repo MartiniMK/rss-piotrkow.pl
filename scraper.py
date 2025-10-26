@@ -325,7 +325,7 @@ def build_rss(items: list[dict]) -> str:
     last_build = format_datetime(now)
 
     # atom self-link – zmień tu URL na swój GitHub Pages z repo
-    SELF_LINK = "https://<twoj-login>.github.io/<twoje-repo>/feed.xml"
+    SELF_LINK = "https://martinimk.github.io/rss-piotrkow.pl/feed.xml"
 
     parts = []
     parts.append('<?xml version="1.0" encoding="UTF-8"?>')
