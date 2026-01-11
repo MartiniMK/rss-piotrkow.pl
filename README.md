@@ -1,20 +1,14 @@
-# RSS dla Piotrkow.pl (zbiorczy)
+# piotrkow.pl – RSS (Aktualności)
 
-Automatycznie generowany kanał RSS łączący:
-- Aktualności – Miasto: `https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75`
-- Aktualności – Gospodarka: `https://www.piotrkow.pl/gospodarka-t71/aktualnosci-a107`
-- Aktualności – Kultura i edukacja: `https://www.piotrkow.pl/kultura-i-edukacja-t72/aktualnosci-a108`
-- Aktualności – Sport i turystyka: `https://www.piotrkow.pl/sport-i-turystyka-t73/aktualnosci-a109`
+Repozytorium generuje plik RSS `docs/feed.xml` na podstawie linków z bloku **„Aktualności”** ze strony głównej piotrkow.pl.
+Jest to obejście sytuacji, w której widok listy aktualności (`/nasze-miasto-t70/aktualnosci-a75/...`) nie zwraca już w HTML listy artykułów.
 
-Feed: **`feed.xml`** (generowany co godzinę przez GitHub Actions).
+## Jak uruchomić lokalnie
 
-## Jak to działa
-1. `scraper.py` pobiera listy artykułów z ww. stron, odwiedza każdy artykuł, a następnie buduje `feed.xml`.
-2. Workflow z `.github/workflows/rss.yml` uruchamia się co godzinę (lub ręcznie) i:
-   - instaluje zależności z `requirements.txt`,
-   - odpala `scraper.py`,
-   - commituje i pushuje zaktualizowany `feed.xml`.
+```bash
+python -m venv .venv
+# Windows: .venv\Scripts\activate
+# Linux/Mac: source .venv/bin/activate
 
-## Konfiguracja GitHub Pages
-1. Settings → **Pages** → Source: `GitHub Actions` **lub** `Deploy from a branch` (jeśli wolisz).
-2. Docelowy URL feeda będzie zwykle:
+pip install -r requirements.txt
+python src/generate_feed.py --out docs/feed.xml --max-items 30
