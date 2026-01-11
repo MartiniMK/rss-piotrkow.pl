@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss version="2.0">
   <channel>
-    <title>Piotrkow.pl – Zbiorczy RSS</title>
-    <link>https://www.piotrkow.pl/</link>
-    <description>Automatyczny agregat: Aktualności (Miasto, Gospodarka, Kultura, Sport)</description>
-    <atom:link rel="self" type="application/rss+xml" href="https://example.github.io/your-repo/feed.xml"/>
-    <language>pl-PL</language>
-    <lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
-    <ttl>60</ttl>
+    <title>Piotrków Trybunalski – Aktualności (piotrkow.pl)</title>
+    <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/</link>
+    <description>Feed wygeneruje się automatycznie w GitHub Actions.</description>
   </channel>
 </rss>
+
