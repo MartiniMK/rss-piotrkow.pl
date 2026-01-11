@@ -1,14 +1,13 @@
-name: Build RSS (piotrkow.pl)
+name: Build RSS feed
 
 on:
   workflow_dispatch:
   schedule:
-    # co godzinę
-    - cron: "0 * * * *"
+    # co 2 godziny
+    - cron: "17 */2 * * *"
 
-concurrency:
-  group: build-rss-piotrkow
-  cancel-in-progress: false
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -16,9 +15,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -30,32 +26,18 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run scraper
+      - name: Generate feed
         run: |
-          python scraper.py
+          python src/generate_feed.py --out docs/feed.xml --max-items 30
 
-      - name: Show feed head
-        run: |
-          head -n 40 feed.xml || true
-
-      - name: Configure git
+      - name: Commit & push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Pull (rebase) in case of concurrent pushes
-        run: |
-          git pull --rebase origin ${{ github.ref_name }} || true
-
-      - name: Commit feed
-        run: |
-          git add feed.xml
+          git add docs/feed.xml
           if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "Update feed.xml [skip ci]"
+            echo "No changes."
+            exit 0
           fi
-
-      - name: Push
-        run: |
-          git push origin HEAD:${{ github.ref_name }} || true
+          git commit -m "Update RSS feed"
+          git push
