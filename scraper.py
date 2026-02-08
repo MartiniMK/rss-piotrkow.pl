@@ -1,286 +1,247 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import argparse
-import html
-import os
 import re
+import hashlib
 from datetime import datetime, timezone
-from email.utils import format_datetime
-from typing import List, Optional, Tuple
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
-from dateutil import tz
+from feedgen.feed import FeedGenerator
 
 
-BASE_URL = "https://www.piotrkow.pl"
-HOMEPAGE_URL = "https://www.piotrkow.pl"
-NEWS_PATH_FRAGMENT = "/nasze-miasto-t70/aktualnosci-a75/"
-USER_AGENT = "piotrkowpl-rssbot/1.0 (+https://github.com/; contact: you@example.com)"
+LIST_URL = "https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75"
+SITE_ROOT = "https://www.piotrkow.pl"
+OUT_FILE = "feed.xml"
+
+MAX_ITEMS = 50
+TIMEOUT = 25
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; RSSBot/1.0; +https://github.com/)",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+}
+
+# Link do artykułu na piotrkow.pl zwykle kończy się "-r1234"
+ARTICLE_PATH_RE = re.compile(r"^/nasze-miasto-t70/aktualnosci-a75/.*-r\d+$", re.IGNORECASE)
 
 
-def get_session() -> requests.Session:
-    s = requests.Session()
-    s.headers.update({
-        "User-Agent": USER_AGENT,
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "pl-PL,pl;q=0.9,en;q=0.7",
-        "Cache-Control": "no-cache",
-        "Pragma": "no-cache",
-    })
-    return s
-
-
-def fetch_html(session: requests.Session, url: str, timeout: int = 30) -> str:
-    r = session.get(url, timeout=timeout)
+def http_get(url: str) -> str:
+    r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
     r.raise_for_status()
     return r.text
 
 
-def is_valid_article_url(u: str) -> bool:
-    # Akceptujemy URL-e z aktualnościami; zwykle mają końcówkę -rNNNN
-    if NEWS_PATH_FRAGMENT not in u:
-        return False
-    # odfiltruj PDF-y i inne akcje
-    if u.lower().endswith(".pdf"):
-        return False
-    # Heurystyka: artykuły zwykle mają "-r" z numerem na końcu
-    if re.search(r"-r\d+/?$", u):
-        return True
-    # fallback: jeśli jest w ścieżce aktualności i nie jest katalogiem
-    parsed = urlparse(u)
-    if parsed.path.startswith(NEWS_PATH_FRAGMENT) and len(parsed.path.strip("/").split("/")) >= 4:
-        return True
-    return False
+def norm_ws(text: str) -> str:
+    return re.sub(r"\s+", " ", (text or "")).strip()
 
 
-def extract_article_links_from_homepage(home_html: str, limit: int = 30) -> List[str]:
-    soup = BeautifulSoup(home_html, "lxml")
-
-    links = []
-    for a in soup.select("a[href]"):
-        href = a.get("href", "").strip()
-        if not href:
-            continue
-        abs_url = urljoin(BASE_URL, href)
-        if is_valid_article_url(abs_url):
-            links.append(abs_url)
-
-    # unikalne, zachowując kolejność
-    seen = set()
-    uniq = []
-    for u in links:
-        if u in seen:
-            continue
-        seen.add(u)
-        uniq.append(u)
-
-    return uniq[:limit]
+def parse_date_dd_mm_yyyy(s: str) -> datetime | None:
+    s = norm_ws(s)
+    m = re.match(r"^(\d{2})-(\d{2})-(\d{4})$", s)
+    if not m:
+        return None
+    dd, mm, yyyy = map(int, m.groups())
+    # bez godziny -> stabilnie: południe UTC
+    return datetime(yyyy, mm, dd, 12, 0, 0, tzinfo=timezone.utc)
 
 
-def pick_first(soup: BeautifulSoup, selectors: List[str]):
-    for sel in selectors:
-        node = soup.select_one(sel)
-        if node:
-            return node
+def stable_id(url: str) -> str:
+    return hashlib.sha256(url.encode("utf-8")).hexdigest()
+
+
+def pick_meta_description(soup: BeautifulSoup) -> str:
+    for sel in [
+        ('meta', {"property": "og:description"}),
+        ('meta', {"name": "description"}),
+    ]:
+        tag = soup.find(sel[0], sel[1])
+        if tag and tag.get("content"):
+            val = norm_ws(tag["content"])
+            if val:
+                return val
+    return ""
+
+
+def pick_article_title(soup: BeautifulSoup) -> str:
+    h1 = soup.find("h1")
+    if h1:
+        t = norm_ws(h1.get_text(" "))
+        if t:
+            return t
+    if soup.title:
+        return norm_ws(soup.title.get_text(" "))
+    return ""
+
+
+def pick_article_date(soup: BeautifulSoup) -> datetime | None:
+    # szukamy pierwszego wystąpienia daty w formacie dd-mm-rrrr
+    text = soup.get_text("\n")
+    m = re.search(r"\b(\d{2}-\d{2}-\d{4})\b", text)
+    if m:
+        return parse_date_dd_mm_yyyy(m.group(1))
     return None
 
 
-def parse_date_from_text(text: str) -> Optional[datetime]:
-    """
-    Na piotrkow.pl data często jest w formacie dd-mm-YYYY (np. 09-01-2026).
-    Czasu zwykle brak, więc ustawiamy 00:00 w strefie PL.
-    """
-    m = re.search(r"\b(\d{2})-(\d{2})-(\d{4})\b", text)
-    if not m:
-        return None
-    dd, mm, yyyy = m.group(1), m.group(2), m.group(3)
-    try:
-        dt_naive = datetime(int(yyyy), int(mm), int(dd), 0, 0, 0)
-    except ValueError:
-        return None
-    pl_tz = tz.gettz("Europe/Warsaw")
-    dt_local = dt_naive.replace(tzinfo=pl_tz)
-    return dt_local
+def pick_article_lead(soup: BeautifulSoup) -> str:
+    meta = pick_meta_description(soup)
+    if meta:
+        return meta
+
+    for p in soup.find_all("p"):
+        txt = norm_ws(p.get_text(" "))
+        if len(txt) >= 60:
+            return txt
+    return ""
 
 
-def clean_content_node(node):
-    # usuń śmieci: skrypty, style, formularze (captcha), przyciski, menu itd.
-    for sel in ["script", "style", "noscript", "form", "nav", "aside"]:
-        for x in node.select(sel):
-            x.decompose()
+def list_from_listing(html: str) -> list[dict]:
+    soup = BeautifulSoup(html, "lxml")
 
-    # często na stronach są sekcje typu "zgłoś błąd / wyślij / drukuj" — wycinamy po klasach/tekstach
-    # (robimy delikatnie: szukamy kontenerów z linkami pdf/drukuj/wyślij)
-    for x in node.find_all(["a", "div", "span", "p", "li"]):
-        t = (x.get_text(" ", strip=True) or "").lower()
-        if t in {"zgłoś błąd", "wyślij", "drukuj", "pdf"}:
-            # usuń rodzica jeśli to mały bloczek akcji
-            parent = x.parent
-            if parent and parent.name in {"div", "ul", "p"}:
-                parent.decompose()
+    # 1) zbierz linki do artykułów
+    links = []
+    seen_url = set()
+    for a in soup.find_all("a", href=True):
+        href = a["href"].strip()
+        if ARTICLE_PATH_RE.match(href):
+            url = urljoin(SITE_ROOT, href)
+            if url in seen_url:
+                continue
+            seen_url.add(url)
+            links.append({"url": url, "title_hint": norm_ws(a.get_text(" "))})
 
-    return node
+    # 2) heurystyka: h2 jako tytuły + data tuż przed + lead tuż po
+    items = []
+    seen = set()
 
+    for h2 in soup.find_all("h2"):
+        title = norm_ws(h2.get_text(" "))
+        if not title:
+            continue
 
-def node_to_html_fragment(node) -> str:
-    # Upewniamy się, że obrazki mają absolutne URL-e
-    for img in node.select("img[src]"):
-        img["src"] = urljoin(BASE_URL, img["src"])
-    for a in node.select("a[href]"):
-        a["href"] = urljoin(BASE_URL, a["href"])
+        # data zwykle przed nagłówkiem
+        published = None
+        prev = h2
+        for _ in range(8):
+            prev = prev.find_previous(string=True)
+            if not prev:
+                break
+            d = parse_date_dd_mm_yyyy(norm_ws(str(prev)))
+            if d:
+                published = d
+                break
 
-    frag = str(node)
-    return frag
+        # lead zwykle pierwszy <p> po h2
+        summary = ""
+        nxt = h2
+        for _ in range(10):
+            nxt = nxt.find_next()
+            if not nxt:
+                break
+            if nxt.name in ("h2", "h1"):
+                break
+            if nxt.name == "p":
+                summary = norm_ws(nxt.get_text(" "))
+                if summary:
+                    break
 
+        # dopasuj URL najlepiej po identycznym tytule z linku
+        url = ""
+        for lk in links:
+            if lk["title_hint"] and lk["title_hint"] == title:
+                url = lk["url"]
+                break
+        if not url:
+            a = h2.find("a", href=True)
+            if a and ARTICLE_PATH_RE.match(a["href"].strip()):
+                url = urljoin(SITE_ROOT, a["href"].strip())
 
-def parse_article(session: requests.Session, url: str) -> Tuple[str, datetime, str, Optional[str]]:
-    """
-    Zwraca: (title, pubdate, content_html, first_image_url)
-    """
-    html_text = fetch_html(session, url)
-    soup = BeautifulSoup(html_text, "lxml")
+        if url and url not in seen:
+            seen.add(url)
+            items.append({
+                "url": url,
+                "title": title,
+                "published": published,
+                "summary": summary,
+            })
 
-    title_node = pick_first(soup, ["h1", "meta[property='og:title']"])
-    if title_node is None:
-        title = url
-    else:
-        if title_node.name == "meta":
-            title = title_node.get("content", "").strip() or url
-        else:
-            title = title_node.get_text(" ", strip=True) or url
+    # 3) fallback: jeśli nie złapaliśmy h2, weź same linki
+    if not items and links:
+        for lk in links:
+            items.append({
+                "url": lk["url"],
+                "title": lk["title_hint"] or lk["url"],
+                "published": None,
+                "summary": "",
+            })
 
-    # data: próbujemy z elementów typowych, a jak nie to regexem z tekstu okolicy nagłówka
-    date_node = pick_first(soup, [".news-inside-date", ".date", "time", "meta[property='article:published_time']"])
-    pub_dt = None
-    if date_node:
-        if date_node.name == "meta":
-            # ISO czasem bywa w og:title/published_time
-            content = date_node.get("content", "").strip()
-            try:
-                # spróbuj ISO
-                pub_dt = datetime.fromisoformat(content.replace("Z", "+00:00"))
-            except Exception:
-                pub_dt = parse_date_from_text(content)
-        else:
-            pub_dt = parse_date_from_text(date_node.get_text(" ", strip=True))
-
-    if pub_dt is None:
-        # fallback: szukamy dd-mm-YYYY w całym dokumencie (ale to ryzyko, więc ograniczamy do okolicy body)
-        pub_dt = parse_date_from_text(soup.get_text("\n", strip=True))
-
-    if pub_dt is None:
-        # ostateczność: teraz
-        pub_dt = datetime.now(tz.gettz("Europe/Warsaw"))
-
-    # treść artykułu: kilka popularnych kontenerów + fallback na main
-    content_node = pick_first(soup, [
-        ".news-inside-content",
-        ".news-inside-text",
-        ".article-content",
-        "article",
-        "main",
-        "#content",
-    ])
-    if content_node is None:
-        content_node = soup.body or soup
-
-    content_node = clean_content_node(content_node)
-
-    # wyciągnij pierwsze zdjęcie z treści (opcjonalnie do <enclosure> / og:image)
-    first_img = None
-    img = content_node.select_one("img[src]")
-    if img:
-        first_img = urljoin(BASE_URL, img.get("src"))
-
-    content_html = node_to_html_fragment(content_node)
-
-    return title, pub_dt, content_html, first_img
+    return items[:MAX_ITEMS]
 
 
-def build_rss(
-    items: List[Tuple[str, str, datetime, str, Optional[str]]],
-    feed_title: str,
-    feed_link: str,
-    feed_description: str,
-) -> str:
+def build_feed(items: list[dict]) -> bytes:
+    fg = FeedGenerator()
+    fg.title("Piotrków Trybunalski — Nasze miasto / Aktualności")
+    fg.link(href=LIST_URL, rel="alternate")
+    fg.description("RSS wygenerowany automatycznie z piotrkow.pl (Nasze miasto → Aktualności).")
+    fg.language("pl")
+    fg.generator("GitHub Actions + Python (feedgen)")
+
     now = datetime.now(timezone.utc)
+    fg.lastBuildDate(now)
 
-    # RSS 2.0
-    parts = []
-    parts.append('<?xml version="1.0" encoding="UTF-8"?>')
-    parts.append('<rss version="2.0">')
-    parts.append("<channel>")
-    parts.append(f"<title>{html.escape(feed_title)}</title>")
-    parts.append(f"<link>{html.escape(feed_link)}</link>")
-    parts.append(f"<description>{html.escape(feed_description)}</description>")
-    parts.append(f"<lastBuildDate>{format_datetime(now)}</lastBuildDate>")
+    # sortuj po dacie malejąco (brak daty na dół)
+    def key(it):
+        return it.get("published") or datetime(1970, 1, 1, tzinfo=timezone.utc)
 
-    for title, link, pub_dt, content_html, first_img in items:
-        # RSS pubDate najlepiej w RFC2822 i w UTC
-        pub_dt_utc = pub_dt.astimezone(timezone.utc)
+    for it in sorted(items, key=key, reverse=True):
+        url = it["url"]
+        title = it.get("title") or ""
+        published = it.get("published")
+        summary = it.get("summary") or ""
 
-        parts.append("<item>")
-        parts.append(f"<title>{html.escape(title)}</title>")
-        parts.append(f"<link>{html.escape(link)}</link>")
-        parts.append(f"<guid isPermaLink=\"true\">{html.escape(link)}</guid>")
-        parts.append(f"<pubDate>{format_datetime(pub_dt_utc)}</pubDate>")
+        # jeśli braki, dociągnij z artykułu
+        if not published or not summary or len(summary) < 40 or not title:
+            try:
+                art_html = http_get(url)
+                art = BeautifulSoup(art_html, "lxml")
+                if not title:
+                    title = pick_article_title(art) or title
+                if not published:
+                    published = pick_article_date(art) or published
+                if not summary or len(summary) < 40:
+                    summary = pick_article_lead(art) or summary
+            except Exception:
+                # feed ma się wygenerować mimo pojedynczych błędów
+                pass
 
-        # description: CDATA
-        # Uwaga: content_html bywa duży — to normalne dla RSS; czytnik i tak sobie skróci.
-        parts.append("<description><![CDATA[")
-        parts.append(content_html)
-        parts.append("]]></description>")
+        if not title:
+            title = url
 
-        # opcjonalne: enclosure z obrazkiem (jeśli czytnik wspiera)
-        if first_img:
-            parts.append(f'<enclosure url="{html.escape(first_img)}" type="image/jpeg" />')
+        fe = fg.add_entry()
+        fe.id(stable_id(url))
+        fe.title(title)
+        fe.link(href=url)
+        if published:
+            fe.published(published)
+            fe.updated(published)
+        else:
+            fe.updated(now)
+        fe.description(summary or title)
 
-        parts.append("</item>")
-
-    parts.append("</channel>")
-    parts.append("</rss>")
-    return "\n".join(parts)
+    return fg.rss_str(pretty=True)
 
 
 def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--out", default="docs/feed.xml", help="Output RSS path (default: docs/feed.xml)")
-    ap.add_argument("--max-items", type=int, default=30, help="Max items in feed (default: 30)")
-    args = ap.parse_args()
+    html = http_get(LIST_URL)
+    items = list_from_listing(html)
+    if not items:
+        raise RuntimeError("Nie udało się wyciągnąć żadnych pozycji z listingu.")
 
-    session = get_session()
+    rss_bytes = build_feed(items)
+    with open(OUT_FILE, "wb") as f:
+        f.write(rss_bytes)
 
-    home_html = fetch_html(session, HOMEPAGE_URL)
-    article_urls = extract_article_links_from_homepage(home_html, limit=args.max_items)
-
-    items = []
-    for url in article_urls:
-        try:
-            title, pub_dt, content_html, first_img = parse_article(session, url)
-            items.append((title, url, pub_dt, content_html, first_img))
-        except Exception as e:
-            # nie przerywamy całego feeda przez 1 artykuł
-            print(f"[WARN] Failed to parse {url}: {e}")
-
-    # sortuj po dacie malejąco
-    items.sort(key=lambda x: x[2], reverse=True)
-
-    rss = build_rss(
-        items=items[: args.max_items],
-        feed_title="Piotrków Trybunalski – Aktualności (piotrkow.pl)",
-        feed_link=BASE_URL + NEWS_PATH_FRAGMENT,
-        feed_description="Kanał RSS generowany z piotrkow.pl (blok 'Aktualności' ze strony głównej).",
-    )
-
-    out_path = args.out
-    os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    with open(out_path, "w", encoding="utf-8") as f:
-        f.write(rss)
-
-    print(f"[OK] Wrote {out_path} with {len(items[: args.max_items])} items.")
+    print(f"OK: wrote {OUT_FILE}, entries={len(items)}")
 
 
 if __name__ == "__main__":
