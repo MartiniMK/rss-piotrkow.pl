@@ -1,9 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Piotrków Trybunalski – Aktualności (piotrkow.pl)</title>
-    <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/</link>
-    <description>Feed wygeneruje się automatycznie w GitHub Actions.</description>
+    <title>Piotrków Trybunalski — Nasze miasto / Aktualności</title>
+    <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75</link>
+    <description>RSS generowany automatycznie z piotrkow.pl.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>GitHub Actions + Python (feedgen)</generator>
+    <language>pl</language>
+    <lastBuildDate>Sun, 08 Feb 2026 08:50:53 +0000</lastBuildDate>
+    <item>
+      <title>Awaria portalu miejskiego</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
+      <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Finał WOŚP 2026 za nami! Na koncie pierwsza rekordowa kwota!</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/final-wosp-2026-za-nami-na-koncie-pierwsza-rekordowa-kwota-r3775</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">f093f6e72874533faa6d004cdf9bc4a866bb657c4c199b2e73aed7c0aa667fb9</guid>
+      <pubDate>Mon, 26 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Przedszkole Samorządowe nr 26 z certyfikatem promocji zdrowia</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/przedszkole-samorzadowe-nr-26-z-certyfikatem-promocji-zdrowia-r3769</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">dce7d70e10d12721bd5ba7845eabca378259e9b3f9364f29287c5e69e31b6337</guid>
+      <pubDate>Tue, 27 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Piotrków w wojewódzkim finale Akademii Bezpieczeństwa</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkow-w-wojewodzkim-finale-akademii-bezpieczenstwa-r3780</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">433d37f89c486e20e4c983bddbd3f5a7065e3a77229d8a4bdf01c3ac70ca15f9</guid>
+      <pubDate>Tue, 27 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AKTUALIZACJA: czasowe zamknięcie przejazdu kolejowego w ciągu ul. Granicznej</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/aktualizacja-czasowe-zamkniecie-przejazdu-kolejowego-w-ciagu-ul.-granicznej-r3784</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">8725933870b7d456b9f92a45cae90580e6b29e1c8593c84a36819223a939b8a2</guid>
+      <pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Co zrobić z choinką po świętach?</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/co-zrobic-z-choinka-po-swietach-r3788</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">d1422e2f565ea88359a7aaca4d81961c092b97d85b5e686987a3110d48f7eb27</guid>
+      <pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>O bezpieczeństwie nie tylko w czasie ferii – uczniowie z wizytą w urzędzie</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/o-bezpieczenstwie-nie-tylko-w-czasie-ferii-uczniowie-z-wizyta-w-urzedzie-r3789</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">ed9b17b50848fb684c31bf7e145c50a1c7a8c6f172730a360ee4b62346f4bcbb</guid>
+      <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stowarzyszenie Panaceum poprowadzi schronisko dla osób bezdomnych</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/stowarzyszenie-panaceum-poprowadzi-schronisko-dla-osob-bezdomnych-r3794</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">5d44c8b01ac228491904c803067f8807422f048db5e878aa4ba3218bc9c2d7c6</guid>
+      <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jak pomagać zwierzętom zimą?</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/jak-pomagac-zwierzetom-zima-r3795</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">688f8018cc55f0f7c5de492515a794165cbb685034702e183aba91ec0b3b7e53</guid>
+      <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Piotrków jako inspiracja – spotkanie autorskie z Agnieszką Kulbat</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkow-jako-inspiracja-spotkanie-autorskie-z-agnieszka-kulbat-r3797</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">1fbd691ca744f2c2a236801255620949de062279061ce53ef46f0418d09fc1a5</guid>
+      <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Milionowe dofinansowanie na usługi opiekuńcze</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/milionowe-dofinansowanie-na-uslugi-opiekuncze-r3799</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">321b70d8c3b8605f8c1c81594f258eb591415313c343507d2cee4055a62fa05c</guid>
+      <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>
-
