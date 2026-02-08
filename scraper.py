@@ -4,7 +4,7 @@
 import re
 import hashlib
 from datetime import datetime, timezone
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -15,19 +15,26 @@ LIST_URL = "https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75"
 SITE_ROOT = "https://www.piotrkow.pl"
 OUT_FILE = "feed.xml"
 
-MAX_ITEMS = 50
-TIMEOUT = 25
+MAX_ITEMS = 40           # ile wpisów w RSS
+FETCH_ARTICLES = 40      # ile artykułów pobieramy z listy (zwykle tyle samo co MAX_ITEMS)
+TIMEOUT = 30
+
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; RSSBot/1.0; +https://github.com/)",
+    "User-Agent": "Mozilla/5.0 (compatible; RSSBot/1.1; +https://github.com/)",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
 
-# Link do artykułu na piotrkow.pl zwykle kończy się "-r1234"
-ARTICLE_PATH_RE = re.compile(r"^/nasze-miasto-t70/aktualnosci-a75/.*-r\d+$", re.IGNORECASE)
+# Artykuły mają końcówkę: -rXXXX
+ART_R_RE = re.compile(r"-r\d+\b", re.IGNORECASE)
+
+# Chcemy tylko artykuły z tej sekcji
+SECTION_RE = re.compile(r"/nasze-miasto-t70/aktualnosci-a75/", re.IGNORECASE)
+
+DATE_RE = re.compile(r"\b(\d{2}-\d{2}-\d{4})\b")
 
 
 def http_get(url: str) -> str:
-    r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+    r = requests.get(url, headers=HEADERS, timeout=TIMEOUT, allow_redirects=True)
     r.raise_for_status()
     return r.text
 
@@ -36,13 +43,13 @@ def norm_ws(text: str) -> str:
     return re.sub(r"\s+", " ", (text or "")).strip()
 
 
-def parse_date_dd_mm_yyyy(s: str) -> datetime | None:
+def parse_date_dd_mm_yyyy(s: str):
     s = norm_ws(s)
     m = re.match(r"^(\d{2})-(\d{2})-(\d{4})$", s)
     if not m:
         return None
     dd, mm, yyyy = map(int, m.groups())
-    # bez godziny -> stabilnie: południe UTC
+    # bez godziny -> stabilnie południe UTC
     return datetime(yyyy, mm, dd, 12, 0, 0, tzinfo=timezone.utc)
 
 
@@ -50,199 +57,144 @@ def stable_id(url: str) -> str:
     return hashlib.sha256(url.encode("utf-8")).hexdigest()
 
 
-def pick_meta_description(soup: BeautifulSoup) -> str:
-    for sel in [
-        ('meta', {"property": "og:description"}),
-        ('meta', {"name": "description"}),
-    ]:
-        tag = soup.find(sel[0], sel[1])
+def pick_meta(soup: BeautifulSoup, name=None, prop=None) -> str:
+    if prop:
+        tag = soup.find("meta", attrs={"property": prop})
         if tag and tag.get("content"):
-            val = norm_ws(tag["content"])
-            if val:
-                return val
+            return norm_ws(tag["content"])
+    if name:
+        tag = soup.find("meta", attrs={"name": name})
+        if tag and tag.get("content"):
+            return norm_ws(tag["content"])
     return ""
 
 
-def pick_article_title(soup: BeautifulSoup) -> str:
-    h1 = soup.find("h1")
-    if h1:
-        t = norm_ws(h1.get_text(" "))
-        if t:
-            return t
-    if soup.title:
-        return norm_ws(soup.title.get_text(" "))
-    return ""
-
-
-def pick_article_date(soup: BeautifulSoup) -> datetime | None:
-    # szukamy pierwszego wystąpienia daty w formacie dd-mm-rrrr
-    text = soup.get_text("\n")
-    m = re.search(r"\b(\d{2}-\d{2}-\d{4})\b", text)
-    if m:
-        return parse_date_dd_mm_yyyy(m.group(1))
-    return None
-
-
-def pick_article_lead(soup: BeautifulSoup) -> str:
-    meta = pick_meta_description(soup)
-    if meta:
-        return meta
-
-    for p in soup.find_all("p"):
-        txt = norm_ws(p.get_text(" "))
-        if len(txt) >= 60:
-            return txt
-    return ""
-
-
-def list_from_listing(html: str) -> list[dict]:
+def extract_article(url: str) -> dict:
+    """Wyciąga tytuł, datę i lead z podstrony artykułu."""
+    html = http_get(url)
     soup = BeautifulSoup(html, "lxml")
 
-    # 1) zbierz linki do artykułów
-    links = []
-    seen_url = set()
-    for a in soup.find_all("a", href=True):
-        href = a["href"].strip()
-        if ARTICLE_PATH_RE.match(href):
-            url = urljoin(SITE_ROOT, href)
-            if url in seen_url:
-                continue
-            seen_url.add(url)
-            links.append({"url": url, "title_hint": norm_ws(a.get_text(" "))})
+    # tytuł
+    title = ""
+    h1 = soup.find("h1")
+    if h1:
+        title = norm_ws(h1.get_text(" "))
+    if not title and soup.title:
+        title = norm_ws(soup.title.get_text(" "))
 
-    # 2) heurystyka: h2 jako tytuły + data tuż przed + lead tuż po
-    items = []
+    # data (pierwsze wystąpienie dd-mm-rrrr w tekście strony)
+    published = None
+    txt = soup.get_text("\n")
+    m = DATE_RE.search(txt)
+    if m:
+        published = parse_date_dd_mm_yyyy(m.group(1))
+
+    # lead: preferuj meta description / og:description
+    lead = pick_meta(soup, prop="og:description") or pick_meta(soup, name="description")
+
+    # fallback: pierwszy sensowny <p>
+    if not lead or len(lead) < 40:
+        for p in soup.find_all("p"):
+            ptxt = norm_ws(p.get_text(" "))
+            if len(ptxt) >= 60:
+                lead = ptxt
+                break
+
+    return {
+        "url": url,
+        "title": title or url,
+        "published": published,
+        "summary": lead or (title or url),
+    }
+
+
+def extract_listing_urls(list_html: str) -> list[str]:
+    """
+    Z listingu wyciąga URL-e artykułów:
+    - link musi zawierać '/nasze-miasto-t70/aktualnosci-a75/'
+    - i końcówkę '-rXXXX'
+    """
+    soup = BeautifulSoup(list_html, "lxml")
+
+    urls = []
     seen = set()
 
-    for h2 in soup.find_all("h2"):
-        title = norm_ws(h2.get_text(" "))
-        if not title:
+    for a in soup.find_all("a", href=True):
+        href = a["href"].strip()
+        if not href:
             continue
 
-        # data zwykle przed nagłówkiem
-        published = None
-        prev = h2
-        for _ in range(8):
-            prev = prev.find_previous(string=True)
-            if not prev:
-                break
-            d = parse_date_dd_mm_yyyy(norm_ws(str(prev)))
-            if d:
-                published = d
-                break
+        full = urljoin(SITE_ROOT, href)
 
-        # lead zwykle pierwszy <p> po h2
-        summary = ""
-        nxt = h2
-        for _ in range(10):
-            nxt = nxt.find_next()
-            if not nxt:
-                break
-            if nxt.name in ("h2", "h1"):
-                break
-            if nxt.name == "p":
-                summary = norm_ws(nxt.get_text(" "))
-                if summary:
-                    break
+        # filtr domeny
+        host = urlparse(full).netloc.lower()
+        if "piotrkow.pl" not in host:
+            continue
 
-        # dopasuj URL najlepiej po identycznym tytule z linku
-        url = ""
-        for lk in links:
-            if lk["title_hint"] and lk["title_hint"] == title:
-                url = lk["url"]
-                break
-        if not url:
-            a = h2.find("a", href=True)
-            if a and ARTICLE_PATH_RE.match(a["href"].strip()):
-                url = urljoin(SITE_ROOT, a["href"].strip())
+        # filtr sekcji i końcówki -rXXXX
+        if not SECTION_RE.search(full):
+            continue
+        if not ART_R_RE.search(full):
+            continue
 
-        if url and url not in seen:
-            seen.add(url)
-            items.append({
-                "url": url,
-                "title": title,
-                "published": published,
-                "summary": summary,
-            })
+        if full not in seen:
+            seen.add(full)
+            urls.append(full)
 
-    # 3) fallback: jeśli nie złapaliśmy h2, weź same linki
-    if not items and links:
-        for lk in links:
-            items.append({
-                "url": lk["url"],
-                "title": lk["title_hint"] or lk["url"],
-                "published": None,
-                "summary": "",
-            })
-
-    return items[:MAX_ITEMS]
+    return urls
 
 
-def build_feed(items: list[dict]) -> bytes:
+def build_feed(entries: list[dict]) -> bytes:
     fg = FeedGenerator()
     fg.title("Piotrków Trybunalski — Nasze miasto / Aktualności")
     fg.link(href=LIST_URL, rel="alternate")
-    fg.description("RSS wygenerowany automatycznie z piotrkow.pl (Nasze miasto → Aktualności).")
+    fg.description("RSS generowany automatycznie z piotrkow.pl (Nasze miasto → Aktualności).")
     fg.language("pl")
     fg.generator("GitHub Actions + Python (feedgen)")
 
     now = datetime.now(timezone.utc)
     fg.lastBuildDate(now)
 
-    # sortuj po dacie malejąco (brak daty na dół)
-    def key(it):
-        return it.get("published") or datetime(1970, 1, 1, tzinfo=timezone.utc)
+    def sort_key(e):
+        return e.get("published") or datetime(1970, 1, 1, tzinfo=timezone.utc)
 
-    for it in sorted(items, key=key, reverse=True):
-        url = it["url"]
-        title = it.get("title") or ""
-        published = it.get("published")
-        summary = it.get("summary") or ""
-
-        # jeśli braki, dociągnij z artykułu
-        if not published or not summary or len(summary) < 40 or not title:
-            try:
-                art_html = http_get(url)
-                art = BeautifulSoup(art_html, "lxml")
-                if not title:
-                    title = pick_article_title(art) or title
-                if not published:
-                    published = pick_article_date(art) or published
-                if not summary or len(summary) < 40:
-                    summary = pick_article_lead(art) or summary
-            except Exception:
-                # feed ma się wygenerować mimo pojedynczych błędów
-                pass
-
-        if not title:
-            title = url
-
+    for e in sorted(entries, key=sort_key, reverse=True)[:MAX_ITEMS]:
         fe = fg.add_entry()
-        fe.id(stable_id(url))
-        fe.title(title)
-        fe.link(href=url)
-        if published:
-            fe.published(published)
-            fe.updated(published)
+        fe.id(stable_id(e["url"]))
+        fe.title(e["title"])
+        fe.link(href=e["url"])
+        if e.get("published"):
+            fe.published(e["published"])
+            fe.updated(e["published"])
         else:
             fe.updated(now)
-        fe.description(summary or title)
+        fe.description(e.get("summary") or e["title"])
 
     return fg.rss_str(pretty=True)
 
 
 def main():
-    html = http_get(LIST_URL)
-    items = list_from_listing(html)
-    if not items:
-        raise RuntimeError("Nie udało się wyciągnąć żadnych pozycji z listingu.")
+    list_html = http_get(LIST_URL)
+    urls = extract_listing_urls(list_html)
 
-    rss_bytes = build_feed(items)
-    with open(OUT_FILE, "wb") as f:
-        f.write(rss_bytes)
+    if not urls:
+        # debug: wypisz pierwsze 20 hrefów (ułatwia diagnozę w Actions)
+        soup = BeautifulSoup(list_html, "lxml")
+        hrefs = [a.get("href", "") for a in soup.find_all("a", href=True)][:20]
+        raise RuntimeError(
+            "Nie udało się wyciągnąć żadnych linków artykułów z listingu. "
+            f"Przykładowe hrefy: {hrefs}"
+        )
 
-    print(f"OK: wrote {OUT_FILE}, entries={len(items)}")
+    urls = urls[:FETCH_ARTICLES]
 
+    entries = []
+    for u in urls:
+        try:
+            entries.append(extract_article(u))
+        except Exception as ex:
+            # nie wywalaj całego feeda, pomiń pojedynczy wpis
+            print(f"[WARN] {u}: {ex}")
 
-if __name__ == "__main__":
-    main()
+    if not entries:
+        raise RuntimeError("Wyciągnięto URL-e, ale nie udało się sparsować żadnego art
