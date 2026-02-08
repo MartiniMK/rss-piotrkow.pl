@@ -15,8 +15,8 @@ LIST_URL = "https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75"
 SITE_ROOT = "https://www.piotrkow.pl"
 OUT_FILE = "feed.xml"
 
-MAX_ITEMS = 40           # ile wpisów w RSS
-FETCH_ARTICLES = 40      # ile artykułów pobieramy z listy (zwykle tyle samo co MAX_ITEMS)
+MAX_ITEMS = 40
+FETCH_ARTICLES = 40
 TIMEOUT = 30
 
 HEADERS = {
@@ -24,12 +24,8 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
 
-# Artykuły mają końcówkę: -rXXXX
 ART_R_RE = re.compile(r"-r\d+\b", re.IGNORECASE)
-
-# Chcemy tylko artykuły z tej sekcji
 SECTION_RE = re.compile(r"/nasze-miasto-t70/aktualnosci-a75/", re.IGNORECASE)
-
 DATE_RE = re.compile(r"\b(\d{2}-\d{2}-\d{4})\b")
 
 
@@ -49,7 +45,6 @@ def parse_date_dd_mm_yyyy(s: str):
     if not m:
         return None
     dd, mm, yyyy = map(int, m.groups())
-    # bez godziny -> stabilnie południe UTC
     return datetime(yyyy, mm, dd, 12, 0, 0, tzinfo=timezone.utc)
 
 
@@ -70,11 +65,9 @@ def pick_meta(soup: BeautifulSoup, name=None, prop=None) -> str:
 
 
 def extract_article(url: str) -> dict:
-    """Wyciąga tytuł, datę i lead z podstrony artykułu."""
     html = http_get(url)
     soup = BeautifulSoup(html, "lxml")
 
-    # tytuł
     title = ""
     h1 = soup.find("h1")
     if h1:
@@ -82,17 +75,14 @@ def extract_article(url: str) -> dict:
     if not title and soup.title:
         title = norm_ws(soup.title.get_text(" "))
 
-    # data (pierwsze wystąpienie dd-mm-rrrr w tekście strony)
     published = None
     txt = soup.get_text("\n")
     m = DATE_RE.search(txt)
     if m:
         published = parse_date_dd_mm_yyyy(m.group(1))
 
-    # lead: preferuj meta description / og:description
     lead = pick_meta(soup, prop="og:description") or pick_meta(soup, name="description")
 
-    # fallback: pierwszy sensowny <p>
     if not lead or len(lead) < 40:
         for p in soup.find_all("p"):
             ptxt = norm_ws(p.get_text(" "))
@@ -109,29 +99,22 @@ def extract_article(url: str) -> dict:
 
 
 def extract_listing_urls(list_html: str) -> list[str]:
-    """
-    Z listingu wyciąga URL-e artykułów:
-    - link musi zawierać '/nasze-miasto-t70/aktualnosci-a75/'
-    - i końcówkę '-rXXXX'
-    """
     soup = BeautifulSoup(list_html, "lxml")
 
     urls = []
     seen = set()
 
     for a in soup.find_all("a", href=True):
-        href = a["href"].strip()
+        href = (a.get("href") or "").strip()
         if not href:
             continue
 
         full = urljoin(SITE_ROOT, href)
 
-        # filtr domeny
         host = urlparse(full).netloc.lower()
         if "piotrkow.pl" not in host:
             continue
 
-        # filtr sekcji i końcówki -rXXXX
         if not SECTION_RE.search(full):
             continue
         if not ART_R_RE.search(full):
@@ -148,7 +131,7 @@ def build_feed(entries: list[dict]) -> bytes:
     fg = FeedGenerator()
     fg.title("Piotrków Trybunalski — Nasze miasto / Aktualności")
     fg.link(href=LIST_URL, rel="alternate")
-    fg.description("RSS generowany automatycznie z piotrkow.pl (Nasze miasto → Aktualności).")
+    fg.description("RSS generowany automatycznie z piotrkow.pl.")
     fg.language("pl")
     fg.generator("GitHub Actions + Python (feedgen)")
 
@@ -178,13 +161,7 @@ def main():
     urls = extract_listing_urls(list_html)
 
     if not urls:
-        # debug: wypisz pierwsze 20 hrefów (ułatwia diagnozę w Actions)
-        soup = BeautifulSoup(list_html, "lxml")
-        hrefs = [a.get("href", "") for a in soup.find_all("a", href=True)][:20]
-        raise RuntimeError(
-            "Nie udało się wyciągnąć żadnych linków artykułów z listingu. "
-            f"Przykładowe hrefy: {hrefs}"
-        )
+        raise RuntimeError("Brak linków artykułów na listingu (parser nie trafił w HTML).")
 
     urls = urls[:FETCH_ARTICLES]
 
@@ -193,8 +170,17 @@ def main():
         try:
             entries.append(extract_article(u))
         except Exception as ex:
-            # nie wywalaj całego feeda, pomiń pojedynczy wpis
             print(f"[WARN] {u}: {ex}")
 
     if not entries:
-        raise RuntimeError("Wyciągnięto URL-e, ale nie udało się sparsować żadnego art
+        raise RuntimeError("Wyciągnięto URL-e, ale nie udało się sparsować żadnego artykułu.")
+
+    rss = build_feed(entries)
+    with open(OUT_FILE, "wb") as f:
+        f.write(rss)
+
+    print(f"OK: wrote {OUT_FILE}, urls={len(urls)}, entries={len(entries)}")
+
+
+if __name__ == "__main__":
+    main()
