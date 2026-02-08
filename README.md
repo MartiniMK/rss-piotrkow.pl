@@ -1,14 +1,14 @@
-# piotrkow.pl – RSS (Aktualności)
+# RSS: piotrkow.pl (Nasze miasto → Aktualności)
 
-Repozytorium generuje plik RSS `docs/feed.xml` na podstawie linków z bloku **„Aktualności”** ze strony głównej piotrkow.pl.
-Jest to obejście sytuacji, w której widok listy aktualności (`/nasze-miasto-t70/aktualnosci-a75/...`) nie zwraca już w HTML listy artykułów.
+Źródło:
+https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75
 
-## Jak uruchomić lokalnie
+## Pliki
+- `scraper.py` – generuje RSS
+- `feed.xml` – wynik (commitowany do repo)
+- `.github/workflows/rss.yml` – uruchamia co 2h oraz ręcznie
 
-```bash
-python -m venv .venv
-# Windows: .venv\Scripts\activate
-# Linux/Mac: source .venv/bin/activate
-
-pip install -r requirements.txt
-python src/generate_feed.py --out docs/feed.xml --max-items 30
+## Jak używać
+1. Włącz Actions w repo (jeśli wyłączone).
+2. Uruchom workflow ręcznie (Actions → RSS → Run workflow).
+3. Po chwili w repo pojawi się/odświeży `feed.xml`.
