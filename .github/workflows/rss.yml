@@ -1,21 +1,16 @@
-name: Build RSS (piotrkow.pl - Nasze miasto)
+name: RSS
 
 on:
   workflow_dispatch:
   schedule:
     # co 2 godziny
     - cron: "17 */2 * * *"
-  push:
-    paths:
-      - "scripts/**"
-      - "requirements.txt"
-      - ".github/workflows/**"
 
 permissions:
   contents: write
 
 concurrency:
-  group: rss-piotrkow-nasze-miasto
+  group: rss-feed
   cancel-in-progress: true
 
 jobs:
@@ -30,24 +25,23 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install deps
+      - name: Install requirements
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Generate RSS
+      - name: Generate feed.xml
         run: |
-          python scripts/piotrkow_nasze_miasto_rss.py
+          python scraper.py
 
       - name: Commit changes (if any)
         run: |
           set -e
-          git status --porcelain
           if [ -n "$(git status --porcelain)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add dist/*.xml
-            git commit -m "Update RSS feed"
+            git add feed.xml
+            git commit -m "Update feed.xml"
             git push
           else
             echo "No changes to commit."
