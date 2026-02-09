@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 09 Feb 2026 11:10:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 13:49:13 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -72,18 +72,18 @@
       <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Piotrków jako inspiracja – spotkanie autorskie z Agnieszką Kulbat</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkow-jako-inspiracja-spotkanie-autorskie-z-agnieszka-kulbat-r3797</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">1fbd691ca744f2c2a236801255620949de062279061ce53ef46f0418d09fc1a5</guid>
-      <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Milionowe dofinansowanie na usługi opiekuńcze</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/milionowe-dofinansowanie-na-uslugi-opiekuncze-r3799</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">321b70d8c3b8605f8c1c81594f258eb591415313c343507d2cee4055a62fa05c</guid>
       <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wernisaż wystawy uczniów i absolwentów Ekonomika w Mediatece 800-lecia</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wernisaz-wystawy-uczniow-i-absolwentow-ekonomika-w-mediatece-800-lecia-r3803</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">d0646b7e97042660fc0f957d6a83439d44c215708f687be7cafceeaafd31e70e</guid>
+      <pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
