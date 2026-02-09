@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 09 Feb 2026 13:49:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 15:13:11 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Finał WOŚP 2026 za nami! Na koncie pierwsza rekordowa kwota!</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/final-wosp-2026-za-nami-na-koncie-pierwsza-rekordowa-kwota-r3775</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">f093f6e72874533faa6d004cdf9bc4a866bb657c4c199b2e73aed7c0aa667fb9</guid>
-      <pubDate>Mon, 26 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Przedszkole Samorządowe nr 26 z certyfikatem promocji zdrowia</title>
@@ -83,6 +76,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wernisaz-wystawy-uczniow-i-absolwentow-ekonomika-w-mediatece-800-lecia-r3803</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">d0646b7e97042660fc0f957d6a83439d44c215708f687be7cafceeaafd31e70e</guid>
+      <pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zapisz się na jubileuszowy Nocny Półmaraton Piotrkowski oraz VII Ćwierćpółmaraton</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zapisz-sie-na-jubileuszowy-nocny-polmaraton-piotrkowski-oraz-vii-cwiercpolmaraton-r3805</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">839ac1cf53035826ed44d51b7dfdfce8d0357b46bed6d6211b40876211bd354e</guid>
       <pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
