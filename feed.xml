@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 10 Feb 2026 11:13:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 13:55:22 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -72,18 +72,18 @@
       <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Wernisaż wystawy uczniów i absolwentów Ekonomika w Mediatece 800-lecia</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wernisaz-wystawy-uczniow-i-absolwentow-ekonomika-w-mediatece-800-lecia-r3803</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">d0646b7e97042660fc0f957d6a83439d44c215708f687be7cafceeaafd31e70e</guid>
-      <pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Zapisz się na jubileuszowy Nocny Półmaraton Piotrkowski oraz VII Ćwierćpółmaraton</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zapisz-sie-na-jubileuszowy-nocny-polmaraton-piotrkowski-oraz-vii-cwiercpolmaraton-r3805</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">839ac1cf53035826ed44d51b7dfdfce8d0357b46bed6d6211b40876211bd354e</guid>
       <pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MZK wydłuża godziny pracy stacji diagnostycznej</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/mzk-wydluza-godziny-pracy-stacji-diagnostycznej-r3809</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">59d3979a94df14dc399de180e285feb8c3fddd6bb531b527ca8242cfca54bc9d</guid>
+      <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
