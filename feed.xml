@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 11 Feb 2026 09:08:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 11:11:34 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Przedszkole Samorządowe nr 26 z certyfikatem promocji zdrowia</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/przedszkole-samorzadowe-nr-26-z-certyfikatem-promocji-zdrowia-r3769</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">dce7d70e10d12721bd5ba7845eabca378259e9b3f9364f29287c5e69e31b6337</guid>
-      <pubDate>Tue, 27 Jan 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Piotrków w wojewódzkim finale Akademii Bezpieczeństwa</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">59d3979a94df14dc399de180e285feb8c3fddd6bb531b527ca8242cfca54bc9d</guid>
       <pubDate>Tue, 10 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mammobus w Piotrkowie – zrób bezpłatne badanie</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/mammobus-w-piotrkowie-zrob-bezplatne-badanie-r3812</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">5123b998cf311b6e4b32d712473bd45a16a445b5831508dfbf81e068d6bb51d9</guid>
+      <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
