@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 12 Feb 2026 11:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 13:45:22 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -58,13 +58,6 @@
       <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Zapisz się na jubileuszowy Nocny Półmaraton Piotrkowski oraz VII Ćwierćpółmaraton</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zapisz-sie-na-jubileuszowy-nocny-polmaraton-piotrkowski-oraz-vii-cwiercpolmaraton-r3805</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">839ac1cf53035826ed44d51b7dfdfce8d0357b46bed6d6211b40876211bd354e</guid>
-      <pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>MZK wydłuża godziny pracy stacji diagnostycznej</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/mzk-wydluza-godziny-pracy-stacji-diagnostycznej-r3809</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
@@ -83,6 +76,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/trwa-przetarg-na-modernizacje-terenow-wokol-bugaju-r3818</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4ac604c007dd8fb6ed3757b127314b139c2b2cacbff73a0aac9d104a42ac8592</guid>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Odprawa piotrkowskiej komendy – policjanci podsumowali ostatnie 12 miesięcy</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/odprawa-piotrkowskiej-komendy-policjanci-podsumowali-ostatnie-12-miesiecy-r3819</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">204b37bd100804ff0df25d20e766c4b6500d61cc6393ca9f72ac5f0c1be5dca9</guid>
       <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
