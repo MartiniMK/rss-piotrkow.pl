@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 17 Feb 2026 15:07:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 17:18:28 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stowarzyszenie Panaceum poprowadzi schronisko dla osób bezdomnych</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/stowarzyszenie-panaceum-poprowadzi-schronisko-dla-osob-bezdomnych-r3794</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">5d44c8b01ac228491904c803067f8807422f048db5e878aa4ba3218bc9c2d7c6</guid>
-      <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jak pomagać zwierzętom zimą?</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/jak-pomagac-zwierzetom-zima-r3795</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">688f8018cc55f0f7c5de492515a794165cbb685034702e183aba91ec0b3b7e53</guid>
-      <pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Milionowe dofinansowanie na usługi opiekuńcze</title>
@@ -72,6 +58,13 @@
       <pubDate>Fri, 13 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Spotkanie z przedstawicielami EBI</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/spotkanie-z-przedstawicielami-ebi-r3833</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">7f07f732c5b07dd47318ffc50e33822a52463d4bf6d76f13cd6d76be23000e1a</guid>
+      <pubDate>Fri, 13 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Pamięci ofiar zbrodni przy ul. Budki w Piotrkowie</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/pamieci-ofiar-zbrodni-przy-ul.-budki-w-piotrkowie-r3824</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">380667ce4ba0fb47ba5e5324ef7468604a9840e0195f6c8e3be0a06a58a5c1af</guid>
       <pubDate>Mon, 16 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nowe standardy w żłobkach – szkolenie w Urzędzie Miasta</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nowe-standardy-w-zlobkach-szkolenie-w-urzedzie-miasta-r3832</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">9dc318cc81f20ef5023fe6eaa8b371f78d8b967615853d38d7d8e2772370e55d</guid>
+      <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
