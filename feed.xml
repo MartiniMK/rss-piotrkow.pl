@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 18 Feb 2026 13:41:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 15:07:12 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mammobus w Piotrkowie – zrób bezpłatne badanie</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/mammobus-w-piotrkowie-zrob-bezplatne-badanie-r3812</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">5123b998cf311b6e4b32d712473bd45a16a445b5831508dfbf81e068d6bb51d9</guid>
-      <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Trwa przetarg na modernizację terenów wokół Bugaju</title>
@@ -83,6 +76,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/orlik-przy-sp-12-przejdzie-modernizacje-miasto-pozyskalo-05-mln-dofinansowania-r3836</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3b7f63c42b3980e693a7de5c3d165f596ecf8dd4c9a53d483be635bd9ae21824</guid>
+      <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ponad 130 mln zł publicznego wsparcia</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/ponad-130-mln-zl-publicznego-wsparcia-r3837</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">ab2cf8032d4321a57fb62d1ecc4fb5dec9977af06ed270364088dd61845953b6</guid>
       <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
