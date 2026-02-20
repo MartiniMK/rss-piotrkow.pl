@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 20 Feb 2026 10:59:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 13:35:02 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trwa przetarg na modernizację terenów wokół Bugaju</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/trwa-przetarg-na-modernizacje-terenow-wokol-bugaju-r3818</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">4ac604c007dd8fb6ed3757b127314b139c2b2cacbff73a0aac9d104a42ac8592</guid>
-      <pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Odprawa piotrkowskiej komendy – policjanci podsumowali ostatnie 12 miesięcy</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">8bc3063685805c39a47f534c0aaf92586da6487328bcab11cf070e782debba8d</guid>
       <pubDate>Wed, 18 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>7,5 mln zł na ostatni etap modernizacji ul. Roosevelta</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/75-mln-zl-na-ostatni-etap-modernizacji-ul.-roosevelta-r3841</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">c1d5391e8927ef6fce930841525302c9347f743a2c30780dc08b99080468afcd</guid>
+      <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
