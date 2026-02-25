@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 25 Feb 2026 09:08:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 11:10:21 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nowe standardy w żłobkach – szkolenie w Urzędzie Miasta</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nowe-standardy-w-zlobkach-szkolenie-w-urzedzie-miasta-r3832</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">9dc318cc81f20ef5023fe6eaa8b371f78d8b967615853d38d7d8e2772370e55d</guid>
-      <pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nowoczesna i szybsza sieć LAN w piotrkowskich szkołach</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">74d80dce2a823bab0777ced2aacb1472baa53f2ddaf1c5b6297a9ec98fda104e</guid>
       <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trwa sesja Rady Miasta. Nad czym obradują piotrkowscy radni?</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/trwa-sesja-rady-miasta.-nad-czym-obraduja-piotrkowscy-radni-r3858</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">356035aa3ea0eb8fea3cf06299cc87227eaabd3d50e15792c6169ef710542ee1</guid>
+      <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
