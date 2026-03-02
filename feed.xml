@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 02 Mar 2026 09:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 11:03:57 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sesja Rady Miasta w najbliższą środę</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/sesja-rady-miasta-w-najblizsza-srode-r3843</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">1dfa3c47da57224f04183acca9e71d284eecd9282a65a6c6afcccd7fecd304ee</guid>
-      <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kamienica przy ul. Słowackiego do renowacji</title>
@@ -77,6 +70,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4d71418856d9753ec81377a932222bea6769611ab871e4e4552649c2f3eda4de</guid>
       <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Piotrkowianie oddali hołd żołnierzom wyklętym</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkowianie-oddali-hold-zolnierzom-wykletym-r3866</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">a94c36ded242f5f777c6654946a665af7bc5a6a2bc0d45c8ada092a64dde2b0b</guid>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Bieg Pamięci „Gaja” – mieszkańcy Piotrkowa uczcili żołnierzy wyklętych</title>
