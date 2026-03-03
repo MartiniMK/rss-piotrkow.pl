@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 03 Mar 2026 11:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 13:33:30 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pobiegnij 1963 metry dla pamięci – 1 marca spotkajmy się w Parku im. ks. Józefa Poniatowskiego</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/pobiegnij-1963-metry-dla-pamieci-1-marca-spotkajmy-sie-w-parku-im.-ks.-jozefa-poniatowskiego-r3851</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">801ea558a2f0192a0c38fda6d2bfd040e7f8842179048c9972b34a836f708b27</guid>
-      <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nowoczesne pracownie AI i STEM w piotrkowskich szkołach</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nowoczesne-pracownie-ai-i-stem-w-piotrkowskich-szkolach-r3853</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">74d80dce2a823bab0777ced2aacb1472baa53f2ddaf1c5b6297a9ec98fda104e</guid>
-      <pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Trwa sesja Rady Miasta. Nad czym obradują piotrkowscy radni?</title>
@@ -65,6 +51,13 @@
       <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Przy SP nr 13 powstanie boisko wielofunkcyjne w ramach BO</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/przy-sp-nr-13-powstanie-boisko-wielofunkcyjne-w-ramach-bo-r3865</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">55612aeae3b2267728c96b8be3d8dcb1718e9a2427e163ec15d60cf8d6b506d8</guid>
+      <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Piotrkowianie oddali hołd żołnierzom wyklętym</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkowianie-oddali-hold-zolnierzom-wykletym-r3866</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">b11d4d03216b4823612de096bb89168516c018d78cba39cd5cdf6d715edba72f</guid>
       <pubDate>Mon, 02 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dni otwarte w szkołach podstawowych w Piotrkowie Trybunalskim</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/dni-otwarte-w-szkolach-podstawowych-w-piotrkowie-trybunalskim-r3873</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">560ab8439eb808ccbced45f48c191653d8973fc3f89061aa615dd3747a81544e</guid>
+      <pubDate>Tue, 03 Mar 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
