@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 06 Mar 2026 10:56:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 13:29:58 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rusza rekrutacja do przedszkoli w Piotrkowie Trybunalskim</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rusza-rekrutacja-do-przedszkoli-w-piotrkowie-trybunalskim-r3857</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">4d71418856d9753ec81377a932222bea6769611ab871e4e4552649c2f3eda4de</guid>
-      <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Przy SP nr 13 powstanie boisko wielofunkcyjne w ramach BO</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/przy-sp-nr-13-powstanie-boisko-wielofunkcyjne-w-ramach-bo-r3865</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">55612aeae3b2267728c96b8be3d8dcb1718e9a2427e163ec15d60cf8d6b506d8</guid>
-      <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Piotrkowianie oddali hołd żołnierzom wyklętym</title>
@@ -65,6 +51,13 @@
       <pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Piotrków na konferencji o bezpieczeństwie infrastruktury</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkow-na-konferencji-o-bezpieczenstwie-infrastruktury-r3884</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">214aba2102d8d707137e724f1af581d5554132fc2c040bc56871ad6496d8e7ad</guid>
+      <pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Kto powalczy o puchar komendanta? Eliminacje wyłoniły najlepszych</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/kto-powalczy-o-puchar-komendanta-eliminacje-wylonily-najlepszych-r3878</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
@@ -83,6 +76,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/ii-spotkanie-konsultacyjne-dotyczace-inwestycji-na-osiedlu-piaskowa-r3882</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">6c5f9817143174e6d1ec82ffe2363684fb800c6d6fc157ed5ead819c4a2de8e9</guid>
+      <pubDate>Fri, 06 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blisko 6,5 miliona na wsparcie osób niepełnosprawnych</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/blisko-65-miliona-na-wsparcie-osob-niepelnosprawnych-r3885</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">5610410d78e041f9f2fb7fe51731b251befad3c99cc8a99ccb88ee3d489fd13d</guid>
       <pubDate>Fri, 06 Mar 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
