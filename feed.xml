@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 18 Mar 2026 11:10:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 13:55:16 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trwają prace budowlane na ulicy Kwiatowej</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/trwaja-prace-budowlane-na-ulicy-kwiatowej-r3914</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">247618313b5d5ab1d40c5edb7cd630de51f2276869c0e2cd3fa775851c0b9f79</guid>
-      <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Wznowiono prace budowlane na ulicy Wolborskiej</title>
@@ -83,6 +76,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nowe-kierunki-ksztalcenia-w-piotrkowskich-szkolach-r3916</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">6f06392dd0f78ff01e20eb7d10c175ef7f43510a2860a585a7d8bcab9c929165</guid>
+      <pubDate>Wed, 18 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mieszkańcy konsultowali program polityki senioralnej</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/mieszkancy-konsultowali-program-polityki-senioralnej-r3933</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">3782f1167ae4ea33234aa3ddae2ba15a3c3359b02d5a2c04228bf20cb2eff4cc</guid>
       <pubDate>Wed, 18 Mar 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
