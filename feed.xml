@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 20 Mar 2026 15:04:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 17:03:16 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyfryzacja obiegu dokumentów w miejskich jednostkach</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/cyfryzacja-obiegu-dokumentow-w-miejskich-jednostkach-r3917</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">be47de1cf07248aa82e3b2021b524d0cf3e46254198250626b9b1e171f9b1035</guid>
-      <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Rozpoczął się pierwszy etap modernizacji pięciu miejskich ulic</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">7ac73daf85669735e2b207e055b7e3a3f3fb37c19c1c678ce11ac347c3a153b7</guid>
       <pubDate>Thu, 19 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dzień Kolorowej Skarpetki w Piotrkowie</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/dzien-kolorowej-skarpetki-w-piotrkowie-r3940</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">6b54e5ac3d06ce44523b5dbd3c5866f6ada70a265e8a5bbf5ecd7797d5f378fc</guid>
+      <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
