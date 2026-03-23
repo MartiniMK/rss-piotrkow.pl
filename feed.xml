@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 23 Mar 2026 07:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 09:14:09 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rozpoczął się pierwszy etap modernizacji pięciu miejskich ulic</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rozpoczal-sie-pierwszy-etap-modernizacji-pieciu-miejskich-ulic-r3919</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">2c50516b0cf2e63c9296fdc4906933ceed0aa2eb968d4ab121fc57011095d802</guid>
-      <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Masz dom? Skorzystaj z dotacji na przyłącze sanitarne</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">6b54e5ac3d06ce44523b5dbd3c5866f6ada70a265e8a5bbf5ecd7797d5f378fc</guid>
       <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uczniowie z Piotrkowa nagrodzeni stypendiami</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/uczniowie-z-piotrkowa-nagrodzeni-stypendiami-r3936</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">32d360bf0dd5c76347a3e621bef19dc62e372768ea3135733c1722565d3bbcd2</guid>
+      <pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
