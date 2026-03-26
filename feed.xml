@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 26 Mar 2026 05:50:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 07:37:13 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elastyczne formy zatrudnienia w Urzędzie Miasta</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/elastyczne-formy-zatrudnienia-w-urzedzie-miasta-r3931</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">9111419ce0d0149b16bd5cd1827be130f7bcd1546ab09b6015cf4fd325186263</guid>
-      <pubDate>Tue, 17 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nowe kierunki kształcenia w piotrkowskich szkołach</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">6d17f8274571fe312bdd91ecfd86f08d5cdd82cdddd90348cf4f65cab0d5f5a7</guid>
       <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Za nami sesja Rady Miasta – oto najważniejsze informacje</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/za-nami-sesja-rady-miasta-oto-najwazniejsze-informacje-r3954</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">54c14c196926faa2d26e3fb302a996ca876b50f883e3968a0ea7c671eeb8fbd1</guid>
+      <pubDate>Thu, 26 Mar 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
