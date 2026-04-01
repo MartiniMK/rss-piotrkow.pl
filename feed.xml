@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 01 Apr 2026 06:04:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 07:55:21 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zamknięty przejazd na ul. Granicznej – AKTUALIZACJA</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zamkniety-przejazd-na-ul.-granicznej-aktualizacja-r3955</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">08c6ca87c1da11d2d85a59f03c5b71c75225cc20810c88c70b045865ce2bcee4</guid>
-      <pubDate>Thu, 26 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nabór do Klubu Seniora. Stowarzyszenie „Mam sąsiada" czeka na uczestników</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nabor-do-klubu-seniora.-stowarzyszenie-mam-sasiada-czeka-na-uczestnikow-r3956</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">e5902143443f15b8852a0633332d323bbcf98e1e4572183d079fad4506475179</guid>
-      <pubDate>Thu, 26 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Przed nami modernizacje miejskich kamienic. Jakie remonty szykuje TBS?</title>
@@ -84,6 +70,20 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">cc95d6bae5d7212797c3b41576b19e098fa08e2678e9602a034ef67eb971b1ff</guid>
       <pubDate>Tue, 31 Mar 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>„Aktywny Samorząd” – złóż wniosek i skorzystaj z dotacji</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/aktywny-samorzad-zloz-wniosek-i-skorzystaj-z-dotacji-r3968</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">4f5393f9a8a5f06ca5f24e9660f977d8263d115413f5c5a0b4eaaa3baa2b269e</guid>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nawet 5 000 zł na Twój projekt! Sprawdź, jak zdobyć mikrogrant w Piotrkowie</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nawet-5-000-zl-na-twoj-projekt-sprawdz-jak-zdobyc-mikrogrant-w-piotrkowie-r3969</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">7b3bcfd2445bda319e8d2a856772507f69891e440ec2e5c5725d575ddcfa6194</guid>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
