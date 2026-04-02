@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 02 Apr 2026 05:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 07:42:02 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -28,13 +28,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">103951a47debcd2825efa0fda489bedc63e4dd415df227f15e4d8ebe0c9a5921</guid>
       <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Książkomaty w Piotrkowie Trybunalskim – jak z nich korzystać?</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/ksiazkomaty-w-piotrkowie-trybunalskim-jak-z-nich-korzystac-r3959</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">b96cd7cf10b43f7df55da8be1cb595ba1bc4415ed5303b3f13c570bfe8d37529</guid>
-      <pubDate>Mon, 30 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nabór na zajęcia w Dziennym Domu Pomocy Społecznej</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">7b3bcfd2445bda319e8d2a856772507f69891e440ec2e5c5725d575ddcfa6194</guid>
       <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>8 projektów Rad Osiedli z Piotrkowa z dofinansowaniem</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/8-projektow-rad-osiedli-z-piotrkowa-z-dofinansowaniem-r3974</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">0bc87f5ae0c726412ac5d10dd68ceae8507c72d9cea6b6c5e71e56d811b4b891</guid>
+      <pubDate>Thu, 02 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
