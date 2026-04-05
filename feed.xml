@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 05 Apr 2026 10:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 13:30:40 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nowy kierunek zawodowego kształcenia dla ósmoklasistów</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nowy-kierunek-zawodowego-ksztalcenia-dla-osmoklasistow-r3963</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">a1d196cb6c0c934f9fe4d106306d70e731d228c0a0595d39e5aad16724c68ae4</guid>
-      <pubDate>Tue, 31 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>PSZOK nieczynny w Wielką Sobotę</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">07ef4df6d640a54fd194a022ca678b4e7d678aa3394a54510f93b353709fb209</guid>
       <pubDate>Fri, 03 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brak ciepłej wody – trwa usuwanie awarii</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/brak-cieplej-wody-trwa-usuwanie-awarii-r3980</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">e50a702fff88eda9962f7f3d2ac4aa30f4681930a1f7c5538013342eaa851c35</guid>
+      <pubDate>Sun, 05 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
