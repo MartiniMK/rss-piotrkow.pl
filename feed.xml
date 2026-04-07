@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 07 Apr 2026 14:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 15:45:10 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>„Aktywny Samorząd” – złóż wniosek i skorzystaj z dotacji</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/aktywny-samorzad-zloz-wniosek-i-skorzystaj-z-dotacji-r3968</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">4f5393f9a8a5f06ca5f24e9660f977d8263d115413f5c5a0b4eaaa3baa2b269e</guid>
-      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nawet 5 000 zł na Twój projekt! Sprawdź, jak zdobyć mikrogrant w Piotrkowie</title>
@@ -83,6 +76,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nowe-autobusy-elektryczne-w-piotrkowie-pojedziemy-nimi-juz-w-kwietniu-r3983</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">efe658e57bc8e2b194dc1f068b18c59c1ebad300da7f3eebbec70233c68d25b8</guid>
+      <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Przerwa techniczna w dostępie do usług sieciowych geoportalu</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/przerwa-techniczna-w-dostepie-do-uslug-sieciowych-geoportalu-r3985</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">0e78b53cd08c68bb0ab7075470389c132ed84a1e04821f56e1f9582c3b873679</guid>
       <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
