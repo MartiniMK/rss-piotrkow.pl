@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 07 Apr 2026 07:50:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 09:34:47 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PSZOK nieczynny w Wielką Sobotę</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/pszok-nieczynny-w-wielka-sobote-r3964</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">985f47670226ea19ef43339581dc22e937cee37017924ac8a818c29f60c260da</guid>
-      <pubDate>Tue, 31 Mar 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Piotrkowskie szkoły przyjazne harcerstwu</title>
@@ -83,6 +76,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-przy-ul.-dmowskiego-usunieta-cieplo-wraca-do-domow-r3981</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">dc4f18dc7e7af77c0875f8f69d383abbf9558b76f2aaf5c9feaddb69f0c42535</guid>
+      <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rozpoczęła się kwalifikacja wojskowa. Obejmie pół tysiąca Piotrkowian</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rozpoczela-sie-kwalifikacja-wojskowa.-obejmie-pol-tysiaca-piotrkowian-r3982</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">5270e93682b28d712b5bee435b6788f61e07e0fa7eb644866471f67b00beeea4</guid>
       <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
