@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 10 Apr 2026 06:09:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 08:00:52 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>21. rocznica śmierci Jana Pawła II</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/21.-rocznica-smierci-jana-pawla-ii-r3976</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">26813075c93a13416b7c540a97c3a655bebd65eae2c598f3ae6d55cf93a50c0d</guid>
-      <pubDate>Thu, 02 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Trwa układanie nawierzchni na rondzie ks. Pecolta i ul. Wolborskiej</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">bf75a95a5e84042479609fb089492a9acf8146a04dc4144a03e26f7d443154aa</guid>
       <pubDate>Thu, 09 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Masz pomysł na działanie w swoim mieście? Teraz możesz go zrealizować!</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/masz-pomysl-na-dzialanie-w-swoim-miescie-teraz-mozesz-go-zrealizowac-r3996</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">8936c25144103bcd5256dab7f471ae5354b199ab1f55e82d1704baab205e6e4c</guid>
+      <pubDate>Fri, 10 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
