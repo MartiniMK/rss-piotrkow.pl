@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 19 Apr 2026 06:09:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 07:46:57 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Piotrków oddał hołd ofiarom Zbrodni Katyńskiej</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkow-oddal-hold-ofiarom-zbrodni-katynskiej-r4004</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">84542b3d976d1d240439f117c4f566570ae6403c2514354348f5ee64491e1867</guid>
-      <pubDate>Mon, 13 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Prace bitumiczne na odcinku Wolborska-Rakowska od środy – harmonogram</title>
@@ -83,6 +76,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rekordowa-parada-motocyklistow-w-piotrkowie-trybunalskim-r4024</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">a29cbdc772432ff2c4c2000e604ae3317098297e68dcb688acec9e67622c36f4</guid>
+      <pubDate>Sat, 18 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wielki finał eventowej ligi koszykówki w Piotrkowie!</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wielki-final-eventowej-ligi-koszykowki-w-piotrkowie-r4026</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">dba751cf12f6ca26342b8c8807c8edf60e1c11381ebc0c005405021907d5b6e9</guid>
       <pubDate>Sat, 18 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
