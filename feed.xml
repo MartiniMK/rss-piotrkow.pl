@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 21 Apr 2026 03:46:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 06:14:26 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prace bitumiczne na odcinku Wolborska-Rakowska od środy – harmonogram</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/prace-bitumiczne-na-odcinku-wolborska-rakowska-od-srody-harmonogram-r4007</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">46fbc3724163c552771e3eb7ce575c477d358c4f647458bd875aace663aaafc0</guid>
-      <pubDate>Tue, 14 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Serce bije na osiedlu Wyzwolenia – na ratunek z AED</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">dba751cf12f6ca26342b8c8807c8edf60e1c11381ebc0c005405021907d5b6e9</guid>
       <pubDate>Sat, 18 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Harmonogram prac na ul. Wolborskiej</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/harmonogram-prac-na-ul.-wolborskiej-r4028</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">932b81c7b44c11919e5bc8b75716934d72503392a054293a46c3d92d2d801f4d</guid>
+      <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
