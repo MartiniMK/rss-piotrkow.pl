@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 21 Apr 2026 08:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 09:52:59 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Serce bije na osiedlu Wyzwolenia – na ratunek z AED</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/serce-bije-na-osiedlu-wyzwolenia-na-ratunek-z-aed-r4010</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">ef68c05dce1d50ea49a1ddf9b9d10ffc884ddffe83ab1899f9837e546299adfe</guid>
-      <pubDate>Tue, 14 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Zamknięty przejazd kolejowy na ul. Słowackiego</title>
@@ -83,6 +76,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/harmonogram-prac-na-ul.-wolborskiej-r4028</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">932b81c7b44c11919e5bc8b75716934d72503392a054293a46c3d92d2d801f4d</guid>
+      <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sesja Rady Miasta w środę, 22 kwietnia</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/sesja-rady-miasta-w-srode-22-kwietnia-r4032</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">9cd6a63a5d773f5f8a392352854e9a3f26d5e93de1f4f7a611b38c0065704922</guid>
       <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
