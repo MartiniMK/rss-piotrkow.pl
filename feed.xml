@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 21 Apr 2026 11:33:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 14:09:34 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zamknięty przejazd kolejowy na ul. Słowackiego</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zamkniety-przejazd-kolejowy-na-ul.-slowackiego-r4015</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">15916384adc21c6524b47ac2f60204c1b6e8ab229f8c10f96a6f2bfa0ddf7648</guid>
-      <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Korty tenisowe szykują formę na lato. Kiedy będą dostępne dla mieszkańców?</title>
@@ -79,10 +72,17 @@
       <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sesja Rady Miasta w środę, 22 kwietnia</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/sesja-rady-miasta-w-srode-22-kwietnia-r4032</link>
+      <title>Sesja Rady Miasta w najbliższą środę. Nad czym będą obradować radni?</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/sesja-rady-miasta-w-najblizsza-srode.-nad-czym-beda-obradowac-radni-r4032</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">9cd6a63a5d773f5f8a392352854e9a3f26d5e93de1f4f7a611b38c0065704922</guid>
+      <guid isPermaLink="false">28ed61d412177b1372c096e232f3cf3b967404385d1cc6cff157699a2a141ff8</guid>
+      <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Piotrków i Rozprza planują modernizację ul. Moryca</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkow-i-rozprza-planuja-modernizacje-ul.-moryca-r4033</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">d40e13205810d8a97efc21d43c6323d5dd005b5229cac8d6ac6ea94b45b92e0f</guid>
       <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
