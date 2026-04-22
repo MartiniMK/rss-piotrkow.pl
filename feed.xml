@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 22 Apr 2026 17:15:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 19:39:31 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wraki znikają z piotrkowskich ulic i parkingów</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wraki-znikaja-z-piotrkowskich-ulic-i-parkingow-r4016</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">b4aaeb297fbc6ccb62fa92728b9a58866e0980119882e2a8c6e3e2db92445fb2</guid>
-      <pubDate>Fri, 17 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Krasoń MKS Piotrcovia brązowym medalistą Mistrzostw Polski</title>
@@ -83,6 +76,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/trwa-xxxiii-sesja-rady-miasta-piotrkowa-trybunalskiego-r4037</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">7fef2dd0c7f549f8065c176a7041b4e802e06995b745594c1c49d74b40fddda0</guid>
+      <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Miasto sprawdza możliwości budowy przejścia pod torami</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/miasto-sprawdza-mozliwosci-budowy-przejscia-pod-torami-r4041</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">7c76e7ac7b851634cf6d16aa598c097e318f77c9a59988fb9850811cb5d30440</guid>
       <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
