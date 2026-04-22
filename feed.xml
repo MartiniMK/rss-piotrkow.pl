@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 22 Apr 2026 08:06:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 09:53:43 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Korty tenisowe szykują formę na lato. Kiedy będą dostępne dla mieszkańców?</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/korty-tenisowe-szykuja-forme-na-lato.-kiedy-beda-dostepne-dla-mieszkancow-r4018</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">2dbe6d6eec092dd60fce6196d6ba829ef820943001a56ae2ba0de5d38a8b1ced</guid>
-      <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>W sobotę zamknięte skrzyżowanie ul. Zalesickiej z ul. Krótką</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">d40e13205810d8a97efc21d43c6323d5dd005b5229cac8d6ac6ea94b45b92e0f</guid>
       <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trwa XXXIII sesja Rady Miasta Piotrkowa Trybunalskiego</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/trwa-xxxiii-sesja-rady-miasta-piotrkowa-trybunalskiego-r4037</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">7fef2dd0c7f549f8065c176a7041b4e802e06995b745594c1c49d74b40fddda0</guid>
+      <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
