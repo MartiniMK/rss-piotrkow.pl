@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 22 Apr 2026 09:53:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 11:32:59 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>W sobotę zamknięte skrzyżowanie ul. Zalesickiej z ul. Krótką</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/w-sobote-zamkniete-skrzyzowanie-ul.-zalesickiej-z-ul.-krotka-r4019</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">7d885b6a555793f5591ddf9676783a9c35e57bbb28232b62ededecfeceb8f823</guid>
-      <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Piotrków wśród liderów Zielonych Finansów Samorządowych 2026</title>
@@ -77,6 +70,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">d40e13205810d8a97efc21d43c6323d5dd005b5229cac8d6ac6ea94b45b92e0f</guid>
       <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bezpłatne czipowanie psów 2026 w Piotrkowie</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/bezplatne-czipowanie-psow-2026-w-piotrkowie-r4036</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">b6b2b313227ae3d304fab4206aee949517e2f77f078527fc0c28af43b22e53e3</guid>
+      <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Trwa XXXIII sesja Rady Miasta Piotrkowa Trybunalskiego</title>
