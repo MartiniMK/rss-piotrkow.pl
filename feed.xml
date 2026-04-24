@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 24 Apr 2026 06:20:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 09:55:34 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Harmonogram prac na ul. Wolborskiej</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/harmonogram-prac-na-ul.-wolborskiej-r4028</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">932b81c7b44c11919e5bc8b75716934d72503392a054293a46c3d92d2d801f4d</guid>
-      <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Sesja Rady Miasta w najbliższą środę. Nad czym będą obradować radni?</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">5344d9d0309726a496d17ccb5dc76ec2160f0e3954a85e82184deee1dd3bcc48</guid>
       <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rebranding banku, który obsługuje Urząd Miasta – co to oznacza dla mieszkańców?</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rebranding-banku-ktory-obsluguje-urzad-miasta-co-to-oznacza-dla-mieszkancow-r4043</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">2c2b03f36b88ff6448f962985ccacd1787372cc248cad82ae4e41e2f39784e9a</guid>
+      <pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
