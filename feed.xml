@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 24 Apr 2026 09:55:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 11:35:29 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -72,17 +72,17 @@
       <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Podróż do świata Tolkiena z uczniami SP nr 5</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/podroz-do-swiata-tolkiena-z-uczniami-sp-nr-5-r4045</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">5344d9d0309726a496d17ccb5dc76ec2160f0e3954a85e82184deee1dd3bcc48</guid>
-      <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Rebranding banku, który obsługuje Urząd Miasta – co to oznacza dla mieszkańców?</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rebranding-banku-ktory-obsluguje-urzad-miasta-co-to-oznacza-dla-mieszkancow-r4043</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">2c2b03f36b88ff6448f962985ccacd1787372cc248cad82ae4e41e2f39784e9a</guid>
+      <pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tymczasowe zmiany w komunikacji regionalnej – remont ul. Rakowskiej</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/tymczasowe-zmiany-w-komunikacji-regionalnej-remont-ul.-rakowskiej-r4046</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">85ce6974ed22dc1c35a701c5464d78137c7b733e4d99408a286755cc58a0709c</guid>
       <pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
