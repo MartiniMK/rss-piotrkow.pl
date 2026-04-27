@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 27 Apr 2026 10:27:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 14:27:45 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Częściowo zamknięte skrzyżowanie z ul. Wolborską. Zmiana tras MZK</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/czesciowo-zamkniete-skrzyzowanie-z-ul.-wolborska.-zmiana-tras-mzk-r4029</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">267923ccfca9535a48a0bab351156ebe0de9e080aa5162792cd2599da2f6b901</guid>
-      <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bezpłatne czipowanie psów 2026 w Piotrkowie</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/bezplatne-czipowanie-psow-2026-w-piotrkowie-r4036</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">b6b2b313227ae3d304fab4206aee949517e2f77f078527fc0c28af43b22e53e3</guid>
-      <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Trwa XXXIII sesja Rady Miasta Piotrkowa Trybunalskiego</title>
@@ -83,6 +69,20 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkowianka-laureatka-nagrody-plebiscytu-literackiego-slavni-r4050</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">71507efef7f717bfa1e242727dd9118983f5c8aea4e2ec340fc551a6a8a6ece2</guid>
+      <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sprawdzamy możliwości budowy tunelu drogowego</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/sprawdzamy-mozliwosci-budowy-tunelu-drogowego-r4053</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">1e3a0cd4174e7c83944a0031caf3e82b26fd952b60ffade164014ef0c8f32e26</guid>
+      <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dni Piotrkowa 2026</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/dni-piotrkowa-2026-r4054</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">6e757bd7e43c2466182f6dd0f880ef8e813137ba810c1269ec7bf95a323ff15c</guid>
       <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
