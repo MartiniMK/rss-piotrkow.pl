@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 28 Apr 2026 06:45:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 10:25:59 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trwa XXXIII sesja Rady Miasta Piotrkowa Trybunalskiego</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/trwa-xxxiii-sesja-rady-miasta-piotrkowa-trybunalskiego-r4037</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">7fef2dd0c7f549f8065c176a7041b4e802e06995b745594c1c49d74b40fddda0</guid>
-      <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Miasto sprawdza możliwości budowy przejścia pod torami</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/miasto-sprawdza-mozliwosci-budowy-przejscia-pod-torami-r4041</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">7c76e7ac7b851634cf6d16aa598c097e318f77c9a59988fb9850811cb5d30440</guid>
-      <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Za nami XXXIII sesja Rady Miasta – oto najważniejsze informacje</title>
@@ -84,6 +70,20 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">6e757bd7e43c2466182f6dd0f880ef8e813137ba810c1269ec7bf95a323ff15c</guid>
       <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Święto 3 Maja - program</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/swieto-3-maja-program-r4055</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">57f5d1cd7d052f2508eca28a3ce61eae4e21bd2cb6bfe388047f9cc7e2bce878</guid>
+      <pubDate>Tue, 28 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Skrócone godziny pracy PSZOK przy ul. Orlej 11 w dniu 30 kwietnia</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/skrocone-godziny-pracy-pszok-przy-ul.-orlej-11-w-dniu-30-kwietnia-r4056</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">3bc3923ab32116d0df5835fcc503d091b23fb3a3aeb15f666e5b130956c9e2cf</guid>
+      <pubDate>Tue, 28 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
