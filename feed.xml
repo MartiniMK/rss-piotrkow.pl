@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 29 Apr 2026 06:38:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 10:19:32 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rebranding banku, który obsługuje Urząd Miasta – co to oznacza dla mieszkańców?</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rebranding-banku-ktory-obsluguje-urzad-miasta-co-to-oznacza-dla-mieszkancow-r4043</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">2c2b03f36b88ff6448f962985ccacd1787372cc248cad82ae4e41e2f39784e9a</guid>
-      <pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Tymczasowe zmiany w komunikacji regionalnej – remont ul. Rakowskiej</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">a991ccfed3eb7ddbc5bdc1cacef0f264f012f2ccf80b7cf1bcc558ab208088a2</guid>
       <pubDate>Tue, 28 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Akcja – reakcja. Wiosenne porządki na osiedlu Wierzeje</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/akcja-reakcja.-wiosenne-porzadki-na-osiedlu-wierzeje-r4059</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">57ec7c048e2c41ea66a033ffb8eb663bfef3b04bd057add479568d7f22587b98</guid>
+      <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
