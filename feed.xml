@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 30 Apr 2026 04:05:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 06:42:39 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -79,10 +79,10 @@
       <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Rusza jedna z największy inwestycji Piotrkowa</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rusza-jedna-z-najwiekszy-inwestycji-piotrkowa-r4062</link>
+      <title>Rusza jedna z największych inwestycji Piotrkowa</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rusza-jedna-z-najwiekszych-inwestycji-piotrkowa-r4062</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">ca36750385fbf9dc698affaeed0de566d8a2a2b067f5b41f1554ed2284321bfd</guid>
+      <guid isPermaLink="false">724e389617535068c4db7531d56efb3d2e28c8f881411faf6234009fb1295faf</guid>
       <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
