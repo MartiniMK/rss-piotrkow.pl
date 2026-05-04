@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 04 May 2026 07:25:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 10:25:51 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Święto 3 Maja - program</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/swieto-3-maja-program-r4055</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">57f5d1cd7d052f2508eca28a3ce61eae4e21bd2cb6bfe388047f9cc7e2bce878</guid>
-      <pubDate>Tue, 28 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Skrócone godziny pracy PSZOK przy ul. Orlej 11 w dniu 30 kwietnia</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">436f9d295e012c1350d725fc010ab5df27162cd26108bf1e6d4e31c639130511</guid>
       <pubDate>Sat, 02 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Edukacja z Wojskiem Polskim – weź udział w projekcie</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/edukacja-z-wojskiem-polskim-wez-udzial-w-projekcie-r4072</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">283e76ad35c7b4c0a5ec4f94d7e95b640c2c242058ace57a3d4981334a502f3b</guid>
+      <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
