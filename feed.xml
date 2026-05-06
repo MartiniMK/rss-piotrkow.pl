@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 06 May 2026 06:45:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:27:55 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dzień autyzmu w Piotrkowie Trybunalskim</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/dzien-autyzmu-w-piotrkowie-trybunalskim-r4064</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">948a3dfb01759c6d092d4b61860de49e1218b46571358233cef497cabe6fd806</guid>
-      <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jak będą kursować autobusy w majówkę?</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/jak-beda-kursowac-autobusy-w-majowke-r4066</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">14bf0c20aed101a2b166bea0826420a721ef09b30bfd937d30cc63239531b0e3</guid>
-      <pubDate>Thu, 30 Apr 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Uroczyste obchody Święta Konstytucji 3 Maja</title>
@@ -84,6 +70,20 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">c3025b64ae94a3f3174451915d89f3809c8033a0c104f1bdcf236eca7e9beec1</guid>
       <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Piknik historyczny z okazji Narodowego Dnia Zwycięstwa</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piknik-historyczny-z-okazji-narodowego-dnia-zwyciestwa-r4081</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">f5d7b5c709e362f6d39e1793e199698576207ae77e88a94f077ba2f270812956</guid>
+      <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zamknięty przejazd kolejowy na ul. Rolniczej</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zamkniety-przejazd-kolejowy-na-ul.-rolniczej-r4084</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">120b84c78bbff7d276a66c2827cb1d860e2f5cc2508e806e6bbadb1e6f08c32c</guid>
+      <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
