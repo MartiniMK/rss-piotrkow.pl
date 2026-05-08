@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 08 May 2026 07:59:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 09:55:29 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Edukacja z Wojskiem Polskim – weź udział w projekcie</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/edukacja-z-wojskiem-polskim-wez-udzial-w-projekcie-r4072</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">283e76ad35c7b4c0a5ec4f94d7e95b640c2c242058ace57a3d4981334a502f3b</guid>
-      <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>„Funduszowy Maj” w Piotrkowie Trybunalskim. Miasto na trasie ogólnopolskiego projektu</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/funduszowy-maj-w-piotrkowie-trybunalskim.-miasto-na-trasie-ogolnopolskiego-projektu-r4074</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">bf34bf23d7d0987324f9ba5050ca846477c7bbc410a1e297a101fec52e067b69</guid>
-      <pubDate>Mon, 04 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>W maju ogarnij mammografię!</title>
@@ -84,6 +70,20 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">567a60539f7c29336afd0767da9af818f930d5b7af24f6581885131762e282fb</guid>
       <pubDate>Thu, 07 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Narodowy Dzień Zwycięstwa. 81 lat od końca wojny</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/narodowy-dzien-zwyciestwa.-81-lat-od-konca-wojny-r4097</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">9cb2f19cf98e74561e5f7ccc4e6ce986b077d3025b64967e679b612417363477</guid>
+      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dzień Rzecznika Finansowego w Akademii Piotrkowskiej</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/dzien-rzecznika-finansowego-w-akademii-piotrkowskiej-r4098</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">676a9d73afdde0913edd4021e4b26afb243445b97fda1c5a74203d4f2f62f32d</guid>
+      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
