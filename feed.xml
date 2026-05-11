@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 11 May 2026 04:37:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 10:00:09 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Uczniowie zaprojektowali maskotkę do promocji bezpieczeństwa</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/uczniowie-zaprojektowali-maskotke-do-promocji-bezpieczenstwa-r4070</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">be3d95210632dfad79b42a47e0a1fc8ebde19bfffe6ccc306daf48dcbcca7200</guid>
-      <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unijna dotacja dla miasta na ochronę przyrody i bioróżnorodność</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/unijna-dotacja-dla-miasta-na-ochrone-przyrody-i-bioroznorodnosc-r4076</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">795904851f37b5a905d6b32d1ca125ef28b4de88c6a90a04dc60eb213eb6e404</guid>
-      <pubDate>Tue, 05 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Poradnik Bezpieczeństwa dostępny w punktach informacji UM</title>
@@ -84,6 +70,20 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">676a9d73afdde0913edd4021e4b26afb243445b97fda1c5a74203d4f2f62f32d</guid>
       <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Za nami Festiwal Sztuki Japońskiej w Piotrkowie Trybunalskim</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/za-nami-festiwal-sztuki-japonskiej-w-piotrkowie-trybunalskim-r4096</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">0ba48f3f7ddbc46dd8bf75128854b78bc9eb7533d6f3e8182e3efb09a8a077e5</guid>
+      <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Radość najmłodszych mówi wszystko — plac zabaw przy Miejskim Żłobku Dziennym został oficjalnie otwarty</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/radosc-najmlodszych-mowi-wszystko-plac-zabaw-przy-miejskim-zlobku-dziennym-zostal-oficjalnie-otwarty-r4100</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">72e7b7bbad4406046a6ce94b48925c1f5bbc74d9caae979b81f08ce904f51792</guid>
+      <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
