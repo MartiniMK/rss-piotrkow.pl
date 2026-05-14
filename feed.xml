@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 14 May 2026 07:23:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 10:35:36 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">6e757bd7e43c2466182f6dd0f880ef8e813137ba810c1269ec7bf95a323ff15c</guid>
       <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Miasto ratuje kasztanowce na miejskich skwerach i w parkach</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/miasto-ratuje-kasztanowce-na-miejskich-skwerach-i-w-parkach-r4093</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">d1324224d416085b5b5a84c05d6cd38f9f263ddcd20b7df4ca47a2dcd4df404a</guid>
-      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Narodowy Dzień Zwycięstwa. 81 lat od końca wojny</title>
@@ -79,18 +72,25 @@
       <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Noc Muzeów 2026 nie tylko na zamku królewskim w Piotrkowie</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/noc-muzeow-2026-nie-tylko-na-zamku-krolewskim-w-piotrkowie-r4107</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">5a3333c947b17979193cf0d879102719ade5a50719a80542c99d31ac4b3b0694</guid>
-      <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Zimą łyżwy, latem koszykówka. Rusza budowa nowego lodowiska</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zima-lyzwy-latem-koszykowka.-rusza-budowa-nowego-lodowiska-r4110</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">aa7cc27deb698087857237c9bafc87c640e58621708fd51ee332271d17aee206</guid>
       <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Juwenalia 2026 w Piotrkowie. Świętuje brać studencka Akademii Piotrkowskiej</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/juwenalia-2026-w-piotrkowie.-swietuje-brac-studencka-akademii-piotrkowskiej-r4114</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">6c702686c8585979886911b3d3aa187ad0718d1e9cfeae458a297eae4b489da2</guid>
+      <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Debata nad raportem o stanie miasta za 2025 rok</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/debata-nad-raportem-o-stanie-miasta-za-2025-rok-r4115</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">e7c8f577e85212a29f930077552cd9f7230152cbf831c1b2c1fc4f2078bf7220</guid>
+      <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
