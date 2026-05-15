@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 15 May 2026 09:24:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 12:13:25 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,20 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">6e757bd7e43c2466182f6dd0f880ef8e813137ba810c1269ec7bf95a323ff15c</guid>
       <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Radość najmłodszych mówi wszystko — plac zabaw przy Miejskim Żłobku Dziennym został oficjalnie otwarty</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/radosc-najmlodszych-mowi-wszystko-plac-zabaw-przy-miejskim-zlobku-dziennym-zostal-oficjalnie-otwarty-r4100</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">72e7b7bbad4406046a6ce94b48925c1f5bbc74d9caae979b81f08ce904f51792</guid>
-      <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Z miłością przez dekady – jubileusze małżeńskie</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/z-miloscia-przez-dekady-jubileusze-malzenskie-r4103</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">8206f9214f9bba81aa75dfa4ff0ea6e13c7cebf91d3b2c6b98f0965978cecd87</guid>
-      <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Oto zwycięskie projekty Piotrkowskich Mikrograntów</title>
@@ -79,17 +65,31 @@
       <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>„Żywe obrazy" na jubileuszowej wystawie w OEA MOK</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zywe-obrazy-na-jubileuszowej-wystawie-w-oea-mok-r4120</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">c1c033169c3145c856863653eecb56f222394c9e53c68ac7b575764d0e5f5a54</guid>
-      <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Dzień otwarty w miejskim żłobku</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/dzien-otwarty-w-miejskim-zlobku-r4121</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">bb38c546bb0beb4bad1d9dc626401d61d2d1d44adfb7991eae4dc4f4b5357e9e</guid>
+      <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Piotrkowscy studenci rozpoczęli Juwenalia 2026</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkowscy-studenci-rozpoczeli-juwenalia-2026-r4122</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">3e323e53000cd937dc6353370263c1c484c2e628414491b674f0bcbc8d33c8f9</guid>
+      <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Doroczna wystawa absolwentów Liceum Sztuk Plastycznych</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/doroczna-wystawa-absolwentow-liceum-sztuk-plastycznych-r4123</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">efb6da35e3ffa330bd83dfb3ec375f7c1a1a68ff4c00d0c223051669d705311f</guid>
+      <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Przerwa techniczna w dostępie do usług sieciowych geoportalu</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/przerwa-techniczna-w-dostepie-do-uslug-sieciowych-geoportalu-r4127</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">03df883c5e944247c1f5ea3b26db1357286f5e1141df631652a798f297a6ae86</guid>
       <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
