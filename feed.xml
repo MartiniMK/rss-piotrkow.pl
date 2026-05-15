@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 15 May 2026 04:19:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 09:24:33 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,20 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">6e757bd7e43c2466182f6dd0f880ef8e813137ba810c1269ec7bf95a323ff15c</guid>
       <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dzień Rzecznika Finansowego w Akademii Piotrkowskiej</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/dzien-rzecznika-finansowego-w-akademii-piotrkowskiej-r4098</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">676a9d73afdde0913edd4021e4b26afb243445b97fda1c5a74203d4f2f62f32d</guid>
-      <pubDate>Fri, 08 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Za nami Festiwal Sztuki Japońskiej w Piotrkowie Trybunalskim</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/za-nami-festiwal-sztuki-japonskiej-w-piotrkowie-trybunalskim-r4096</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">0ba48f3f7ddbc46dd8bf75128854b78bc9eb7533d6f3e8182e3efb09a8a077e5</guid>
-      <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Radość najmłodszych mówi wszystko — plac zabaw przy Miejskim Żłobku Dziennym został oficjalnie otwarty</title>
@@ -86,11 +72,25 @@
       <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Nowy prezes Towarzystwa Przyjaciół Piotrkowa Trybunalskiego</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nowy-prezes-towarzystwa-przyjaciol-piotrkowa-trybunalskiego-r4119</link>
+      <title>Zmiana prezesa Towarzystwa Przyjaciół Piotrkowa Trybunalskiego</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zmiana-prezesa-towarzystwa-przyjaciol-piotrkowa-trybunalskiego-r4119</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">2bcd7c8f765b44d13f8bb1df6626df17cc81650b439ddc4e894abe40782c1960</guid>
+      <guid isPermaLink="false">3b2ee36d0fa3c13889e03fbde91c999b9de3770661eddda4afbadb1c8a7178fc</guid>
       <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>„Żywe obrazy" na jubileuszowej wystawie w OEA MOK</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zywe-obrazy-na-jubileuszowej-wystawie-w-oea-mok-r4120</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">c1c033169c3145c856863653eecb56f222394c9e53c68ac7b575764d0e5f5a54</guid>
+      <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dzień otwarty w miejskim żłobku</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/dzien-otwarty-w-miejskim-zlobku-r4121</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">bb38c546bb0beb4bad1d9dc626401d61d2d1d44adfb7991eae4dc4f4b5357e9e</guid>
+      <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
