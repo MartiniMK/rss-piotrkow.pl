@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 18 May 2026 04:43:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 10:41:14 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,20 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">6e757bd7e43c2466182f6dd0f880ef8e813137ba810c1269ec7bf95a323ff15c</guid>
       <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oto zwycięskie projekty Piotrkowskich Mikrograntów</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/oto-zwycieskie-projekty-piotrkowskich-mikrograntow-r4105</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">66a68605e90b8f49ca7be3699269d40c8156b42eb45f05818644ec592504f833</guid>
-      <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Święto pielęgniarek i położnych w Piotrkowie Trybunalskim</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/swieto-pielegniarek-i-poloznych-w-piotrkowie-trybunalskim-r4106</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">a43072e0271f4cb94d00a05d65f79515fbfe8e9ed42c842d6f247dbfb1adfa73</guid>
-      <pubDate>Tue, 12 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Zimą łyżwy, latem koszykówka. Rusza budowa nowego lodowiska</title>
@@ -91,6 +77,20 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">03df883c5e944247c1f5ea3b26db1357286f5e1141df631652a798f297a6ae86</guid>
       <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rusza nabór w ramach programu „Zawodowa reaktywacja"</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rusza-nabor-w-ramach-programu-zawodowa-reaktywacja-r4129</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">687d333c2a84d71db5fd662d935001b673b5f26686e4053b6df386c3268a7b0a</guid>
+      <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zgłoś projekt do Budżetu Obywatelskiego 2027!</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zglos-projekt-do-budzetu-obywatelskiego-2027-r4131</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">b981b07f06aab9f137c00b1657fcb1eab0ff96b788999cd655ed0929bfb8c5c1</guid>
+      <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
