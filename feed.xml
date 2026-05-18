@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 18 May 2026 10:41:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 15:56:50 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">6e757bd7e43c2466182f6dd0f880ef8e813137ba810c1269ec7bf95a323ff15c</guid>
       <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zimą łyżwy, latem koszykówka. Rusza budowa nowego lodowiska</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zima-lyzwy-latem-koszykowka.-rusza-budowa-nowego-lodowiska-r4110</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">aa7cc27deb698087857237c9bafc87c640e58621708fd51ee332271d17aee206</guid>
-      <pubDate>Wed, 13 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Debata nad raportem o stanie miasta za 2025 rok</title>
@@ -65,13 +58,6 @@
       <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Doroczna wystawa absolwentów Liceum Sztuk Plastycznych</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/doroczna-wystawa-absolwentow-liceum-sztuk-plastycznych-r4123</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">efb6da35e3ffa330bd83dfb3ec375f7c1a1a68ff4c00d0c223051669d705311f</guid>
-      <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Przerwa techniczna w dostępie do usług sieciowych geoportalu</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/przerwa-techniczna-w-dostepie-do-uslug-sieciowych-geoportalu-r4127</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
@@ -90,6 +76,20 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zglos-projekt-do-budzetu-obywatelskiego-2027-r4131</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">b981b07f06aab9f137c00b1657fcb1eab0ff96b788999cd655ed0929bfb8c5c1</guid>
+      <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lubimy ciepło, czyli finał Lekcji Ciepła w Szkole Podstawowej nr 12</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/lubimy-cieplo-czyli-final-lekcji-ciepla-w-szkole-podstawowej-nr-12-r4133</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">3b022b5a7c4b16a55962216196a39f61c6534448bb34979fc268cea8548bea15</guid>
+      <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>106. rocznica urodzin Jana Pawła II w Piotrkowie</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/106.-rocznica-urodzin-jana-pawla-ii-w-piotrkowie-r4134</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">b7c325852a0cfc419e077f0ffb3c0a0eafd1c4854cc05a3ef9e42aef995c8317</guid>
       <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
