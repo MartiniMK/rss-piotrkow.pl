@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 20 May 2026 12:39:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 17:30:52 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,20 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">6e757bd7e43c2466182f6dd0f880ef8e813137ba810c1269ec7bf95a323ff15c</guid>
       <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rozpoczyna się modernizacja Orlika przy SP 12</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rozpoczyna-sie-modernizacja-orlika-przy-sp-12-r4118</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">9ba75935dca57062afed6ce015fff4f29cd9e028037bab520d30b44cc5cc2365</guid>
-      <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zmiana prezesa Towarzystwa Przyjaciół Piotrkowa Trybunalskiego</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zmiana-prezesa-towarzystwa-przyjaciol-piotrkowa-trybunalskiego-r4119</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">3b2ee36d0fa3c13889e03fbde91c999b9de3770661eddda4afbadb1c8a7178fc</guid>
-      <pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Dzień otwarty w miejskim żłobku</title>
@@ -56,13 +42,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">03df883c5e944247c1f5ea3b26db1357286f5e1141df631652a798f297a6ae86</guid>
       <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rusza nabór w ramach programu „Zawodowa reaktywacja"</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rusza-nabor-w-ramach-programu-zawodowa-reaktywacja-r4129</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">687d333c2a84d71db5fd662d935001b673b5f26686e4053b6df386c3268a7b0a</guid>
-      <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Zgłoś projekt do Budżetu Obywatelskiego 2027!</title>
@@ -91,6 +70,27 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3dcb110058638c17b9128273a5b28dc83b97786b4564ee6c432ba1381302c8d4</guid>
       <pubDate>Tue, 19 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>20 lat Uniwersytetu Trzeciego Wieku w Piotrkowie Trybunalskim</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/20-lat-uniwersytetu-trzeciego-wieku-w-piotrkowie-trybunalskim-r4140</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">baf64f7b8ded16ab085d926e14790c7c2b7e03cb9c08561d3f36443937764171</guid>
+      <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wielki finał konkursu interdyscyplinarnego w CRE WŁ w Piotrkowie</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wielki-final-konkursu-interdyscyplinarnego-w-cre-wl-w-piotrkowie-r4141</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">a57a4b108ef402f8b720a749245f9c67e435f1475a2584d30e8e23d88fbc0462</guid>
+      <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Medalowy Piknik i Strefa Kibica</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/medalowy-piknik-i-strefa-kibica-r4142</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">0cafac34ce2e246cc05574c8ee7150e5c1e6e46687c187a8bcf7f667bd069f31</guid>
+      <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
