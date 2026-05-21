@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 21 May 2026 10:03:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 13:32:35 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">6e757bd7e43c2466182f6dd0f880ef8e813137ba810c1269ec7bf95a323ff15c</guid>
       <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dzień otwarty w miejskim żłobku</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/dzien-otwarty-w-miejskim-zlobku-r4121</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">bb38c546bb0beb4bad1d9dc626401d61d2d1d44adfb7991eae4dc4f4b5357e9e</guid>
-      <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Piotrkowscy studenci rozpoczęli Juwenalia 2026</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">8cccd8a545da07ea76c349b642c572d3789142a9a3d5df3a3211b993dcde25ed</guid>
       <pubDate>Wed, 20 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nie przegapcie tej imprezy – Miejski Dzień Dziecka już 31 maja!</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nie-przegapcie-tej-imprezy-miejski-dzien-dziecka-juz-31-maja-r4145</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">6a0fefc63df1de159e5f13b553c2a75e08fea9d75f75e0f90f73ea5b2d7734e1</guid>
+      <pubDate>Thu, 21 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
