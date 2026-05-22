@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 22 May 2026 09:50:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 12:35:07 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">6e757bd7e43c2466182f6dd0f880ef8e813137ba810c1269ec7bf95a323ff15c</guid>
       <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Przerwa techniczna w dostępie do usług sieciowych geoportalu</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/przerwa-techniczna-w-dostepie-do-uslug-sieciowych-geoportalu-r4127</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">03df883c5e944247c1f5ea3b26db1357286f5e1141df631652a798f297a6ae86</guid>
-      <pubDate>Fri, 15 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Zgłoś projekt do Budżetu Obywatelskiego 2027!</title>
@@ -90,6 +83,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/sesja-rady-miasta-w-najblizszy-wtorek-r4148</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">a4ee9d65366aeaf6f11c0f83a2a68bfce0ab7b6eecfb9a1f39572660e4542b94</guid>
+      <pubDate>Fri, 22 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wielki finał lekcji WF-u na miejskim stadionie Concordii</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wielki-final-lekcji-wf-u-na-miejskim-stadionie-concordii-r4149</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">7fd89e37d59be98166c89e8a470864619ddd75107098836e583ae412f09bd1fa</guid>
       <pubDate>Fri, 22 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
