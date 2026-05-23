@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Sat, 23 May 2026 06:46:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 10:05:11 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">6e757bd7e43c2466182f6dd0f880ef8e813137ba810c1269ec7bf95a323ff15c</guid>
       <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zgłoś projekt do Budżetu Obywatelskiego 2027!</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zglos-projekt-do-budzetu-obywatelskiego-2027-r4131</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">b981b07f06aab9f137c00b1657fcb1eab0ff96b788999cd655ed0929bfb8c5c1</guid>
-      <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lubimy ciepło, czyli finał Lekcji Ciepła w Szkole Podstawowej nr 12</title>
@@ -90,6 +83,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wielki-final-lekcji-wf-u-na-miejskim-stadionie-concordii-r4149</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">7fd89e37d59be98166c89e8a470864619ddd75107098836e583ae412f09bd1fa</guid>
+      <pubDate>Fri, 22 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Piotrkowskie szczypiornistki brązowymi medalistkami - tak świętowaliśmy sukces MKS Piotrcovii!</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkowskie-szczypiornistki-brazowymi-medalistkami-tak-swietowalismy-sukces-mks-piotrcovii-r4150</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">42bf8b2e9ff521709d95aad0da8b7fe7eff1fde7fb6a39c1056429b82f2f9d03</guid>
       <pubDate>Fri, 22 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
