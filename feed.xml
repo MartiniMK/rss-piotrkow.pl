@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 29 May 2026 13:35:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 17:44:21 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">6e757bd7e43c2466182f6dd0f880ef8e813137ba810c1269ec7bf95a323ff15c</guid>
       <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Piotrkowskie szczypiornistki brązowymi medalistkami - tak świętowaliśmy sukces MKS Piotrcovii!</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkowskie-szczypiornistki-brazowymi-medalistkami-tak-swietowalismy-sukces-mks-piotrcovii-r4150</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">42bf8b2e9ff521709d95aad0da8b7fe7eff1fde7fb6a39c1056429b82f2f9d03</guid>
-      <pubDate>Fri, 22 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Badamy nie tylko mamy – piotrkowskie Amazonki zapraszają na spacer</title>
@@ -90,6 +83,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/weekend-w-piotrkowie-sprawdz-co-dzieje-sie-w-ostatni-weekend-maja-r4167</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">ef884b57fdd5de6cdbcc64710dcab4a078606996f3574cba50ebe6e6d4fc5e3d</guid>
+      <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Obchody Dnia Weterana w Piotrkowie Trybunalskim</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/obchody-dnia-weterana-w-piotrkowie-trybunalskim-r4169</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">c350537add4720781271871e3e3d9fe61e7bc7ea09e8ee2eb8038ca64aad4fcd</guid>
       <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
