@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 02 Jun 2026 05:01:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 10:56:00 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,20 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">6e757bd7e43c2466182f6dd0f880ef8e813137ba810c1269ec7bf95a323ff15c</guid>
       <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Festyn Rodzinny „Bliżej Wyzwolenia”</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/festyn-rodzinny-blizej-wyzwolenia-r4160</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">6b19c0cbdb3a1fb17d4ff339d1df8fae6ee8f1cda791186e10308b31112ae098</guid>
-      <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wotum zaufania i absolutorium dla prezydenta Piotrkowa</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wotum-zaufania-i-absolutorium-dla-prezydenta-piotrkowa-r4161</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">f6db94749e9fc06fd5f05326f101d56708936641b60c1c439add9ce115f44450</guid>
-      <pubDate>Tue, 26 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Rusza ostatni etap rozbudowy ul. Jeziornej. AKTUALIZACJA</title>
@@ -91,6 +77,20 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4733e032817f5f5425b665cab1a78bda09cd0692a9329950f78c24429a55b90e</guid>
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Świetna zabawa na pikniku ekologicznym w ZSP nr 2</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/swietna-zabawa-na-pikniku-ekologicznym-w-zsp-nr-2-r4175</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">726ecb5853de399443036136298c97bca264d1620e3c06ed3524dc5e3eba8428</guid>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wykonawca przejął plac budowy przy SP nr 13</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wykonawca-przejal-plac-budowy-przy-sp-nr-13-r4176</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">ccf6a4f3b84275a806990f70add32ce2e8b40d95905d9ef9d1e5db65d82d4d76</guid>
+      <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
