@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 02 Jun 2026 10:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 16:55:55 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">6e757bd7e43c2466182f6dd0f880ef8e813137ba810c1269ec7bf95a323ff15c</guid>
       <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rusza ostatni etap rozbudowy ul. Jeziornej. AKTUALIZACJA</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rusza-ostatni-etap-rozbudowy-ul.-jeziornej.-aktualizacja-r4153</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">f5fee381879be71e3c3fc185a2a7a39aaa37b60ccf05c442eaba7bed2fe520b9</guid>
-      <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Właściciele wyremontowanych kamienic nagrodzeni</title>
@@ -79,17 +72,24 @@
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Świetna zabawa na pikniku ekologicznym w ZSP nr 2</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/swietna-zabawa-na-pikniku-ekologicznym-w-zsp-nr-2-r4175</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">726ecb5853de399443036136298c97bca264d1620e3c06ed3524dc5e3eba8428</guid>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Wykonawca przejął plac budowy przy SP nr 13</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wykonawca-przejal-plac-budowy-przy-sp-nr-13-r4176</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">ccf6a4f3b84275a806990f70add32ce2e8b40d95905d9ef9d1e5db65d82d4d76</guid>
+      <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GAME ON w Budowlance - szkoła, biznes i młodzież razem</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/game-on-w-budowlance-szkola-biznes-i-mlodziez-razem-r4177</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">700018dc385aba3ede29907ffce4c77b9365820f87e1d91f204b9fc06507396b</guid>
+      <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tak świętowaliśmy Dzień Dziecka w placówkach opiekuńczych w Piotrkowie</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/tak-swietowalismy-dzien-dziecka-w-placowkach-opiekunczych-w-piotrkowie-r4178</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">531d2cc88c3f99cd625eaf450a5cb5e2b6f56b333b778f7e13479cbc2f717e48</guid>
       <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
