@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 05 Jun 2026 04:48:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 10:16:36 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">6e757bd7e43c2466182f6dd0f880ef8e813137ba810c1269ec7bf95a323ff15c</guid>
       <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>W Piotrkowie o bezpieczeństwie i współpracy europejskich państw</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/w-piotrkowie-o-bezpieczenstwie-i-wspolpracy-europejskich-panstw-r4164</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">09389e6ef183ef37e4d06e9b1f4e7acef8197a56d7f97f2c6a702b8ce6290514</guid>
-      <pubDate>Wed, 27 May 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Bezpłatne zajęcia dla piotrkowskich seniorów</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">a776249040b25c93e7ecb8a4d25b9ec88bdb4c2d1b7b9d9b00edf28eafdb7a0a</guid>
       <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Piknik historyczny z Akademią Piotrkowską</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piknik-historyczny-z-akademia-piotrkowska-r4186</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">05ceafc43f4fb771ba60a45acc2d1521a4bd37d57b40ee7b2db439ccad19537d</guid>
+      <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
