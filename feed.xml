@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 09 Jun 2026 10:03:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 13:17:48 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">6e757bd7e43c2466182f6dd0f880ef8e813137ba810c1269ec7bf95a323ff15c</guid>
       <pubDate>Mon, 27 Apr 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Konsultacje w sprawie przejazdu na ul. Rolniczej</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/konsultacje-w-sprawie-przejazdu-na-ul.-rolniczej-r4171</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">4733e032817f5f5425b665cab1a78bda09cd0692a9329950f78c24429a55b90e</guid>
-      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Wykonawca przejął plac budowy przy SP nr 13</title>
@@ -90,6 +83,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zlote-gody-w-piotrkowie-milosc-ktora-trwa-od-pieciu-dekad-r4199</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">d5795cd7452bd47f64c52a10858896ccca0e1afbfe97fe944e69cdf4eab3d784</guid>
+      <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dni Piotrkowa 2026. Oto program! Zobaczcie, jakie będą atrakcje</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/dni-piotrkowa-2026.-oto-program-zobaczcie-jakie-beda-atrakcje-r4200</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
