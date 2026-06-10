@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 10 Jun 2026 18:42:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 22:20:39 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tak świętowaliśmy Dzień Dziecka w placówkach opiekuńczych w Piotrkowie</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/tak-swietowalismy-dzien-dziecka-w-placowkach-opiekunczych-w-piotrkowie-r4178</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">531d2cc88c3f99cd625eaf450a5cb5e2b6f56b333b778f7e13479cbc2f717e48</guid>
-      <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Na wakacje do Wojska Polskiego – wojsko zaprasza młodych na szkolenie</title>
@@ -83,6 +76,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wspanialy-jubileusz-55-lecia-przedszkola-samorzadowego-nr-24-r4202</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">16a036d8aa885da1c03e7c6b5996c6d8269a26b6f530293cc0f61ba3e7c5ab1e</guid>
+      <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trwają prace przy budowie lodowiska w Piotrkowie</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/trwaja-prace-przy-budowie-lodowiska-w-piotrkowie-r4204</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">5565b2b4dcf0cbfb839a494051ca0fe7cc26d1d3543e2d0c0c6eed4841d91e00</guid>
       <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
