@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 15 Jun 2026 12:43:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 18:46:54 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -83,6 +83,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/od-21-czerwca-zamkniety-przejazd-kolejowy-na-ul.-roosevelta-r4216</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">5c469e39dd9a608f37311f91ba0e7e573ad5f0fe51b149710317bf23034b9afb</guid>
+      <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Półmaraton widziany oczami 10-letnich Piotrkowian – oto laureaci konkursu</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/polmaraton-widziany-oczami-10-letnich-piotrkowian-oto-laureaci-konkursu-r4219</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">8f466bebbc2f838cdd81f9990160798b4a791d9bb172aa347524adbe699a5564</guid>
       <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
