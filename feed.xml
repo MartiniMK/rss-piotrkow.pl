@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 15 Jun 2026 05:29:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:43:14 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bezpłatne autobusy na Dni Piotrkowa. Rozkład jazdy MZK, utrudnienia w ruchu</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/bezplatne-autobusy-na-dni-piotrkowa.-rozklad-jazdy-mzk-utrudnienia-w-ruchu-r4194</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">35613c74f4749081090105ececbd6811c8a4086337d8ff3196961f433dec2ac3</guid>
-      <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Złote Gody w Piotrkowie – miłość, która trwa od pięciu dekad</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zlote-gody-w-piotrkowie-milosc-ktora-trwa-od-pieciu-dekad-r4199</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">d5795cd7452bd47f64c52a10858896ccca0e1afbfe97fe944e69cdf4eab3d784</guid>
-      <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Bon ciepłowniczy 2026 w Piotrkowie Trybunalskim</title>
@@ -72,18 +58,32 @@
       <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Finał ogólnopolski igrzysk w piłce ręcznej w Piotrkowie</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/final-ogolnopolski-igrzysk-w-pilce-recznej-w-piotrkowie-r4210</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">4086319b4374717203e8d084ab42bab354050166e43730c2df37ac23d19a0dd2</guid>
-      <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Przygotowania do Dni Piotrkowa 2026. Zamknięcia ulic i zmiany w komunikacji</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/przygotowania-do-dni-piotrkowa-2026.-zamkniecia-ulic-i-zmiany-w-komunikacji-r4212</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4cfcc0631a8d0d8773080ccd2e5d693d25bb5a46fa05941c9ee2d9c8fee47222</guid>
       <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ponad 800 biegaczy na jubileuszowym piotrkowskim półmaratonie!</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/ponad-800-biegaczy-na-jubileuszowym-piotrkowskim-polmaratonie-r4213</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">2672dce52272fad0df8e441f956e457d6cc40889d4db121704e3c052cb39df2a</guid>
+      <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dni Piotrkowa 2026 – fantastyczna zabawa, koncerty i jarmark!</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/dni-piotrkowa-2026-fantastyczna-zabawa-koncerty-i-jarmark-r4215</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">73a9f8ce4a11e3704773b627670ab60d79e402109b2d6779a49de1d365b3f8a9</guid>
+      <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Od 21 czerwca zamknięty przejazd kolejowy na ul. Roosevelta</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/od-21-czerwca-zamkniety-przejazd-kolejowy-na-ul.-roosevelta-r4216</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">5c469e39dd9a608f37311f91ba0e7e573ad5f0fe51b149710317bf23034b9afb</guid>
+      <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
