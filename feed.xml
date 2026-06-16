@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 16 Jun 2026 05:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 11:35:27 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -65,13 +65,6 @@
       <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Ponad 800 biegaczy na jubileuszowym piotrkowskim półmaratonie!</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/ponad-800-biegaczy-na-jubileuszowym-piotrkowskim-polmaratonie-r4213</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">2672dce52272fad0df8e441f956e457d6cc40889d4db121704e3c052cb39df2a</guid>
-      <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Dni Piotrkowa 2026 – fantastyczna zabawa, koncerty i jarmark!</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/dni-piotrkowa-2026-fantastyczna-zabawa-koncerty-i-jarmark-r4215</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">8f466bebbc2f838cdd81f9990160798b4a791d9bb172aa347524adbe699a5564</guid>
       <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fragment ul. Wierzejskiej czasowo zamknięty</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/fragment-ul.-wierzejskiej-czasowo-zamkniety-r4223</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">3b5e01a448161a5499876fa285d3e9dfa84a7a43b6d69e901a082d1d46a09c58</guid>
+      <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
