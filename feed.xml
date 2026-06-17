@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 17 Jun 2026 05:17:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:17:46 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bon ciepłowniczy 2026 w Piotrkowie Trybunalskim</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/bon-cieplowniczy-2026-w-piotrkowie-trybunalskim-r4201</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">0ef69f394a7821789d5bf804211264c6f12c29e0b5693020d9aeae278c20d681</guid>
-      <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Dni Piotrkowa 2026. Oto program! Zobaczcie, jakie będą atrakcje</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3b5e01a448161a5499876fa285d3e9dfa84a7a43b6d69e901a082d1d46a09c58</guid>
       <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>30 projektów w Budżecie Obywatelskim 2027</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/30-projektow-w-budzecie-obywatelskim-2027-r4228</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">bcb1ddab236f7a6f8f4289ebb653202988ef2d1c79cae40bf01ae2dd58a71c9f</guid>
+      <pubDate>Wed, 17 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
