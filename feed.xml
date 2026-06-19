@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 19 Jun 2026 05:26:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:57:45 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pamiątkowe medale Krasoń MKS Piotrcovii dla prezydenta</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/pamiatkowe-medale-krason-mks-piotrcovii-dla-prezydenta-r4206</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">7eceed6ae4d712dc11ec8d91b9b531507379b042565ebc64cd0d1ddb45ca6f44</guid>
-      <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Rusza konkurs na opracowanie koncepcji hali sportowo-widowiskowej</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">2c758cc887826a34dc71e402be7219c0624422615de87e2c3eaf9b6ff7d21dbf</guid>
       <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nowe ekopracownie w dwóch szkołach średnich w Piotrkowie</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nowe-ekopracownie-w-dwoch-szkolach-srednich-w-piotrkowie-r4234</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">f66a26b8fc4929d16115acaaf90c1be9e53fd5439d5e06ee0228de700cb00ca2</guid>
+      <pubDate>Fri, 19 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
