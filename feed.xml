@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 21 Jun 2026 12:21:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 16:11:59 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rusza konkurs na opracowanie koncepcji hali sportowo-widowiskowej</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rusza-konkurs-na-opracowanie-koncepcji-hali-sportowo-widowiskowej-r4207</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">3ea454c6d8d05dc1dd364266b4b1cab04eadba40726cd4bba60f022395cc780e</guid>
-      <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Przygotowania do Dni Piotrkowa 2026. Zamknięcia ulic i zmiany w komunikacji</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">f66a26b8fc4929d16115acaaf90c1be9e53fd5439d5e06ee0228de700cb00ca2</guid>
       <pubDate>Fri, 19 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Za nami 3. Piknik Motoryzacyjny „Bezpieczne Lato 2026”</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/za-nami-3.-piknik-motoryzacyjny-bezpieczne-lato-2026-r4238</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">7ff8229c4602e125faad4408ccb4ceb94c83bbaf2de0aa831fe2386b4ddabe9f</guid>
+      <pubDate>Sun, 21 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
