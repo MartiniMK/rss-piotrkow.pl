@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 23 Jun 2026 04:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 10:03:41 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,20 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Półmaraton widziany oczami 10-letnich Piotrkowian – oto laureaci konkursu</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/polmaraton-widziany-oczami-10-letnich-piotrkowian-oto-laureaci-konkursu-r4219</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">8f466bebbc2f838cdd81f9990160798b4a791d9bb172aa347524adbe699a5564</guid>
-      <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fragment ul. Wierzejskiej czasowo zamknięty</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/fragment-ul.-wierzejskiej-czasowo-zamkniety-r4223</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">3b5e01a448161a5499876fa285d3e9dfa84a7a43b6d69e901a082d1d46a09c58</guid>
-      <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Miasto wystawia na sprzedaż kolejne działki. Przetargi już 26 czerwca</title>
@@ -91,6 +77,20 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">08b8e578a55746a2e97cb4437e0740ea922efd41ccd86e4bb36bc6211b640720</guid>
       <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Młodzi, utalentowani i pełni pasji. Poznaliśmy zwycięzców dwóch piotrkowskich konkursów</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/mlodzi-utalentowani-i-pelni-pasji.-poznalismy-zwyciezcow-dwoch-piotrkowskich-konkursow-r4248</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">504f45cfccb4e899162bd6277ea49078cf9f3c7d42a63331a71bbc4113c463c6</guid>
+      <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekend pełen atrakcji w Piotrkowie. Pikniki, festyny i spotkanie z naturą</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/weekend-pelen-atrakcji-w-piotrkowie.-pikniki-festyny-i-spotkanie-z-natura-r4249</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">8c57b25ae43a5a886e6f271e2b6f79fd561365949ccb3de70e82d19b9647a960</guid>
+      <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
