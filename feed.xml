@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 23 Jun 2026 10:03:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 12:47:54 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,20 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Miasto wystawia na sprzedaż kolejne działki. Przetargi już 26 czerwca</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/miasto-wystawia-na-sprzedaz-kolejne-dzialki.-przetargi-juz-26-czerwca-r4227</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">62da059e1783adcf0566bd796dd80b8b510907b040c12f779a69e664384a156a</guid>
-      <pubDate>Tue, 16 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>30 projektów w Budżecie Obywatelskim 2027</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/30-projektow-w-budzecie-obywatelskim-2027-r4228</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">bcb1ddab236f7a6f8f4289ebb653202988ef2d1c79cae40bf01ae2dd58a71c9f</guid>
-      <pubDate>Wed, 17 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nowe ekopracownie w dwóch szkołach średnich w Piotrkowie</title>
@@ -90,6 +76,20 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/weekend-pelen-atrakcji-w-piotrkowie.-pikniki-festyny-i-spotkanie-z-natura-r4249</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">8c57b25ae43a5a886e6f271e2b6f79fd561365949ccb3de70e82d19b9647a960</guid>
+      <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XXXV Sesja Rady Miasta Piotrkowa Trybunalskiego</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/xxxv-sesja-rady-miasta-piotrkowa-trybunalskiego-r4250</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">6e17f532f21ebb2e40b93b075315666693b9c0675cadc07c0c56ce82d026c557</guid>
+      <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Przerwa technologiczna na Krytej Pływalni przy ul. Belzackiej</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/przerwa-technologiczna-na-krytej-plywalni-przy-ul.-belzackiej-r4251</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">b32997217a810222f5f7f124892c4df024fedda5f6c1dfdcf475bd5a71546eab</guid>
       <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
