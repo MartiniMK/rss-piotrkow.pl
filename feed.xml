@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 24 Jun 2026 12:29:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 16:33:54 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Piotrkowskie wianki nad jeziorem Bugaj</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkowskie-wianki-nad-jeziorem-bugaj-r4240</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">8189e04d022b5253d424f14d9c167bbbe600d3809fe67855af74f8ebb0f01fb1</guid>
-      <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Piknik rodzinny na pełnych obrotach przy SP nr 3</title>
@@ -90,6 +83,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/bezplatne-czipowanie-psow-w-piotrkowie.-zadbaj-o-bezpieczenstwo-swojego-pupila-przed-wakacjami-r4254</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3ea3520052c5f8115357304df7e2401dd8a8fdac1310ee12c7d88a63b3d24069</guid>
+      <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XXXV Sesja Rady Miasta za nami</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/xxxv-sesja-rady-miasta-za-nami-r4255</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">de1b0f56922db78ff415b9e5339489628a999b3c01083aff02ea4b288b780982</guid>
       <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
