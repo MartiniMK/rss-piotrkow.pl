@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 24 Jun 2026 09:51:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 12:29:39 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -72,13 +72,6 @@
       <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Przerwa technologiczna na Krytej Pływalni przy ul. Belzackiej</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/przerwa-technologiczna-na-krytej-plywalni-przy-ul.-belzackiej-r4251</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">b32997217a810222f5f7f124892c4df024fedda5f6c1dfdcf475bd5a71546eab</guid>
-      <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Konsultacje społeczne - spotkanie</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/konsultacje-spoleczne-spotkanie-r4252</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
@@ -90,6 +83,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/otwarcie-letnich-basenow-r4253</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">55f8c79245b9697958ea8d2d610df86f6486ad4a13ad0abb7bd8825aefcb2665</guid>
+      <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bezpłatne czipowanie psów w Piotrkowie. Zadbaj o bezpieczeństwo swojego pupila przed wakacjami</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/bezplatne-czipowanie-psow-w-piotrkowie.-zadbaj-o-bezpieczenstwo-swojego-pupila-przed-wakacjami-r4254</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">3ea3520052c5f8115357304df7e2401dd8a8fdac1310ee12c7d88a63b3d24069</guid>
       <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
