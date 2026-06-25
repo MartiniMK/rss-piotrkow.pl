@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 25 Jun 2026 09:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 12:33:25 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,20 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Najlepsi uczniowie w Piotrkowie nagrodzeni</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/najlepsi-uczniowie-w-piotrkowie-nagrodzeni-r4245</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">7184035cfc93f84e1c87e3eb167b0f24231a2d36aa69acbfe07a7a9b7c3361be</guid>
-      <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wyniki konkursu na koncepcję Pomnika Ofiar Rzezi Wołyńskiej do 26 czerwca</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wyniki-konkursu-na-koncepcje-pomnika-ofiar-rzezi-wolynskiej-do-26-czerwca-r4246</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">08b8e578a55746a2e97cb4437e0740ea922efd41ccd86e4bb36bc6211b640720</guid>
-      <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Młodzi, utalentowani i pełni pasji. Poznaliśmy zwycięzców dwóch piotrkowskich konkursów</title>
@@ -90,6 +76,20 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/w-piatek-utrudnienia-na-ul.-rakowskiej.-zmieni-sie-dojazd-do-szpitala-r4256</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">679edd9e420e845cdba6e65bf5aa81942ac59e7a4931f9d4bec1f8858a5ce81b</guid>
+      <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upały: PSZOK będzie zamknięty</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/upaly-pszok-bedzie-zamkniety-r4257</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">620e75f5fa73e2e30f10ea39079e687d78e063193c0e1fbacf3fe22ee22a0885</guid>
+      <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uwaga na upały!</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/uwaga-na-upaly-r4258</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">0ea7cdd0fd991a4abd225ba6f3435bee4d8ad1a37a01e98fcaf25cb64c0dd7f0</guid>
       <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
