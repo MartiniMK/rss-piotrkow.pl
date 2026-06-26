@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 26 Jun 2026 04:40:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 09:52:15 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Młodzi, utalentowani i pełni pasji. Poznaliśmy zwycięzców dwóch piotrkowskich konkursów</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/mlodzi-utalentowani-i-pelni-pasji.-poznalismy-zwyciezcow-dwoch-piotrkowskich-konkursow-r4248</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">504f45cfccb4e899162bd6277ea49078cf9f3c7d42a63331a71bbc4113c463c6</guid>
-      <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Weekend pełen atrakcji w Piotrkowie. Pikniki, festyny i spotkanie z naturą</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">0ea7cdd0fd991a4abd225ba6f3435bee4d8ad1a37a01e98fcaf25cb64c0dd7f0</guid>
       <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nowoczesne pracownie i studio nagrań w Ekonomiku</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nowoczesne-pracownie-i-studio-nagran-w-ekonomiku-r4262</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">320a780506146d7461786767ffb25d157e3cad543340a9b7afcd435abbf2414e</guid>
+      <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
