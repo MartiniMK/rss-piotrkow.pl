@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 29 Jun 2026 05:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 11:24:02 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,27 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XXXV Sesja Rady Miasta Piotrkowa Trybunalskiego</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/xxxv-sesja-rady-miasta-piotrkowa-trybunalskiego-r4250</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">6e17f532f21ebb2e40b93b075315666693b9c0675cadc07c0c56ce82d026c557</guid>
-      <pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Konsultacje społeczne - spotkanie</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/konsultacje-spoleczne-spotkanie-r4252</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">c6c02241b6a3cff54d4572178e644c0800d6de0776a5552ab82ee4bea06c2ee3</guid>
-      <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Otwarcie letnich basenów</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/otwarcie-letnich-basenow-r4253</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">55f8c79245b9697958ea8d2d610df86f6486ad4a13ad0abb7bd8825aefcb2665</guid>
-      <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Bezpłatne czipowanie psów w Piotrkowie. Zadbaj o bezpieczeństwo swojego pupila przed wakacjami</title>
@@ -91,6 +70,27 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">60d7d9492937a7e7c653273c416cd6d837975fae5402b676ae6b014b44cd1ab1</guid>
       <pubDate>Fri, 26 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ruch bez barier – Pomarańczowa Siła</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/ruch-bez-barier-pomaranczowa-sila-r4264</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">f461022655f7f06e3c1e91746c50aee1d039a8af62935ccc1079b6f2e6a48772</guid>
+      <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mury w Blasku Techno - Pokaz przed I LO</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/mury-w-blasku-techno-pokaz-przed-i-lo-r4265</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">ec4c2f08e43830c268795889c34a82613aa493abd92dc7b63ac9cf3eab07984e</guid>
+      <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upały: PSZOK zamknięty</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/upaly-pszok-zamkniety-r4266</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">bfa4e3bbe82dc80a218c68cb2b6690ab0b78378e00d6eb7f324dc62ddd437328</guid>
+      <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
