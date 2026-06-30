@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 30 Jun 2026 10:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 12:24:35 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bezpłatne czipowanie psów w Piotrkowie. Zadbaj o bezpieczeństwo swojego pupila przed wakacjami</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/bezplatne-czipowanie-psow-w-piotrkowie.-zadbaj-o-bezpieczenstwo-swojego-pupila-przed-wakacjami-r4254</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">3ea3520052c5f8115357304df7e2401dd8a8fdac1310ee12c7d88a63b3d24069</guid>
-      <pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>XXXV Sesja Rady Miasta za nami</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">bfa4e3bbe82dc80a218c68cb2b6690ab0b78378e00d6eb7f324dc62ddd437328</guid>
       <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nocne zamknięcie przejazdu kolejowego na ul. Słowackiego. Kierowców czekają utrudnienia</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nocne-zamkniecie-przejazdu-kolejowego-na-ul.-slowackiego.-kierowcow-czekaja-utrudnienia-r4268</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">774b4943c274422a503fbb6752a1a89a576505d017a6b6338c22ffd88b0cb943</guid>
+      <pubDate>Tue, 30 Jun 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
