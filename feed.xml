@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 07 Jul 2026 12:38:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 16:42:15 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ruch bez barier – Pomarańczowa Siła</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/ruch-bez-barier-pomaranczowa-sila-r4264</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">f461022655f7f06e3c1e91746c50aee1d039a8af62935ccc1079b6f2e6a48772</guid>
-      <pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Mury w Blasku Techno - Pokaz przed I LO</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">d61f331a81366e955c2ed7058f38f70beb02618759111df69bf9cdb217a61a1b</guid>
       <pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nadzwyczajna sesja Rady Miasta</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nadzwyczajna-sesja-rady-miasta-r4281</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">391e90217e4e06f1a68f0b1713df03a44bb0825bdf31754ab48929dd63166f9f</guid>
+      <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
