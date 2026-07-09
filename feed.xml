@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 09 Jul 2026 15:34:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 18:11:16 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rada Osiedla Belzacka zaprasza na warsztaty reagowania w sytuacjach kryzysowych</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rada-osiedla-belzacka-zaprasza-na-warsztaty-reagowania-w-sytuacjach-kryzysowych-r4273</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">aecf870fc974fbe79b1648964f1a841ed91f0ee52fed5ef03c90d92c802714c1</guid>
-      <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Za nami 14. Międzynarodowa Wystawa Lotnicza Fly Fest</title>
@@ -90,6 +83,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wakacje-2026-z-mok-harmonogram-wydarzen-r4293</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4ef14c7b70fc3f9423d042df4ab41e84371cf9b6768debc65a24e0bc9b63ca88</guid>
+      <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trwa remont zabytkowej kamienicy przy ul. Słowackiego 13</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/trwa-remont-zabytkowej-kamienicy-przy-ul.-slowackiego-13-r4295</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">82a591d61ea783680de31cf3be296d216b0975e5354f8b011c7bef39f2cd51db</guid>
       <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
