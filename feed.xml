@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 09 Jul 2026 11:19:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 15:34:24 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Planujesz weekend? Zobacz, jakie wydarzenia czekają w Piotrkowie</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/planujesz-weekend-zobacz-jakie-wydarzenia-czekaja-w-piotrkowie-r4272</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">59512c3ace26307e1634a524eba32e90cb2541c694f7cab24624122bdfb937da</guid>
-      <pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Rada Osiedla Belzacka zaprasza na warsztaty reagowania w sytuacjach kryzysowych</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">f7d83b76ed6499667a3fdc36076e86ec212ce9ba907d5cd7dd6046957cc1eee5</guid>
       <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uroczyste czepkowanie pielęgniarek w Akademii Piotrkowskiej</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/uroczyste-czepkowanie-pielegniarek-w-akademii-piotrkowskiej-r4291</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">7f88c97bfc6dc4e0752dda7610f3e84b82efbd5cbd5676ce430930b514eaf0d0</guid>
+      <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Wakacje 2026 z MOK – harmonogram wydarzeń</title>
