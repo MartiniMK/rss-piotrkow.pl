@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 09 Jul 2026 07:59:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 11:19:46 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nocne zamknięcie przejazdu kolejowego na ul. Słowackiego. Kierowców czekają utrudnienia</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nocne-zamkniecie-przejazdu-kolejowego-na-ul.-slowackiego.-kierowcow-czekaja-utrudnienia-r4268</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">774b4943c274422a503fbb6752a1a89a576505d017a6b6338c22ffd88b0cb943</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Planujesz weekend? Zobacz, jakie wydarzenia czekają w Piotrkowie</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">f7d83b76ed6499667a3fdc36076e86ec212ce9ba907d5cd7dd6046957cc1eee5</guid>
       <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wakacje 2026 z MOK – harmonogram wydarzeń</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wakacje-2026-z-mok-harmonogram-wydarzen-r4293</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">4ef14c7b70fc3f9423d042df4ab41e84371cf9b6768debc65a24e0bc9b63ca88</guid>
+      <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
