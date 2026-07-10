@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 10 Jul 2026 07:55:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 11:19:49 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Za nami 14. Międzynarodowa Wystawa Lotnicza Fly Fest</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/za-nami-14.-miedzynarodowa-wystawa-lotnicza-fly-fest-r4274</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">afd414901bcf6f67551f1298409774c857c5afa4e576f4745fa3ebef78290282</guid>
-      <pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>XXXVI Nadzwyczajna Sesja Rady Miasta</title>
@@ -90,6 +83,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/kolejny-etap-prac-remontowych-na-ul.-krotkiej-r4296</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">216f0eb95c389ef7655a8c0338624c956e252598c364924833e10841d502847a</guid>
+      <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Za nami rodzinny piknik w Domu Pomocy Społecznej</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/za-nami-rodzinny-piknik-w-domu-pomocy-spolecznej-r4297</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">942aa611fdc47532333e7e266154fa42e022bb3a4b3218726ad1b08c697e38f4</guid>
       <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
