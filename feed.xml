@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 13 Jul 2026 07:40:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 11:29:36 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -72,13 +72,6 @@
       <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Rekordowa liczba młodych tenisistów na Kozica Cup w Piotrkowie Trybunalskim</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rekordowa-liczba-mlodych-tenisistow-na-kozica-cup-w-piotrkowie-trybunalskim-r4290</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">fbb9f84d573d09513aae86a12193379fb3b7fc2e0feb063a5099cb747d639ba6</guid>
-      <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Kolejny etap prac remontowych na ul. Krótkiej</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/kolejny-etap-prac-remontowych-na-ul.-krotkiej-r4296</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">942aa611fdc47532333e7e266154fa42e022bb3a4b3218726ad1b08c697e38f4</guid>
       <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Za nami świetny piknik średniowieczny przy Zamku Królewskim w Piotrkowie</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/za-nami-swietny-piknik-sredniowieczny-przy-zamku-krolewskim-w-piotrkowie-r4302</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">a97ec17b6b7729d909029b8ba4d9f9f57575bae4ddb0aacccccc18279841a25d</guid>
+      <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
