@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 14 Jul 2026 11:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 14:14:40 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kolejny miejski Orlik zostanie wyremontowany</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/kolejny-miejski-orlik-zostanie-wyremontowany-r4279</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">d61f331a81366e955c2ed7058f38f70beb02618759111df69bf9cdb217a61a1b</guid>
-      <pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nadzwyczajna sesja Rady Miasta</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">d8b769322b757b3b2dbdaa7b067238460251bea22e8f8e152a89ec9d68e0040a</guid>
       <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bajkowe teatrzyki w miejskim amfiteatrze</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/bajkowe-teatrzyki-w-miejskim-amfiteatrze-r4306</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">7d64824e58e391e04c117f7ccfb3433f03547b1a6f1c3ace60821ba6b3127f93</guid>
+      <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
