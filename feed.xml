@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 15 Jul 2026 17:39:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 19:37:25 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cykl spotkań z Radą Osiedla Belzacka</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/cykl-spotkan-z-rada-osiedla-belzacka-r4289</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">f7d83b76ed6499667a3fdc36076e86ec212ce9ba907d5cd7dd6046957cc1eee5</guid>
-      <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Uroczyste czepkowanie pielęgniarek w Akademii Piotrkowskiej</title>
@@ -83,6 +76,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/informacja-dla-osob-ubiegajacych-sie-o-lokal-z-mieszkaniowego-zasobu-miasta-piotrkowa-trybunalskiego-r4309</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3ab4d2098c29934a047bc44e7c4e3d6b175eb2722ea5c2ccb6bb51ebf2915d1b</guid>
+      <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lodowisko przy ulicy Żwirki rośnie w oczach</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/lodowisko-przy-ulicy-zwirki-rosnie-w-oczach-r4310</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">c88ec37a20e172d058c11b69b0461d2db2f60ba75787a0fc91d87225f18ecc91</guid>
       <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
