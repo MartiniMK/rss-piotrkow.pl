@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 15 Jul 2026 10:15:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 11:52:19 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,20 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nadzwyczajna sesja Rady Miasta</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nadzwyczajna-sesja-rady-miasta-r4281</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">391e90217e4e06f1a68f0b1713df03a44bb0825bdf31754ab48929dd63166f9f</guid>
-      <pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nie tylko my odczuwamy upały. Zwierzęta także potrzebują naszej pomocy</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nie-tylko-my-odczuwamy-upaly.-zwierzeta-takze-potrzebuja-naszej-pomocy-r4285</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">aab22e534e75e2cad05ccd853a22e1beaa6ebd9d82a7e86adbac2a069e81d753</guid>
-      <pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Cykl spotkań z Radą Osiedla Belzacka</title>
@@ -91,6 +77,20 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">7d64824e58e391e04c117f7ccfb3433f03547b1a6f1c3ace60821ba6b3127f93</guid>
       <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prace na przejeździe kolejowo-drogowym przy ul. Roosevelta</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/prace-na-przejezdzie-kolejowo-drogowym-przy-ul.-roosevelta-r4308</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">dd857d02f291b8ddee7bb726c0af4a6f929ab14428d9f3a2cd64745f09e02497</guid>
+      <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Informacja dla osób ubiegających się o lokal z mieszkaniowego zasobu Miasta Piotrkowa Trybunalskiego</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/informacja-dla-osob-ubiegajacych-sie-o-lokal-z-mieszkaniowego-zasobu-miasta-piotrkowa-trybunalskiego-r4309</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">3ab4d2098c29934a047bc44e7c4e3d6b175eb2722ea5c2ccb6bb51ebf2915d1b</guid>
+      <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
