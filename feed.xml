@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 17 Jul 2026 06:28:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 10:11:54 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,34 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kolejny etap prac remontowych na ul. Krótkiej</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/kolejny-etap-prac-remontowych-na-ul.-krotkiej-r4296</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">216f0eb95c389ef7655a8c0338624c956e252598c364924833e10841d502847a</guid>
-      <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Za nami rodzinny piknik w Domu Pomocy Społecznej</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/za-nami-rodzinny-piknik-w-domu-pomocy-spolecznej-r4297</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">942aa611fdc47532333e7e266154fa42e022bb3a4b3218726ad1b08c697e38f4</guid>
-      <pubDate>Fri, 10 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Uwaga, zmiana organizacji ruchu na ulicy Kwiatowej!</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/uwaga-zmiana-organizacji-ruchu-na-ulicy-kwiatowej-r4304</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">d8b769322b757b3b2dbdaa7b067238460251bea22e8f8e152a89ec9d68e0040a</guid>
-      <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prace na przejeździe kolejowo-drogowym przy ul. Roosevelta</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/prace-na-przejezdzie-kolejowo-drogowym-przy-ul.-roosevelta-r4308</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">dd857d02f291b8ddee7bb726c0af4a6f929ab14428d9f3a2cd64745f09e02497</guid>
-      <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Informacja dla osób ubiegających się o lokal z mieszkaniowego zasobu Miasta Piotrkowa Trybunalskiego</title>
@@ -86,11 +58,39 @@
       <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>620 nowych szafek i remont szkolnej szatni w SP 16</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/620-nowych-szafek-i-remont-szkolnej-szatni-w-sp-16-r4316</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">64018e61de7db9825fc4b5b5cb7ea2bce355050dd72a062fd0bc20ff555bbe40</guid>
+      <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Ponad 4 mln zł dotacji dla dwóch piotrkowskich szkół</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/ponad-4-mln-zl-dotacji-dla-dwoch-piotrkowskich-szkol-r4318</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">ab167e15ce4c67dddb84dd9bc336135626c9aed4f20bfcc9ece088927b0b9758</guid>
       <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Poprawiamy komfort pieszych i rowerzystów na ul. Łódzkiej</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/poprawiamy-komfort-pieszych-i-rowerzystow-na-ul.-lodzkiej-r4319</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">f4f66260d81d9f43de7652beafc61d5dee509c151a99dd6d424f964c46b43ba9</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Alarm 2026 – ogólnopolskie ćwiczenia już we wtorek, 21 lipca</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/alarm-2026-ogolnopolskie-cwiczenia-juz-we-wtorek-21-lipca-r4320</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">351829ff35e7d03374f8ca9929adc572d4d59e65b38ba3e035bc206fe5808313</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wakacje z Wojskiem 3 – ostatnia szansa na udział w wakacyjnym szkoleniu</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wakacje-z-wojskiem-3-ostatnia-szansa-na-udzial-w-wakacyjnym-szkoleniu-r4321</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">4a69d86b53dab582214c1d6c64cff099bfb0014cde5f25a28e95568ca5c050a6</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
