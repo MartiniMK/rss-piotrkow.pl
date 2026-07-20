@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 20 Jul 2026 07:31:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 11:14:18 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,20 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lodowisko przy ulicy Żwirki rośnie w oczach</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/lodowisko-przy-ulicy-zwirki-rosnie-w-oczach-r4310</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">c88ec37a20e172d058c11b69b0461d2db2f60ba75787a0fc91d87225f18ecc91</guid>
-      <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ruszyły zapisy na bezpłatne warsztaty ochrony ludności</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/ruszyly-zapisy-na-bezplatne-warsztaty-ochrony-ludnosci-r4311</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">40faa3d6ec3ab5c0c7049547248492e4d80ad52501ee20ea6ad7673116e31485</guid>
-      <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Parkiet w Rynku Trybunalskim czeka na roztańczoną publiczność!</title>
@@ -86,10 +72,24 @@
       <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Rusza modernizacja kolejnych miejskich ulic</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rusza-modernizacja-kolejnych-miejskich-ulic-r4327</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">46d763d6a7f169b4584dd83795cad42ccd8a6037e0f6dcb159c81aa3a35370ab</guid>
+      <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Spotkanie z Dowódcą 25. Batalionu Dowodzenia w Tomaszowie Mazowieckim</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/spotkanie-z-dowodca-25.-batalionu-dowodzenia-w-tomaszowie-mazowieckim-r4328</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">bd7acf9bf1ca6c07331826c2c7f9e99537210f77a8e3df88b17f17298831feae</guid>
+      <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pierwsza Piotrkowska potańcówka w tym roku za nami</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/pierwsza-piotrkowska-potancowka-w-tym-roku-za-nami-r4329</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">c4053ee9eca74370e8f41230bc21e1da5923a074c0c6e7e417cb2d096c6e9668</guid>
       <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
