@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 20 Jul 2026 04:05:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 07:31:23 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Informacja dla osób ubiegających się o lokal z mieszkaniowego zasobu Miasta Piotrkowa Trybunalskiego</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/informacja-dla-osob-ubiegajacych-sie-o-lokal-z-mieszkaniowego-zasobu-miasta-piotrkowa-trybunalskiego-r4309</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">3ab4d2098c29934a047bc44e7c4e3d6b175eb2722ea5c2ccb6bb51ebf2915d1b</guid>
-      <pubDate>Wed, 15 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Lodowisko przy ulicy Żwirki rośnie w oczach</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4a69d86b53dab582214c1d6c64cff099bfb0014cde5f25a28e95568ca5c050a6</guid>
       <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spotkanie z Dowódcą 25. Batalionu Dowodzenia w Tomaszowie Mazowieckim</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/spotkanie-z-dowodca-25.-batalionu-dowodzenia-w-tomaszowie-mazowieckim-r4328</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">bd7acf9bf1ca6c07331826c2c7f9e99537210f77a8e3df88b17f17298831feae</guid>
+      <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
