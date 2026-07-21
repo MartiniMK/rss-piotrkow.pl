@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 21 Jul 2026 06:42:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:33:57 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,20 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ponad 4 mln zł dotacji dla dwóch piotrkowskich szkół</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/ponad-4-mln-zl-dotacji-dla-dwoch-piotrkowskich-szkol-r4318</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">ab167e15ce4c67dddb84dd9bc336135626c9aed4f20bfcc9ece088927b0b9758</guid>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Poprawiamy komfort pieszych i rowerzystów na ul. Łódzkiej</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/poprawiamy-komfort-pieszych-i-rowerzystow-na-ul.-lodzkiej-r4319</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">f4f66260d81d9f43de7652beafc61d5dee509c151a99dd6d424f964c46b43ba9</guid>
-      <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Alarm 2026 – ogólnopolskie ćwiczenia już we wtorek, 21 lipca</title>
@@ -91,6 +77,20 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">c32821327bdafda4fd41682b2b0095de0937410268d16cffe53370808f248f3d</guid>
       <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nowa Państwowa Powiatowa Inspektor Sanitarna w Piotrkowie Trybunalskim spotkała się z władzami miasta</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nowa-panstwowa-powiatowa-inspektor-sanitarna-w-piotrkowie-trybunalskim-spotkala-sie-z-wladzami-miasta-r4338</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">038b9b3a5249efcdff3b074af47fd3872ad997b08f95ccda4d41a37b97fa5128</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lato w mieście. Sprawdź, co dzieje się w Piotrkowie!</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/lato-w-miescie.-sprawdz-co-dzieje-sie-w-piotrkowie-r4339</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">5f6d2be86a1de76fccd57786a40c1ecb27832cc0c6b6e7fcace129ae63268447</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
