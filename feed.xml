@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 21 Jul 2026 17:46:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 19:52:11 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wakacje z Wojskiem 3 – ostatnia szansa na udział w wakacyjnym szkoleniu</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wakacje-z-wojskiem-3-ostatnia-szansa-na-udzial-w-wakacyjnym-szkoleniu-r4321</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">4a69d86b53dab582214c1d6c64cff099bfb0014cde5f25a28e95568ca5c050a6</guid>
-      <pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Rusza modernizacja kolejnych miejskich ulic</title>
@@ -90,6 +83,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/lato-w-miescie.-sprawdz-co-dzieje-sie-w-piotrkowie-r4339</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">5f6d2be86a1de76fccd57786a40c1ecb27832cc0c6b6e7fcace129ae63268447</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Za nami Kozica Cup 2026 – oto najlepsi młodzi tenisiści!</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/za-nami-kozica-cup-2026-oto-najlepsi-mlodzi-tenisisci-r4340</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">0cbd177a964c1d9c464a3ddb7769e0d93f5f24ed096300dcbc6fda4b82733ce6</guid>
       <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
