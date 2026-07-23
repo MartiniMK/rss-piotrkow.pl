@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 23 Jul 2026 06:40:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 10:35:09 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,20 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rusza modernizacja kolejnych miejskich ulic</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rusza-modernizacja-kolejnych-miejskich-ulic-r4327</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">46d763d6a7f169b4584dd83795cad42ccd8a6037e0f6dcb159c81aa3a35370ab</guid>
-      <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spotkanie z Dowódcą 25. Batalionu Dowodzenia w Tomaszowie Mazowieckim</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/spotkanie-z-dowodca-25.-batalionu-dowodzenia-w-tomaszowie-mazowieckim-r4328</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">bd7acf9bf1ca6c07331826c2c7f9e99537210f77a8e3df88b17f17298831feae</guid>
-      <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pierwsza Piotrkowska potańcówka w tym roku za nami</title>
@@ -91,6 +77,20 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">0cbd177a964c1d9c464a3ddb7769e0d93f5f24ed096300dcbc6fda4b82733ce6</guid>
       <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zabytkowa kamienica w trakcie modernizacji</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zabytkowa-kamienica-w-trakcie-modernizacji-r4345</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">1f9de37e733964d6f5d5a38465fd33bb5e21cc1155492aded398f9b81805e1a2</guid>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bezpłatne zajęcia dla seniorów – rusza Aktywny Senior</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/bezplatne-zajecia-dla-seniorow-rusza-aktywny-senior-r4347</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">2474b713e71d29e3533475f80c8fd1d809590173bc59accb60e1511f0b29ad60</guid>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
