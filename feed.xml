@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 27 Jul 2026 15:15:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 17:56:05 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kolejne Jubileusze Małżeńskie w naszym mieście</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/kolejne-jubileusze-malzenskie-w-naszym-miescie-r4332</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">b53f4a67511599b77efed296f38eb756eddf6cd864962cd5235f70c44b72c927</guid>
-      <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Do 24 lipca zamknięty przejazd kolejowy na ul. Słowackiego</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">8902ca560be768d06c44b058040c7ba2787e9576bbef6d0dc3010c800f20cb9b</guid>
       <pubDate>Fri, 24 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trwają zaawansowane prace na ul. Kwiatowej</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/trwaja-zaawansowane-prace-na-ul.-kwiatowej-r4359</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">abb2abc5cd00bbe2ea286450b8eed456b1166b5516feabe73382ddc0eebcf3f3</guid>
+      <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Spacer, piknik, nowa ławeczka i Dzień Przyjaźni</title>
