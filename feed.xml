@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 28 Jul 2026 10:45:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 14:39:07 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Do 24 lipca zamknięty przejazd kolejowy na ul. Słowackiego</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/do-24-lipca-zamkniety-przejazd-kolejowy-na-ul.-slowackiego-r4334</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">c32821327bdafda4fd41682b2b0095de0937410268d16cffe53370808f248f3d</guid>
-      <pubDate>Mon, 20 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Wyremontowaliśmy chodnik przy ul. Wojska Polskiego</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">abb2abc5cd00bbe2ea286450b8eed456b1166b5516feabe73382ddc0eebcf3f3</guid>
       <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Otwarcie ul. Wolborskiej i Rakowskiej po remoncie – MZK wrócą na stałe trasy</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/otwarcie-ul.-wolborskiej-i-rakowskiej-po-remoncie-mzk-wroca-na-stale-trasy-r4353</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">06ee50e1e2cf2db2388fc5bd0c73cee3b5e22322297b4409e507a89119c14ebd</guid>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Miasto sprzedaje kolejne działki. We wrześniu odbędą się przetargi na nieruchomości</title>
