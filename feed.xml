@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 29 Jul 2026 10:48:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 14:32:10 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wyremontowaliśmy chodnik przy ul. Wojska Polskiego</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wyremontowalismy-chodnik-przy-ul.-wojska-polskiego-r4109</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">2e5dcd98d60330eec7cafee941129df98b860330e096851658022d3a498c0ff2</guid>
-      <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nowa Państwowa Powiatowa Inspektor Sanitarna w Piotrkowie Trybunalskim spotkała się z władzami miasta</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">bcefe51c9e17446f1385f8203e55fcc14ec52e124ec98502c8c73413fd43c52d</guid>
       <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nowe ronda, ścieżki i chodniki – ulice Wolborska i Rakowska po kompleksowej rozbudowie</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nowe-ronda-sciezki-i-chodniki-ulice-wolborska-i-rakowska-po-kompleksowej-rozbudowie-r4366</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">2352d60617a468a9e8bd7f1a2e1c4243bcea442875cf7d88bd0d6b95a21c04ee</guid>
+      <pubDate>Wed, 29 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
