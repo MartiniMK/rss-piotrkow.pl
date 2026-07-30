@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 30 Jul 2026 10:34:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 14:33:34 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lato w mieście. Sprawdź, co dzieje się w Piotrkowie!</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/lato-w-miescie.-sprawdz-co-dzieje-sie-w-piotrkowie-r4339</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">5f6d2be86a1de76fccd57786a40c1ecb27832cc0c6b6e7fcace129ae63268447</guid>
-      <pubDate>Tue, 21 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Za nami Kozica Cup 2026 – oto najlepsi młodzi tenisiści!</title>
@@ -90,6 +83,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/82.-rocznica-powstania-warszawskiego-r4368</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">2b03bd695a904a973341fcd0a9c7d873c7d1a2566fa99612872ff4901c5a366e</guid>
+      <pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uwaga na upały!</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/uwaga-na-upaly-r4370</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">618a6d08d9977189a1e096866f9561ee7f74dc792dac36985b62e10d9915ef61</guid>
       <pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
