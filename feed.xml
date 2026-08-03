@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 03 Aug 2026 07:48:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 11:45:20 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bezpłatne zajęcia dla seniorów – rusza Aktywny Senior</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/bezplatne-zajecia-dla-seniorow-rusza-aktywny-senior-r4347</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">2474b713e71d29e3533475f80c8fd1d809590173bc59accb60e1511f0b29ad60</guid>
-      <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Konsultacje do planu ogólnego miasta – jak będą wyglądać?</title>
@@ -90,6 +83,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/we-wtorek-pszok-czynny-krocej-r4372</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">5ebff0062f3983b3b06668155e2f2ced20163e1482e02698b8a211a5d4285a74</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dzień Szczekanicy – wspólne święto mieszkańców już 9 sierpnia</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/dzien-szczekanicy-wspolne-swieto-mieszkancow-juz-9-sierpnia-r4375</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">cf512290d88e47c01c88800fec2db63c04945a8898c52807f37c36062b9903e3</guid>
       <pubDate>Mon, 03 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
