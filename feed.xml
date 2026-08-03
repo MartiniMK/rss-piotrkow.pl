@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 03 Aug 2026 11:45:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 15:17:52 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Konsultacje do planu ogólnego miasta – jak będą wyglądać?</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/konsultacje-do-planu-ogolnego-miasta-jak-beda-wygladac-r4350</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">c00edce66255ad38dcab1822805dc74bdbcfb38d0a6afd3ead0a454ffdd47301</guid>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Trwają zaawansowane prace na ul. Kwiatowej</title>
@@ -90,6 +83,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/dzien-szczekanicy-wspolne-swieto-mieszkancow-juz-9-sierpnia-r4375</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">cf512290d88e47c01c88800fec2db63c04945a8898c52807f37c36062b9903e3</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ostrzeżenie III stopnia przed upałem dla Piotrkowa</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/ostrzezenie-iii-stopnia-przed-upalem-dla-piotrkowa-r4376</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">374b5435a62ffe09e1cbf9fd4bfa5a02dd8ec7107f5eabd43b9408ea4f043035</guid>
       <pubDate>Mon, 03 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
