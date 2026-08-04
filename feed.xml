@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 04 Aug 2026 10:57:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 14:40:11 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trwają zaawansowane prace na ul. Kwiatowej</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/trwaja-zaawansowane-prace-na-ul.-kwiatowej-r4359</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">abb2abc5cd00bbe2ea286450b8eed456b1166b5516feabe73382ddc0eebcf3f3</guid>
-      <pubDate>Mon, 27 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Otwarcie ul. Wolborskiej i Rakowskiej po remoncie – MZK wrócą na stałe trasy</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">374b5435a62ffe09e1cbf9fd4bfa5a02dd8ec7107f5eabd43b9408ea4f043035</guid>
       <pubDate>Mon, 03 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Wybraliśmy koncepcję Pomnika Ofiar Rzezi Wołyńskiej</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wybralismy-koncepcje-pomnika-ofiar-rzezi-wolynskiej-r4378</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">d1be470d18e43e1821e88255352bdcd64e3cfdef745eeca78ffb742b5d36d61b</guid>
+      <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
