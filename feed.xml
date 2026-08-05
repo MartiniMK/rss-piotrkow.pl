@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 05 Aug 2026 03:34:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 06:42:45 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Otwarcie ul. Wolborskiej i Rakowskiej po remoncie – MZK wrócą na stałe trasy</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/otwarcie-ul.-wolborskiej-i-rakowskiej-po-remoncie-mzk-wroca-na-stale-trasy-r4353</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">06ee50e1e2cf2db2388fc5bd0c73cee3b5e22322297b4409e507a89119c14ebd</guid>
-      <pubDate>Tue, 28 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Miasto sprzedaje kolejne działki. We wrześniu odbędą się przetargi na nieruchomości</title>
@@ -65,10 +58,10 @@
       <pubDate>Fri, 31 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>We wtorek PSZOK czynny krócej</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/we-wtorek-pszok-czynny-krocej-r4372</link>
+      <title>We wtorek i czwartek PSZOK czynny krócej</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/we-wtorek-i-czwartek-pszok-czynny-krocej-r4372</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">5ebff0062f3983b3b06668155e2f2ced20163e1482e02698b8a211a5d4285a74</guid>
+      <guid isPermaLink="false">68f039eef82e583fd4facf37e8eec79e9d2c97e960a8c6a4ef9642ff6229232e</guid>
       <pubDate>Mon, 03 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">d1be470d18e43e1821e88255352bdcd64e3cfdef745eeca78ffb742b5d36d61b</guid>
       <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upały w Piotrkowie – pamiętaj o zwierzętach!</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/upaly-w-piotrkowie-pamietaj-o-zwierzetach-r4382</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">1abae8e9769bdce6b191238cc0ae7a70e17e15bc62399a609b563f0ad2d480bf</guid>
+      <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
