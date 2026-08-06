@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 06 Aug 2026 03:40:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 06:46:55 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>82. rocznica Powstania Warszawskiego</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/82.-rocznica-powstania-warszawskiego-r4368</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">2b03bd695a904a973341fcd0a9c7d873c7d1a2566fa99612872ff4901c5a366e</guid>
-      <pubDate>Thu, 30 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Uwaga na upały! Aktualizacja</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">0d3318271b1048500e910eed8afe961705eba8ecc93298f3a1b31dfe27684c79</guid>
       <pubDate>Wed, 05 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plastyk na Krakówce — tutaj talent łączy się z maturą i zawodem</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/plastyk-na-krakowce-tutaj-talent-laczy-sie-z-matura-i-zawodem-r4385</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">25aba38557344f8b1b2f6583109486d4302d142aac9d97d948c8940ab8a4342c</guid>
+      <pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
