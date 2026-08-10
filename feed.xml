@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 10 Aug 2026 11:27:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 13:45:42 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZSP nr 6 na Krakówce zmienia się dla uczniów – trwa kompleksowy remont pracowni</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zsp-nr-6-na-krakowce-zmienia-sie-dla-uczniow-trwa-kompleksowy-remont-pracowni-r4367</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">245ce71a346ba20472ae519969e4c5d3f4a25d139293509f28f50f00fce42913</guid>
-      <pubDate>Fri, 31 Jul 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>82. rocznica Powstania Warszawskiego</title>
@@ -90,6 +83,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rekrutacja-do-szkol-srednich.-ktore-szkoly-oferuja-wolne-miejsca-r4386</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">d89b8c90a36c11f61fcef6e44b99005083e50b3fb2e649b5cf0bf04f10117d37</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Święto Wojska Polskiego w Piotrkowie – obchody 15 sierpnia</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/swieto-wojska-polskiego-w-piotrkowie-obchody-15-sierpnia-r4392</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">547c6442f45cd7720be408cb7bb932a836bc3283e06b2b2e2a9d5b4a59eb2293</guid>
       <pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
