@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 11 Aug 2026 11:06:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 13:43:54 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3746ad9d6fda80c6b6a16b7d1c0e03bf076a909855e7f66f71d1959af7f1faa9</guid>
       <pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>82. rocznica Powstania Warszawskiego</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/82.-rocznica-powstania-warszawskiego-r4369</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">762e52c701042b3b6888423186574d498e8760bccaa2bd373ea92454aa7f1942</guid>
-      <pubDate>Sun, 02 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>We wtorek i czwartek PSZOK czynny krócej</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">547c6442f45cd7720be408cb7bb932a836bc3283e06b2b2e2a9d5b4a59eb2293</guid>
       <pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Święto Wojska Polskiego z Muzeum w Piotrkowie – program</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/swieto-wojska-polskiego-z-muzeum-w-piotrkowie-program-r4399</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">9ebb35022a8bfe4fe2ea2ebf005e2fde243e9a634fb224f392b29e2e5ddef284</guid>
+      <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
