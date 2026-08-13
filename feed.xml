@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 13 Aug 2026 09:34:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 11:11:30 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ostrzeżenie III stopnia przed upałem dla Piotrkowa</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/ostrzezenie-iii-stopnia-przed-upalem-dla-piotrkowa-r4376</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">374b5435a62ffe09e1cbf9fd4bfa5a02dd8ec7107f5eabd43b9408ea4f043035</guid>
-      <pubDate>Mon, 03 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Wybraliśmy koncepcję Pomnika Ofiar Rzezi Wołyńskiej</title>
@@ -83,6 +76,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/osir-odnawia-zaplecze-sportowe.-czesc-pomieszczen-nie-byla-remontowana-od-16-lat-r4398</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">d2503c0b2574d5f6b5e4378380648c796b40bc0732f5204c4706c10c5c0c344a</guid>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Piotrków na trasie Literackiego Charytatywnego Rajdu Motocyklowego!</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkow-na-trasie-literackiego-charytatywnego-rajdu-motocyklowego-r4403</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">86b92655ecb1fdcd23a621a110b066f69b5fd7271d1f9cde8f02caf7ed821b50</guid>
       <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
