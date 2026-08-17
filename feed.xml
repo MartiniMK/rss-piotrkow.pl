@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 17 Aug 2026 10:48:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 13:07:13 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -51,13 +51,6 @@
       <pubDate>Thu, 13 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Orlik przy SP 12 po kompleksowej renowacji</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/orlik-przy-sp-12-po-kompleksowej-renowacji-r4407</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">2580a8a2c61566d2cef6459ff1ec0a5e585ebc2b120bc40a68ccb02f23d086ae</guid>
-      <pubDate>Fri, 14 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Zamknięty most w ciągu ulicy Podole</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zamkniety-most-w-ciagu-ulicy-podole-r4408</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
@@ -83,6 +76,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/swieto-wojska-polskiego-w-piotrkowskim-muzeum-r4411</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4411f205db88af53e136ce92bd99e751a4b9e676500a7f8bb229fae272c9dc8c</guid>
+      <pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Piotrkowska młodzież na międzynarodowym obozie Meet Europe 2026</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkowska-mlodziez-na-miedzynarodowym-obozie-meet-europe-2026-r4413</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">875b6be71def5febe2038d240bcaf80be08266ea4da7a8f69e63a171c23bb08c</guid>
       <pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
