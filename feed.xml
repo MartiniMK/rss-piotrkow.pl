@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 18 Aug 2026 07:05:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 08:54:14 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Święto Wojska Polskiego w Piotrkowie – obchody 15 sierpnia</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/swieto-wojska-polskiego-w-piotrkowie-obchody-15-sierpnia-r4392</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">547c6442f45cd7720be408cb7bb932a836bc3283e06b2b2e2a9d5b4a59eb2293</guid>
-      <pubDate>Mon, 10 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Święto Wojska Polskiego z Muzeum w Piotrkowie – program</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">875b6be71def5febe2038d240bcaf80be08266ea4da7a8f69e63a171c23bb08c</guid>
       <pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>II Festyn Rodzinny Rady Osiedla „Centrum”</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/ii-festyn-rodzinny-rady-osiedla-centrum-r4419</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">2d1b7ba3508924f94494f2160bb74f346f4d213d52a69868515f5c33d70c10d2</guid>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
