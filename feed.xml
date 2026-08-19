@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 19 Aug 2026 10:47:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 13:10:29 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -65,13 +65,6 @@
       <pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Święto Wojska Polskiego w piotrkowskim muzeum</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/swieto-wojska-polskiego-w-piotrkowskim-muzeum-r4411</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">4411f205db88af53e136ce92bd99e751a4b9e676500a7f8bb229fae272c9dc8c</guid>
-      <pubDate>Mon, 17 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Piotrkowska młodzież na międzynarodowym obozie Meet Europe 2026</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkowska-mlodziez-na-miedzynarodowym-obozie-meet-europe-2026-r4413</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">2d1b7ba3508924f94494f2160bb74f346f4d213d52a69868515f5c33d70c10d2</guid>
       <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Czasowe ograniczenia na ul. Krótkiej, Kwiatowej i Lelewela. Harmonogram prac PRDM</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/czasowe-ograniczenia-na-ul.-krotkiej-kwiatowej-i-lelewela.-harmonogram-prac-prdm-r4425</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">d58e5b6d5ac0fdb64a98c5c0dd4784e8fbc42bef4e999205e00a99f94338691d</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
