@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 20 Aug 2026 07:07:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 08:57:37 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Święto Wojska Polskiego z Muzeum w Piotrkowie – program</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/swieto-wojska-polskiego-z-muzeum-w-piotrkowie-program-r4399</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">9ebb35022a8bfe4fe2ea2ebf005e2fde243e9a634fb224f392b29e2e5ddef284</guid>
-      <pubDate>Tue, 11 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nowe bloki TBS w Piotrkowie – zamieszka tu 125 rodzin</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">d58e5b6d5ac0fdb64a98c5c0dd4784e8fbc42bef4e999205e00a99f94338691d</guid>
       <pubDate>Wed, 19 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Piotrków Trybunalski wśród beneficjentów ministra sportu i turystyki</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkow-trybunalski-wsrod-beneficjentow-ministra-sportu-i-turystyki-r4427</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">a96d41405e2a6e08eb8271550c2596b6ca6f68ac71d3cf569c81fe5f53253fed</guid>
+      <pubDate>Thu, 20 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
