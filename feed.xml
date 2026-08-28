@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 28 Aug 2026 06:08:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:45:08 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>II Festyn Rodzinny Rady Osiedla „Centrum” zmiana daty</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/ii-festyn-rodzinny-rady-osiedla-centrum-zmiana-daty-r4419</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">f288909852b610b9c6ea74ea8f1fcd535bbeb0e8b3bd6e2fe5a84247beeb13f4</guid>
-      <pubDate>Tue, 18 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Czasowe ograniczenia na ul. Krótkiej, Kwiatowej i Lelewela. Harmonogram prac PRDM</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">08f725f75d5dfe36bef3dc2a3387c4e38adc327783b0ea1a31347fb373991b86</guid>
       <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nauczyciele odebrali awanse</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nauczyciele-odebrali-awanse-r4438</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">87845132a4d290ba8b4295d816f12c5aa568c3144f9097a36872e8b5b00b290c</guid>
+      <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
