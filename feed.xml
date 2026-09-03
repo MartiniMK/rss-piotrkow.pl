@@ -7,34 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 03 Sep 2026 07:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:50:34 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Delegacja w mieście partnerskim Mosonmagayarovar</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/delegacja-w-miescie-partnerskim-mosonmagayarovar-r4443</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">468187f0b60498a96e241096345091323fcff9460f034f5ea7d7616dfc9125b2</guid>
-      <pubDate>Wed, 26 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wizja lokalna z Łódzką Wojewódzką Konserwator Zabytków</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wizja-lokalna-z-lodzka-wojewodzka-konserwator-zabytkow-r4437</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">08f725f75d5dfe36bef3dc2a3387c4e38adc327783b0ea1a31347fb373991b86</guid>
-      <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nauczyciele odebrali awanse</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nauczyciele-odebrali-awanse-r4438</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">87845132a4d290ba8b4295d816f12c5aa568c3144f9097a36872e8b5b00b290c</guid>
-      <pubDate>Fri, 28 Aug 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Na sportowo i z muzyką. Tak zakończyliśmy wakacje</title>
@@ -83,6 +62,27 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/festyn-na-szczekanicy-juz-w-sobote-r4446</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">36a079b05bc3a7843a47ba284cac7529cdc8759f97661a0d4614930b3de0ad68</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jeszcze jeden seans pod chmurką! Biblioteka zaprasza na „Dalej Jazda 2”</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/jeszcze-jeden-seans-pod-chmurka-biblioteka-zaprasza-na-dalej-jazda-2-r4447</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">bdc1c1de7e560861422a510110ce45ddf3bea76d8bad615d4df3163b6bf90b88</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rodzinny Piknik Profilaktyczny „Żyjmy zdrowo i bezpiecznie”</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rodzinny-piknik-profilaktyczny-zyjmy-zdrowo-i-bezpiecznie-r4448</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">f575416607fe7a2e44c9c035ae1463c355f767d7771512145dfb220261625631</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nowy mural przy ul. Oddzielnej. Karlson Boxing Club zaprasza 5 września</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nowy-mural-przy-ul.-oddzielnej.-karlson-boxing-club-zaprasza-5-wrzesnia-r4449</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">b3fb37e4c1b728afcea06ceced6ef11072c0ae02f3252ab37eaf625485930a93</guid>
       <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
