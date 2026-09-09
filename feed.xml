@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 09 Sep 2026 04:52:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:26:42 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Festyn na Szczekanicy już w sobotę</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/festyn-na-szczekanicy-juz-w-sobote-r4446</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">36a079b05bc3a7843a47ba284cac7529cdc8759f97661a0d4614930b3de0ad68</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Jeszcze jeden seans pod chmurką! Biblioteka zaprasza na „Dalej Jazda 2”</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">26c1efc121d0ef2186b8f6de79f867da4b23db91472c0b2527d046b23d511e73</guid>
       <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XIV Powiatowe Młodzieżowe Zawody Sportowo-Pożarnicze już w niedzielę</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/xiv-powiatowe-mlodziezowe-zawody-sportowo-pozarnicze-juz-w-niedziele-r4463</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">47bfcc91138f3949f500a1ff94abe16e1f5533fe564ed2e457ba3b6d99c028ea</guid>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
