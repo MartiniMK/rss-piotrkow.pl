@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 10 Sep 2026 11:23:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:26:17 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rodzinny Piknik Profilaktyczny „Żyjmy zdrowo i bezpiecznie”</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rodzinny-piknik-profilaktyczny-zyjmy-zdrowo-i-bezpiecznie-r4448</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">f575416607fe7a2e44c9c035ae1463c355f767d7771512145dfb220261625631</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nowy mural przy ul. Oddzielnej. Karlson Boxing Club zaprasza 5 września</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">e2b76ae5118723708b1982f07486b0870f011fdf8d004b8bc68569c804723531</guid>
       <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kogeneracja coraz bliżej</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/kogeneracja-coraz-blizej-r4465</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">273c5a847a5c82f14980442cda9ffdf0a5ce9a292fead1f57b1997252e5a0d4a</guid>
+      <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
