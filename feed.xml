@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 11 Sep 2026 04:44:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:25:06 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nowy mural przy ul. Oddzielnej. Karlson Boxing Club zaprasza 5 września</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nowy-mural-przy-ul.-oddzielnej.-karlson-boxing-club-zaprasza-5-wrzesnia-r4449</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">b3fb37e4c1b728afcea06ceced6ef11072c0ae02f3252ab37eaf625485930a93</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Zapraszamy na Rodzinny Piknik Zdrowia i Profilaktyki</title>
@@ -65,10 +58,10 @@
       <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>XIV Powiatowe Młodzieżowe Zawody Sportowo-Pożarnicze już w niedzielę</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/xiv-powiatowe-mlodziezowe-zawody-sportowo-pozarnicze-juz-w-niedziele-r4463</link>
+      <title>Profilaktyka osteoporozy dla seniorów – zapraszamy na badania</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/profilaktyka-osteoporozy-dla-seniorow-zapraszamy-na-badania-r4462</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">47bfcc91138f3949f500a1ff94abe16e1f5533fe564ed2e457ba3b6d99c028ea</guid>
+      <guid isPermaLink="false">fe2557a895e8bfdbebb22fc3daaae2453da53c1beac44b84d44dc85f7f890045</guid>
       <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -83,6 +76,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/kogeneracja-coraz-blizej-r4465</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">273c5a847a5c82f14980442cda9ffdf0a5ce9a292fead1f57b1997252e5a0d4a</guid>
+      <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Terenowe Biuro Rady Osiedla Wyzwolenia</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/terenowe-biuro-rady-osiedla-wyzwolenia-r4467</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">cf2cf42196dc11d6f11b1848dd7700b7887d60fe935b921c18f7c1aead0555aa</guid>
       <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
