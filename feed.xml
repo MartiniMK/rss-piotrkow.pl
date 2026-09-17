@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:42:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:30:27 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Profilaktyka osteoporozy dla seniorów – zapraszamy na badania</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/profilaktyka-osteoporozy-dla-seniorow-zapraszamy-na-badania-r4462</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">fe2557a895e8bfdbebb22fc3daaae2453da53c1beac44b84d44dc85f7f890045</guid>
-      <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Szczekanica zaprasza na konkurs „Jesienny Deser”</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/szczekanica-zaprasza-na-konkurs-jesienny-deser-r4464</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">e2b76ae5118723708b1982f07486b0870f011fdf8d004b8bc68569c804723531</guid>
-      <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Kogeneracja coraz bliżej</title>
@@ -84,6 +70,20 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">cc17abc4425c3db9aaed97b1b70155329ad467bf48758abf4198f934842b4540</guid>
       <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rocznica zbrojnej napaści ZSRR i Dzień Sybiraka</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rocznica-zbrojnej-napasci-zsrr-i-dzien-sybiraka-r4487</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">7cec653ff34250b62328c92a644ee0c2e9a5227edafe0200bc42eb73eca2443a</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Utrudnienia na przejazdach kolejowych w Piotrkowie i powiecie</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/utrudnienia-na-przejazdach-kolejowych-w-piotrkowie-i-powiecie-r4488</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">bd6e500b08d80004f16f26494948ddf6d836da34af575345794c8e9099b9aa93</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
