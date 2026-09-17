@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 17 Sep 2026 13:30:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:16:24 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kogeneracja coraz bliżej</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/kogeneracja-coraz-blizej-r4465</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">273c5a847a5c82f14980442cda9ffdf0a5ce9a292fead1f57b1997252e5a0d4a</guid>
-      <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Terenowe Biuro Rady Osiedla Wyzwolenia</title>
@@ -83,6 +76,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/utrudnienia-na-przejazdach-kolejowych-w-piotrkowie-i-powiecie-r4488</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">bd6e500b08d80004f16f26494948ddf6d836da34af575345794c8e9099b9aa93</guid>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trwa kompleksowa przebudowa Przedszkola Samorządowego nr 19</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/trwa-kompleksowa-przebudowa-przedszkola-samorzadowego-nr-19-r4489</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">5428c8f880054f8fb3f08b56dc2eb1b70a1c0786b49d6bab3f8773265ea57984</guid>
       <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
