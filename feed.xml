@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 18 Sep 2026 07:25:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:59:15 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Terenowe Biuro Rady Osiedla Wyzwolenia</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/terenowe-biuro-rady-osiedla-wyzwolenia-r4467</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">cf2cf42196dc11d6f11b1848dd7700b7887d60fe935b921c18f7c1aead0555aa</guid>
-      <pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zagłosuj na projekty zgłoszone do Budżetu Obywatelskiego 2027</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zaglosuj-na-projekty-zgloszone-do-budzetu-obywatelskiego-2027-r4472</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">a2200c9932cb189eab304072e360e409951a883a6d81a654aa4c11fa256b49bf</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nabór do programu Asystent Osobisty Osoby Niepełnosprawnej 2027</title>
@@ -84,6 +70,20 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">5428c8f880054f8fb3f08b56dc2eb1b70a1c0786b49d6bab3f8773265ea57984</guid>
       <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Dzień bez Samochodu. Skorzystaj z darmowej komunikacji</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/dzien-bez-samochodu.-skorzystaj-z-darmowej-komunikacji-r4492</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">6400d9f6a9064f2d1e5d19b043e899a555d9a5bc85075e5c73aa3b2a6cc03d46</guid>
+      <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Autobusy MZK wracają na ul. Jeziorną</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/autobusy-mzk-wracaja-na-ul.-jeziorna-r4493</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">45b998650d9e151cb9675ac56af86896623c3318813af993211e77c05a72a9b0</guid>
+      <pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
