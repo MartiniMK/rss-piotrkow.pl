@@ -7,27 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 22 Sep 2026 11:42:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 16:59:02 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wierzeje zapraszają na pieczonego ziemniaka</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wierzeje-zapraszaja-na-pieczonego-ziemniaka-r4479</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">a93c668ab545b65989f98beacb84c0afa51b5440250f585c4f53235b23f1ef78</guid>
-      <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Młoda kultura będzie rządzić w Piotrkowie Trybunalskim</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/mloda-kultura-bedzie-rzadzic-w-piotrkowie-trybunalskim-r4480</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">284f6d825579c5e88a3bb5755015dce6b78f27969f9041be40d93e1fda54e48e</guid>
-      <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Miasto zaoszczędzi około 3 mln zł dzięki konsolidacji kredytów</title>
@@ -83,6 +69,20 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/sesja-rady-miasta-piotrkowa-trybunalskiego-porzadek-obrad-r4497</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">327a2bb40501a193e37e7b1ceba9baa905da7f1df16b1c240e3140815e6a181b</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pół wieku miłości i wspólnej historii</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/pol-wieku-milosci-i-wspolnej-historii-r4502</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">41a1bb02fbadcfb74cce38861780377b97b380d0d0bc1dfa437390cc57aa8122</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Łódzkie inspiruje biznes – za nami spotkanie w Mediatece</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/lodzkie-inspiruje-biznes-za-nami-spotkanie-w-mediatece-r4503</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">a8fe330b9b366d8af4baeec59bdac1f07797ac3243f962ace949b27ec66c809e</guid>
       <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
