@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 22 Sep 2026 05:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:42:30 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -35,13 +35,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">661d80b852989e17ada29536ec6bdcf58f6ee078d8afaf3136c4397e20c4d7ee</guid>
       <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Piotrków po raz 25. stolicą performance – przed nami jubileuszowe Interakcje</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkow-po-raz-25.-stolica-performance-przed-nami-jubileuszowe-interakcje-r4476</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">cc17abc4425c3db9aaed97b1b70155329ad467bf48758abf4198f934842b4540</guid>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Rocznica zbrojnej napaści ZSRR i Dzień Sybiraka</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">0c6f60f821836157981cb07b3b76eff38ea9a2ffd77938293af142fd897506cd</guid>
       <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sesja Rady Miasta Piotrkowa Trybunalskiego – porządek obrad</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/sesja-rady-miasta-piotrkowa-trybunalskiego-porzadek-obrad-r4497</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">327a2bb40501a193e37e7b1ceba9baa905da7f1df16b1c240e3140815e6a181b</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
