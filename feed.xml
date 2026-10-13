@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 13 Oct 2026 06:49:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 16:02:02 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Re_Enter Turkey</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/reenter-turkey-r4546</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">8b35dc750f474c284d5a6eddbff6e29fd90274703609ea526b172e9615ac56b4</guid>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Piotrkowianin laureatem prestiżowego konkursu dla młodych naukowców w Europie</title>
@@ -84,6 +77,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">222298717d532f1a57036135119db09d756ada175228d94398100026070abea3</guid>
       <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tu zaczyna się artystyczna droga. Plastyk na Krakówce współtworzy „Ławeczkę”</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/tu-zaczyna-sie-artystyczna-droga.-plastyk-na-krakowce-wspoltworzy-laweczke-r4556</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">95d568580c8baa5ec0d4ffc660cb45e9223c9460cf95f6abb97d1be88d584902</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
