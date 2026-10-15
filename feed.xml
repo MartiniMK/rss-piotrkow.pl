@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 15 Oct 2026 04:44:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:33:33 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -65,13 +65,6 @@
       <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Tu zaczyna się artystyczna droga. Plastyk na Krakówce współtworzy „Ławeczkę”</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/tu-zaczyna-sie-artystyczna-droga.-plastyk-na-krakowce-wspoltworzy-laweczke-r4556</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">95d568580c8baa5ec0d4ffc660cb45e9223c9460cf95f6abb97d1be88d584902</guid>
-      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Przećwiczymy zachowanie w sytuacjach kryzysowych podczas Krajowego Treningu Rodzinnego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/przecwiczymy-zachowanie-w-sytuacjach-kryzysowych-podczas-krajowego-treningu-rodzinnego-r4573</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">10881e03804bfbcc9421fe7df38f186d579d681dce44df5eee1beb047a67efaf</guid>
       <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mieszkania komunalne i socjalne na 2027 rok: wywieszono projekty list. Zobacz, jak złożyć zastrzeżenie</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/mieszkania-komunalne-i-socjalne-na-2027-rok-wywieszono-projekty-list.-zobacz-jak-zlozyc-zastrzezenie-r4578</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">cf8a8c800888543c944079f2c03affd868d66e4b084302be7f55dea187a1c6ff</guid>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
