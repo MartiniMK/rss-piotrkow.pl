@@ -7,20 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 16 Oct 2026 00:25:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 07:12:53 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4334989a183a696bb8819b6149aac09fb6a43c5dcbba383cbf41cca1b4d9bb4d</guid>
       <pubDate>Wed, 05 Apr 2023 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>O modzie i ekologii w Zespole Szkół Ponadpodstawowych nr 6</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/o-modzie-i-ekologii-w-zespole-szkol-ponadpodstawowych-nr-6-r4553</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">0fd8eb6e6f895ed61f969afcd0b10eaa967711ed525fd409af65804b539a2d54</guid>
-      <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Zmiany w MZK. Bilety, hulajnogi i rowery elektryczne pod nowymi zasadami</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">cf8a8c800888543c944079f2c03affd868d66e4b084302be7f55dea187a1c6ff</guid>
       <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prawie milion złotych dla trzech piotrkowskich szkół. Nowe terapie, pracownie i wsparcie dla uczniów</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/prawie-milion-zlotych-dla-trzech-piotrkowskich-szkol.-nowe-terapie-pracownie-i-wsparcie-dla-uczniow-r4580</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">5719ad5fccf2695404a3110ca922b8524041eff816765ec050e15063d7e96c6a</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
