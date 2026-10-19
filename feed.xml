@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 19 Oct 2026 04:44:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 13:22:17 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,20 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">dd68b43cc6fc725c3417660b0b82b7d0858d221ec4f3f1e58eaeaa85d449b1cc</guid>
       <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bezpieczeństwo najważniejszą kwestią – spotkanie w Urzędzie Miasta z dyrektorami szkół i placówek oświatowych</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/bezpieczenstwo-najwazniejsza-kwestia-spotkanie-w-urzedzie-miasta-z-dyrektorami-szkol-i-placowek-oswiatowych-r4563</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">bf93c640fa87a41656fb0c894ca4f5b9e904e55b86af9d3e1043e55b3158e80d</guid>
-      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bezpłatne badania dla seniorów i prelekcja o osteoporozie</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/bezplatne-badania-dla-seniorow-i-prelekcja-o-osteoporozie-r4564</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">222298717d532f1a57036135119db09d756ada175228d94398100026070abea3</guid>
-      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Przećwiczymy zachowanie w sytuacjach kryzysowych podczas Krajowego Treningu Rodzinnego</title>
@@ -91,6 +77,20 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">166073b9dab4d662fa760890e9f619cb19569b73081761fbd557864cb768cb70</guid>
       <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Za nami 19. edycja Policyjnej Akademii Bezpieczeństwa</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/za-nami-19.-edycja-policyjnej-akademii-bezpieczenstwa-r4584</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">42b0468da5ed08eb4b286555cc65898a360211c1a5c93c66aa27191c2934a1ac</guid>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Piotrkowska Elektrociepłownia zabarwi wodę w sieci na zielono</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkowska-elektrocieplownia-zabarwi-wode-w-sieci-na-zielono-r4585</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">754fb0659b5bc886d395695dbd8c35315f01879d44cea138b0a344abc2ebe0a2</guid>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
