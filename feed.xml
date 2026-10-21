@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 21 Oct 2026 07:41:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:50:09 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">dd68b43cc6fc725c3417660b0b82b7d0858d221ec4f3f1e58eaeaa85d449b1cc</guid>
       <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Znamy wyniki Budżetu Obywatelskiego 2027. Oto zwycięskie projekty</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/znamy-wyniki-budzetu-obywatelskiego-2027.-oto-zwycieskie-projekty-r4574</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">6f8fd8eedbf488ec616db58c081f30c97938b7ccbf322a0f514c631820db3127</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Dzień Edukacji Narodowej: prezydent Piotrkowa nagrodził 90 nauczycieli i pracowników szkół</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">40a6f2d9485e0d642c118d41346d00f6cd8c9470906367daf25afbb691925eec</guid>
       <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rozpoczęły się konsultacje z organizacjami pozarządowymi na 2027 rok</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/rozpoczely-sie-konsultacje-z-organizacjami-pozarzadowymi-na-2027-rok-r4592</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">af1ab208a6980f440a76e8c1342c7e73be753359408a7152cb0a1373079dc161</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
