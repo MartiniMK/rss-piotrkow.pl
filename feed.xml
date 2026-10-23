@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 23 Oct 2026 07:34:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:28:42 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">dd68b43cc6fc725c3417660b0b82b7d0858d221ec4f3f1e58eaeaa85d449b1cc</guid>
       <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>48. rocznica wyboru Karola Wojtyły na Papieża</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/48.-rocznica-wyboru-karola-wojtyly-na-papieza-r4583</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">166073b9dab4d662fa760890e9f619cb19569b73081761fbd557864cb768cb70</guid>
-      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Za nami 19. edycja Policyjnej Akademii Bezpieczeństwa</title>
@@ -90,7 +83,14 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/w-piotrkowie-powstalo-specjalistyczne-centrum-wspierania-edukacji-wlaczajacej-r4598</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">a4968098f929d61689cc8502e38923b9130832bbef04c8feaf0ae1453e98e234</guid>
-      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Świętuje szkoła ze 120-letnią tradycją! Jubileusz w szkole rotmistrza Pileckiego</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/swietuje-szkola-ze-120-letnia-tradycja-jubileusz-w-szkole-rotmistrza-pileckiego-r4601</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">a0cacd4599eddc15b8620b8c00e3b5cc15291c954a92edbacb9d4bf0e0d13a67</guid>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
