@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 23 Oct 2026 00:41:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:34:58 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">dd68b43cc6fc725c3417660b0b82b7d0858d221ec4f3f1e58eaeaa85d449b1cc</guid>
       <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prawie milion złotych dla trzech piotrkowskich szkół. Nowe terapie, pracownie i wsparcie dla uczniów</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/prawie-milion-zlotych-dla-trzech-piotrkowskich-szkol.-nowe-terapie-pracownie-i-wsparcie-dla-uczniow-r4580</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">5719ad5fccf2695404a3110ca922b8524041eff816765ec050e15063d7e96c6a</guid>
-      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>48. rocznica wyboru Karola Wojtyły na Papieża</title>
@@ -90,6 +83,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nowe-rondo-na-ulicy-dmowskiego-r4595</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">444354d53b6f6d648e960b9c3ee44f8c3c3d4c1dcbe837d628f7491574c52c98</guid>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>W Piotrkowie powstało Specjalistyczne Centrum Wspierania Edukacji Włączającej</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/w-piotrkowie-powstalo-specjalistyczne-centrum-wspierania-edukacji-wlaczajacej-r4598</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">a4968098f929d61689cc8502e38923b9130832bbef04c8feaf0ae1453e98e234</guid>
       <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
