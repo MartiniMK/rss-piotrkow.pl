@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 26 Oct 2026 07:50:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 15:13:02 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,20 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">dd68b43cc6fc725c3417660b0b82b7d0858d221ec4f3f1e58eaeaa85d449b1cc</guid>
       <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Za nami 19. edycja Policyjnej Akademii Bezpieczeństwa</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/za-nami-19.-edycja-policyjnej-akademii-bezpieczenstwa-r4584</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">42b0468da5ed08eb4b286555cc65898a360211c1a5c93c66aa27191c2934a1ac</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Piotrkowska Elektrociepłownia zabarwi wodę w sieci na zielono</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkowska-elektrocieplownia-zabarwi-wode-w-sieci-na-zielono-r4585</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">754fb0659b5bc886d395695dbd8c35315f01879d44cea138b0a344abc2ebe0a2</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Przerwa w dostępie do usług sieciowych geoportalu</title>
@@ -91,6 +77,20 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">a0cacd4599eddc15b8620b8c00e3b5cc15291c954a92edbacb9d4bf0e0d13a67</guid>
       <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jak pojadą autobusy MZK w czasie Wszystkich Świętych?</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/jak-pojada-autobusy-mzk-w-czasie-wszystkich-swietych-r4605</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">0bae3ff4cab33b2f0c84fb8c4f9f11a71b2a765594f1c70562148a4be592f5da</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sesja Rady Miasta – porządek obrad</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/sesja-rady-miasta-porzadek-obrad-r4607</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">e06934084a90205e5c99ac9636ddd6f070c7bff5b69a72e9185e8cda2c6e7b7e</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
