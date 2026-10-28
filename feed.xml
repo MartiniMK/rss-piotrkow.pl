@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 28 Oct 2026 01:24:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:36:35 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">dd68b43cc6fc725c3417660b0b82b7d0858d221ec4f3f1e58eaeaa85d449b1cc</guid>
       <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Przerwa w dostępie do usług sieciowych geoportalu</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/przerwa-w-dostepie-do-uslug-sieciowych-geoportalu-r4587</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">40a6f2d9485e0d642c118d41346d00f6cd8c9470906367daf25afbb691925eec</guid>
-      <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Piotrkowscy nauczyciele z Nagrodą Łódzkiego Kuratora Oświaty</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">e06934084a90205e5c99ac9636ddd6f070c7bff5b69a72e9185e8cda2c6e7b7e</guid>
       <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>W piątek rusza kwesta na ratowanie zabytkowych nagrobków</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/w-piatek-rusza-kwesta-na-ratowanie-zabytkowych-nagrobkow-r4569</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">4933d4bc0778a3c63b51afdbc9bdcc17c101abc04214140146272fa2315656c0</guid>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
