@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:06:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 19:39:56 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">dd68b43cc6fc725c3417660b0b82b7d0858d221ec4f3f1e58eaeaa85d449b1cc</guid>
       <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wkrótce ruszy rozbudowa ulicy Wschodniej</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/wkrotce-ruszy-rozbudowa-ulicy-wschodniej-r4594</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">a21006ebaf04a3142d4e663dab89382d9e2d4f01148c15619498bcc58334005c</guid>
-      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nowe rondo na ulicy Dmowskiego</title>
@@ -90,6 +83,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nowa-asfaltowa-droga-kolowania-na-piotrkowskim-lotnisku-r4621</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">16659ee332dab8e47f5b9593d1874afa7ca4b85268887f185f1e21be4a08295b</guid>
+      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uroczyste ślubowanie pierwszoklasistów w SP nr 2</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/uroczyste-slubowanie-pierwszoklasistow-w-sp-nr-2-r4622</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">5de4e73985362aee89791bb83e27a11806b55840494db4a90c8fc076f299e356</guid>
       <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
