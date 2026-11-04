@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 04 Nov 2026 12:11:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 19:47:55 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">dd68b43cc6fc725c3417660b0b82b7d0858d221ec4f3f1e58eaeaa85d449b1cc</guid>
       <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>XXXIX sesja Rady Miasta za nami</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/xxxix-sesja-rady-miasta-za-nami-r4623</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">862ba6a557b91cd9dbdd62947c6a771a339c0b16c2e69451ce35910ae6084946</guid>
-      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Nowa asfaltowa droga kołowania na piotrkowskim lotnisku</title>
@@ -83,6 +76,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/obchody-swieta-niepodleglosci-zmiany-dla-kierowcow-i-pasazerow-mzk-r4639</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">42e653b49e58d8efef6e0e0661ea75a2f0511517ca34065c2dcda13180217acf</guid>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grali dla dzieci z piotrkowskiego Domu Dziecka i podarują im ponad 24 tysiące złotych</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/grali-dla-dzieci-z-piotrkowskiego-domu-dziecka-i-podaruja-im-ponad-24-tysiace-zlotych-r4640</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">42edd24aaa1ce98343a02b448efc783850e6c5749ec964138e323c3dd1231c58</guid>
       <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
