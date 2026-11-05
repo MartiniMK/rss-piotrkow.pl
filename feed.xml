@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 05 Nov 2026 00:54:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:31:21 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">dd68b43cc6fc725c3417660b0b82b7d0858d221ec4f3f1e58eaeaa85d449b1cc</guid>
       <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nowa asfaltowa droga kołowania na piotrkowskim lotnisku</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/nowa-asfaltowa-droga-kolowania-na-piotrkowskim-lotnisku-r4621</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">16659ee332dab8e47f5b9593d1874afa7ca4b85268887f185f1e21be4a08295b</guid>
-      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Uroczyste ślubowanie pierwszoklasistów w SP nr 2</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">3a6ff77807e28149eb2f78599b92a2cf6e9a7e22ab0f14ca87f6fff4a3b1d839</guid>
       <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Czasowe zamknięcie skrzyżowania ul. Partyzantów z ul. Kwiatową</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/czasowe-zamkniecie-skrzyzowania-ul.-partyzantow-z-ul.-kwiatowa-r4638</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">1f0efc423389bb4e4834269d59e897c88c320ae261057670e9e0582e8cec0ace</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
