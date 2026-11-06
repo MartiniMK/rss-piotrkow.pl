@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 06 Nov 2026 06:52:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 15:56:44 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">dd68b43cc6fc725c3417660b0b82b7d0858d221ec4f3f1e58eaeaa85d449b1cc</guid>
       <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Uroczyste ślubowanie pierwszoklasistów w SP nr 2</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/uroczyste-slubowanie-pierwszoklasistow-w-sp-nr-2-r4622</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">5de4e73985362aee89791bb83e27a11806b55840494db4a90c8fc076f299e356</guid>
-      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Zmiany w organizacji ruchu przy piotrkowskich cmentarzach</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">1f0efc423389bb4e4834269d59e897c88c320ae261057670e9e0582e8cec0ace</guid>
       <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekend 6-8 listopada w Piotrkowie Trybunalskim pełny atrakcji</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/weekend-6-8-listopada-w-piotrkowie-trybunalskim-pelny-atrakcji-r4645</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">fff4a458f5fced14f43a9baace5035bb70ab0a63b55af4d5f1453cc40007d553</guid>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
