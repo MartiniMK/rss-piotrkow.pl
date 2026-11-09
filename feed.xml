@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 09 Nov 2026 01:44:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:51:07 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -79,18 +79,18 @@
       <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Weekend 6-8 listopada w Piotrkowie Trybunalskim pełny atrakcji</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/weekend-6-8-listopada-w-piotrkowie-trybunalskim-pelny-atrakcji-r4645</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">fff4a458f5fced14f43a9baace5035bb70ab0a63b55af4d5f1453cc40007d553</guid>
-      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Żałoba narodowa</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zaloba-narodowa-r4650</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">32690d563af579467806164ab493f5b726ebcb678dd24342feec4439e8e3ff33</guid>
       <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pół wieku razem</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/pol-wieku-razem-r4652</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">e6e6d543fae09be19b92237ffaea4a563ef2171d7d030e293a3010715d10d931</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
