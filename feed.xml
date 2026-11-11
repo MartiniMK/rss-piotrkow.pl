@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:29:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 17:54:31 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">dd68b43cc6fc725c3417660b0b82b7d0858d221ec4f3f1e58eaeaa85d449b1cc</guid>
       <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Święto Niepodległości w Piotrkowie – program uroczystości</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/swieto-niepodleglosci-w-piotrkowie-program-uroczystosci-r4632</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">f3beac276bea7cfb2469d4af82eec0d8c36477ecc6d1c1b6af45b4149474ef5a</guid>
-      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Obchody Święta Niepodległości – zmiany dla kierowców i pasażerów MZK</title>
@@ -90,6 +83,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/przygotowania-do-obchodow-narodowego-swieta-niepodleglosci.-rozmowy-o-bezpieczenstwie-r4656</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">8bb52da7b854f8db58c38cff67d8ef30e5fd856c9845a83ae9d0dabef5a8c7b1</guid>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Piotrków Trybunalski świętuje 108. rocznicę odzyskania niepodległości</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/piotrkow-trybunalski-swietuje-108.-rocznice-odzyskania-niepodleglosci-r4660</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">d168330de31749c64e049dd7098876926013f3fc34ada778fc9a7bee037208f7</guid>
       <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
