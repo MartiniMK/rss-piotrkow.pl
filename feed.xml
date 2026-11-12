@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 12 Nov 2026 09:52:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:20:28 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,20 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">dd68b43cc6fc725c3417660b0b82b7d0858d221ec4f3f1e58eaeaa85d449b1cc</guid>
       <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Obchody Święta Niepodległości – zmiany dla kierowców i pasażerów MZK</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/obchody-swieta-niepodleglosci-zmiany-dla-kierowcow-i-pasazerow-mzk-r4639</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">42e653b49e58d8efef6e0e0661ea75a2f0511517ca34065c2dcda13180217acf</guid>
-      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grali dla dzieci z piotrkowskiego Domu Dziecka i podarują im ponad 24 tysiące złotych</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/grali-dla-dzieci-z-piotrkowskiego-domu-dziecka-i-podaruja-im-ponad-24-tysiace-zlotych-r4640</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">42edd24aaa1ce98343a02b448efc783850e6c5749ec964138e323c3dd1231c58</guid>
-      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Informacja o planowanych polowaniach zbiorowych</title>
@@ -91,6 +77,20 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">d168330de31749c64e049dd7098876926013f3fc34ada778fc9a7bee037208f7</guid>
       <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jarmark bożonarodzeniowy tuż, tuż – poszukiwani rękodzielnicy i lokalni producenci</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/jarmark-bozonarodzeniowy-tuz-tuz-poszukiwani-rekodzielnicy-i-lokalni-producenci-r4663</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">983cb1aed21f62d7fae0b6e08db8e708b68c4400785757294234958eefbf5875</guid>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uwaga! Nadal niebezpiecznie na przejeździe PKP!</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/uwaga-nadal-niebezpiecznie-na-przejezdzie-pkp-r4667</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">4255297c1e2f604d08cdbbd98b9f8b78bb7744abff61a0fb3a835aae1f64d590</guid>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
