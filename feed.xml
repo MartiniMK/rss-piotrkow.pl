@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 13 Nov 2026 01:06:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:34:36 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">dd68b43cc6fc725c3417660b0b82b7d0858d221ec4f3f1e58eaeaa85d449b1cc</guid>
       <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Informacja o planowanych polowaniach zbiorowych</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/informacja-o-planowanych-polowaniach-zbiorowych-r4641</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">3a6ff77807e28149eb2f78599b92a2cf6e9a7e22ab0f14ca87f6fff4a3b1d839</guid>
-      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Czasowe zamknięcie skrzyżowania ul. Partyzantów z ul. Kwiatową</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">4255297c1e2f604d08cdbbd98b9f8b78bb7744abff61a0fb3a835aae1f64d590</guid>
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Movember w Piotrkowie – zapraszamy na bezpłatną profilaktykę</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/movember-w-piotrkowie-zapraszamy-na-bezplatna-profilaktyke-r4669</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">8796ad38cad6565e875e9d0d931e80abc2060e302901586d29a624a51cdef8d4</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
