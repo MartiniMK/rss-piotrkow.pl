@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:35:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 18:35:27 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,20 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">dd68b43cc6fc725c3417660b0b82b7d0858d221ec4f3f1e58eaeaa85d449b1cc</guid>
       <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Czasowe zamknięcie skrzyżowania ul. Partyzantów z ul. Kwiatową</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/czasowe-zamkniecie-skrzyzowania-ul.-partyzantow-z-ul.-kwiatowa-r4638</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">1f0efc423389bb4e4834269d59e897c88c320ae261057670e9e0582e8cec0ace</guid>
-      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Żałoba narodowa</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/zaloba-narodowa-r4650</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">32690d563af579467806164ab493f5b726ebcb678dd24342feec4439e8e3ff33</guid>
-      <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pół wieku razem</title>
@@ -91,6 +77,20 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">8796ad38cad6565e875e9d0d931e80abc2060e302901586d29a624a51cdef8d4</guid>
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Za nami uroczysta gala finałowa konkursu o Rubinową Hortensję</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/za-nami-uroczysta-gala-finalowa-konkursu-o-rubinowa-hortensje-r4671</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">3656f0d3fb25a636013c8e694c531982f95980147097fdf3417f2e9b8206a8ce</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blisko 2 mln zł na nowoczesne laboratoria AI i STEM</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/blisko-2-mln-zl-na-nowoczesne-laboratoria-ai-i-stem-r4672</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">800d57ca2cbd6b0972cf18d8412bda43dc5257594486aee0784c28c064f47dd8</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
