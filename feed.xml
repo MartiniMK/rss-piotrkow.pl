@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:40:46 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,20 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">dd68b43cc6fc725c3417660b0b82b7d0858d221ec4f3f1e58eaeaa85d449b1cc</guid>
       <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blisko 2 mln zł na nowoczesne laboratoria AI i STEM</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/blisko-2-mln-zl-na-nowoczesne-laboratoria-ai-i-stem-r4672</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">800d57ca2cbd6b0972cf18d8412bda43dc5257594486aee0784c28c064f47dd8</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Przejazd na ul. Rolniczej – PKP naprawiły uszkodzone rogatki</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/przejazd-na-ul.-rolniczej-pkp-naprawily-uszkodzone-rogatki-r4674</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">7c3dcc6061c7f9d49cd85cbc813612bde01a9cf08a8a5e22d1952b505b87dd26</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Uczyli się pierwszej pomocy – za nami turniej Pierwsza Pomoc Przedmedyczna</title>
@@ -79,6 +65,13 @@
       <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Ponad 20 000 użytkowników – Piotrkowska Karta Mieszkańca zyskuje coraz większą popularność</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/ponad-20-000-uzytkownikow-piotrkowska-karta-mieszkanca-zyskuje-coraz-wieksza-popularnosc-r4643</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">0f0e51074feb21a395b4b638c2146eac9b2cfddd3ced7a97842bc26e037ab88e</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Uroczyste ślubowanie pierwszaków w Szkole Podstawowej nr 8</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/uroczyste-slubowanie-pierwszakow-w-szkole-podstawowej-nr-8-r4684</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
@@ -90,6 +83,13 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/certyfikaty-dla-piotrkowa-za-tworzenie-miejsc-przyjaznych-nie-tylko-dzieciom-r4686</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">f995c81bbafb701315aa5038b2d52cab1f6fb55cccbd1ac0be7768736fe483ed</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jaśniej i bezpieczniej na piotrkowskich ulicach. Miasto doświetla kolejne przejścia dla pieszych</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/jasniej-i-bezpieczniej-na-piotrkowskich-ulicach.-miasto-doswietla-kolejne-przejscia-dla-pieszych-r4689</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">ac3fa535d9f48450a4820dbad2923b206def664efeabf0465a98de328305a36c</guid>
       <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
