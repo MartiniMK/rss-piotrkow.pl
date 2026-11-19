@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 19 Nov 2026 00:25:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:24:37 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">dd68b43cc6fc725c3417660b0b82b7d0858d221ec4f3f1e58eaeaa85d449b1cc</guid>
       <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Za nami uroczysta gala finałowa konkursu o Rubinową Hortensję</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/za-nami-uroczysta-gala-finalowa-konkursu-o-rubinowa-hortensje-r4671</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">3656f0d3fb25a636013c8e694c531982f95980147097fdf3417f2e9b8206a8ce</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Blisko 2 mln zł na nowoczesne laboratoria AI i STEM</title>
@@ -58,10 +51,10 @@
       <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Awaria sieci ciepłowniczej przy ul. Dmowskiego</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-sieci-cieplowniczej-przy-ul.-dmowskiego-r4678</link>
+      <title>Awaria sieci ciepłowniczej przy ul. Dmowskiego. Aktualizacja</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-sieci-cieplowniczej-przy-ul.-dmowskiego.-aktualizacja-r4678</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">6d6425402d2ed8fb69c939f7d3bac8860ac6510de1a946df373027e78dc201c8</guid>
+      <guid isPermaLink="false">6dbf84f1ef2bf39311427df14aaeb9af54a9f03264515a513bee1e35d556ab51</guid>
       <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -70,13 +63,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">832a9a134588b7641368b6d012c99b059c2ad52ac4ff55b04319c20f6e2046cd</guid>
       <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Świętowaliśmy Światowy Dzień Seniora i Międzynarodowy Dzień Tolerancji</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/swietowalismy-swiatowy-dzien-seniora-i-miedzynarodowy-dzien-tolerancji-r4680</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">3118a81a746f1c3a50bb8c04575740166bd78e515a1ad7a3b55db60b44660158</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Prawie 1,2 mln zł na remont budynków komunalnych przy ul. Cisowej</title>
@@ -91,6 +77,20 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">12a1548df1afb2fbd138042e85a492e64ea16b3a3e8404b1d68940e8e6f39218</guid>
       <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uroczyste ślubowanie pierwszaków w Szkole Podstawowej nr 8</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/uroczyste-slubowanie-pierwszakow-w-szkole-podstawowej-nr-8-r4684</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">2d3f2ac49341cd2479c09b1b4661c4f9c35ae8ff9c3e7901b7fbe69f396718af</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Certyfikaty dla Piotrkowa za tworzenie miejsc przyjaznych nie tylko dzieciom</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/certyfikaty-dla-piotrkowa-za-tworzenie-miejsc-przyjaznych-nie-tylko-dzieciom-r4686</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">f995c81bbafb701315aa5038b2d52cab1f6fb55cccbd1ac0be7768736fe483ed</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
