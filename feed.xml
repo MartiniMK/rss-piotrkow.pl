@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 23 Nov 2026 07:43:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 20:16:16 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -23,13 +23,6 @@
       <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Awaria sieci ciepłowniczej przy ul. Dmowskiego. Aktualizacja</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-sieci-cieplowniczej-przy-ul.-dmowskiego.-aktualizacja-r4678</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">6dbf84f1ef2bf39311427df14aaeb9af54a9f03264515a513bee1e35d556ab51</guid>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Młodzieżowa Rada Miasta ma nowych radnych</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/mlodziezowa-rada-miasta-ma-nowych-radnych-r4679</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
@@ -41,13 +34,6 @@
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/prawie-12-mln-zl-na-remont-budynkow-komunalnych-przy-ul.-cisowej-r4682</link>
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">8fd0beb7ed969f81c585430ec7dcb9cce0ad8cd6ecc284e71dc6c8c9aca958ce</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Marka Regionalna „Najlepsze z Łódzkiego" - zagłosuj na najlepszą markę!</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/marka-regionalna-najlepsze-z-lodzkiego-zaglosuj-na-najlepsza-marke-r4683</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">12a1548df1afb2fbd138042e85a492e64ea16b3a3e8404b1d68940e8e6f39218</guid>
       <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
@@ -91,6 +77,20 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">5a894ea1932c89f73b9ef5165899cd99e5b1435958a4677e1c7fbf03109b20c5</guid>
       <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Za nami wyjątkowe jubileusze z muzyką w roli głównej!</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/za-nami-wyjatkowe-jubileusze-z-muzyka-w-roli-glownej-r4698</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">3574196a68d8e460473aae4fb66056efeae2f5fdca2ff727b32eeb84dfc0bb18</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mieszkańcy czekali na to latami. Bugaj zmieni się nie do poznania</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/mieszkancy-czekali-na-to-latami.-bugaj-zmieni-sie-nie-do-poznania-r4700</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">43ba8564082624872470cf2f861396befe2900ed09a0357e58d83d51d39ddbd6</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
