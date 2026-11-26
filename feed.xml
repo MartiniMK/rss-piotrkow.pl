@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>GitHub Actions + Python (feedgen)</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 26 Nov 2026 00:23:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 10:56:58 +0000</lastBuildDate>
     <item>
       <title>Awaria portalu miejskiego</title>
       <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/awaria-portalu-miejskiego-r335</link>
@@ -21,13 +21,6 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">dd68b43cc6fc725c3417660b0b82b7d0858d221ec4f3f1e58eaeaa85d449b1cc</guid>
       <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prawie 1,2 mln zł na remont budynków komunalnych przy ul. Cisowej</title>
-      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/prawie-12-mln-zl-na-remont-budynkow-komunalnych-przy-ul.-cisowej-r4682</link>
-      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
-      <guid isPermaLink="false">8fd0beb7ed969f81c585430ec7dcb9cce0ad8cd6ecc284e71dc6c8c9aca958ce</guid>
-      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Ponad 20 000 użytkowników – Piotrkowska Karta Mieszkańca zyskuje coraz większą popularność</title>
@@ -91,6 +84,13 @@
       <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
       <guid isPermaLink="false">9e73f0ff9a886d5d7a8e105855f0a2710b28c5b86d141df1a70c4e6ae33649a0</guid>
       <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>XL sesja Rady Miasta Piotrkowa Trybunalskiego</title>
+      <link>https://www.piotrkow.pl/nasze-miasto-t70/aktualnosci-a75/xl-sesja-rady-miasta-piotrkowa-trybunalskiego-r4703</link>
+      <description>PIOTRKÓW TRYBUNALSKI - bogata historia, atrakcyjne położenie w centrum Polski, tereny inwestycyjne, ciekawa architektura, miasto wielu kultur, atrakcje turystyczne, kulturalne, sportowe. Ponad 800 lat istnienia.</description>
+      <guid isPermaLink="false">3a3d90dc953f712d6e3fcc5b9a5d121e3fb3daab0241119adb29259b10245d74</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
